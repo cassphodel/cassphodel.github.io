@@ -5650,9 +5650,8 @@ hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "07e02911dfe7200fe09eae8b8ed448e122454cacccbf67e59a3036684a1dec26"
-metafile = true
+file = "mods/geckolib-fabric-1.18.2-3.0.35.jar"
+hash = "b55f8e9df29dab7e5fdebdbfb601d82a4605180b1ed89cfa3939cfe682bda8c9"
 
 [[files]]
 file = "mods/hookshot.pw.toml"
