@@ -1,0 +1,13 @@
+name = "Draylar's Battle Towers"
+filename = "battletowers-3.3.4-1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b450433077cbe75cdfbb2fd2c8fe26f8ea0d5878"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3248247
+project-id = 315386

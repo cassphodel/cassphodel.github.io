@@ -1,0 +1,13 @@
+{ 
+	"newAttributesValues": true,
+	"reachAttribute": true,
+	"swordSweepingEdge": true,
+	"shieldReduceArc": true,
+	"shieldEnchantable": true,
+	"shieldThorns": true,
+	"shieldCooldown": true,
+	"axeCooldown": true,
+	"bowLessPower": true,
+	"bowPowerExclusive": false,
+	"crossbowMultishotInclusive": true
+}

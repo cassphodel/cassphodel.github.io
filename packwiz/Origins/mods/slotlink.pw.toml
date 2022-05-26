@@ -1,0 +1,13 @@
+name = "slotlink"
+filename = "slotlink-2.4.3+1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83a5a8af5df251fdf08ebff1d72e3aa2e5aa26dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3472612
+project-id = 391014

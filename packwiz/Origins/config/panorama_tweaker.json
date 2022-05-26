@@ -1,0 +1,8 @@
+{
+  "rotationSpeed": 1.0,
+  "startingHorizontalAngle": 0.0,
+  "verticalAngle": -25.0,
+  "swayAngle": 5.0,
+  "swaySpeed": 1.0,
+  "initialSwayProgress": 0.0
+}

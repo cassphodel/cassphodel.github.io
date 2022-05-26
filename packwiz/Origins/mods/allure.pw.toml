@@ -1,0 +1,13 @@
+name = "Allure"
+filename = "Allure-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "141c803784f742fe72e776a2a6ccd2928bdc042d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3109572
+project-id = 336361

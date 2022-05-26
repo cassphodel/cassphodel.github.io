@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = Main
+  renderorder = foreground
+}
+
+customization {
+  path = Generations/logo.png
+  orientation = mid-centered
+  x = -254
+  width = 165
+  action = addtexture
+  y = -106
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opengui
+  x = -50
+  width = 100
+  action = addbutton
+  y = -10
+  label = Singleplayer
+  value = 
+  height = 20
+}
+

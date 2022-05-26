@@ -1,0 +1,13 @@
+name = "Bits And Chisels"
+filename = "bitsandchisels-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22493f45a7e9ed8fd9c114461543b26371106967"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3326019
+project-id = 420709

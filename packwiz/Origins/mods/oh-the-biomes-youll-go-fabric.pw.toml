@@ -1,0 +1,13 @@
+name = "Oh The Biomes You'll Go Refabricated"
+filename = "byg-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65be459556f63ce68b13cdddc7ac0e0670b67568"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3484192
+project-id = 391378

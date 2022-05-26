@@ -1,0 +1,14 @@
+{ 
+	"eatDrinkCancellable": true,
+	"drinkFaster": true,
+	"stacks": { 
+		"potionStackable": true,
+		"milkBucketStackable": true,
+		"snowBallVeryStackable": true
+	},
+	"eggSnowball": { 
+		"cooldown": true,
+		"knockbackPlayer": true,
+		"shieldStopKnockack": true
+	}
+}

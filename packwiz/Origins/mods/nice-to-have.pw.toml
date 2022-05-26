@@ -1,0 +1,13 @@
+name = "Nice To Have"
+filename = "nice-to-have-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a91a262abeb4b8bd75f78affdac166dbee6ca4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3109798
+project-id = 332704

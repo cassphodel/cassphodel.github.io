@@ -1,0 +1,93 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=400358%
+  width = 200
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 45
+}
+
+customization {
+  identifier = %id=400394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 70
+}
+
+customization {
+  identifier = %id=502394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/Origins/logo.png
+  orientation = top-centered
+  x = -147
+  width = 293
+  action = addtexture
+  y = -44
+  height = 178
+}
+

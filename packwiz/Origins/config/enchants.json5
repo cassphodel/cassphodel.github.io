@@ -1,0 +1,32 @@
+{ 
+	// Damage Level
+	"Damage": 10,
+	// Depth Strider Level
+	"Depth_Strider": 5,
+	// Efficiency Level
+	"Efficiency": 6,
+	// Fortune Level
+	"Fortune": 6,
+	// Knockback Level
+	"Knockback": 4,
+	// Lure Level
+	"Lure": 4,
+	// Piercing Level
+	"Piercing": 6,
+	// Power level
+	"Power": 6,
+	// Protection Level
+	"Protection": 6,
+	// Punch Level
+	"Punch": 5,
+	// QuickCharge Level
+	"Quick_Charge": 3,
+	// Respiration level
+	"Respiration": 6,
+	// Riptide Level
+	"Riptide": 4,
+	// Thorns Level
+	"Thorns": 4,
+	// Unbreaking Level
+	"Unbreaking": 10
+}
