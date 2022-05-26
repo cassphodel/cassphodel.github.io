@@ -1,0 +1,13 @@
+name = "Chicken's Compat"
+filename = "muchmoremodcompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0f0e077802d3b546fbad8ed6f474c41522bf476"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3419826
+project-id = 513731

@@ -1,0 +1,13 @@
+name = "Bundles Plus"
+filename = "bundlesplus-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6aca45bc1aef9997ccccfb2fcebb41f9bb0ae17e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3499485
+project-id = 454376

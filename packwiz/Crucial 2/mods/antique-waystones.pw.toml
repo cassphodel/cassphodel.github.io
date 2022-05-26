@@ -1,0 +1,13 @@
+name = "Antique Waystones"
+filename = "antiquewaystones-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b649cf34d83e32eccb79e8dd09569f9b99784d9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3398198
+project-id = 438668

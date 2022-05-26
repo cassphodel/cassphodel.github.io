@@ -1,0 +1,13 @@
+name = "ItemZoom Rekindled"
+filename = "itemzoom-1.16.x-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6b3cd3b855b6b40e70da339d58e6b29f6400a67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3164093
+project-id = 435281

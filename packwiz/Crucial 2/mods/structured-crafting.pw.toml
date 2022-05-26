@@ -1,0 +1,13 @@
+name = "Structured Crafting"
+filename = "StructuredCrafting-1.16.4-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d696a06167c251f91e045088d38ef6ace31edd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3151319
+project-id = 233151

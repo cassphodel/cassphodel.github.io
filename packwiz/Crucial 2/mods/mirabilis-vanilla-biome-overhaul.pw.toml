@@ -1,0 +1,13 @@
+name = "Mirabilis: Vanilla & BYG Biome Overhaul"
+filename = "Mirabilis 1.0.5 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "433cab9887e1f41c1243acb36d74b3ad2b3470b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3586560
+project-id = 560808

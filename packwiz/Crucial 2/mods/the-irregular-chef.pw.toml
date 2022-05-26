@@ -1,0 +1,13 @@
+name = "The Irregular Chef! (A Farmer's Delight Add-on)"
+filename = "irregularchef-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40b0a0d8a2d61ab961507d06dbf7ce8b50f18ee4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3411810
+project-id = 498222

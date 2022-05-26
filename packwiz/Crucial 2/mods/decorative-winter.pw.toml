@@ -1,0 +1,13 @@
+name = "Decorative Winter"
+filename = "decorative_winter-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59afc7b0a46570b6a5adaf835517d39c18d778d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3151003
+project-id = 430836

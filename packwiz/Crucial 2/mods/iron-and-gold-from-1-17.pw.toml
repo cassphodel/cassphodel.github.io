@@ -1,0 +1,13 @@
+name = "iron and gold from 1.17"
+filename = "rawironandgoldupdate.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72c045d14af1b329dc2d3038c34de6db759cb26d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3539235
+project-id = 498892

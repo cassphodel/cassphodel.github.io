@@ -1,0 +1,13 @@
+name = "Unnamed Animal Mod (Capybara Only)"
+filename = "unnamedanimalmod-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e42b5ace7e4a022afeb769bf3896968177aafa97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3424488
+project-id = 515089

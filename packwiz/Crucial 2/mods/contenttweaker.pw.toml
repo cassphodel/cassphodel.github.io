@@ -1,0 +1,13 @@
+name = "ContentTweaker"
+filename = "ContentTweaker-1.16-1.0.0.develop.35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98ba16116f580e1fdb879536b055b3f77e6c6c87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3697586
+project-id = 237065
