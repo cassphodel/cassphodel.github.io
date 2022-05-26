@@ -1,0 +1,201 @@
+body {
+    background-image: url('wfo1bg.png');
+    background-size: cover;
+    background-position:bottom;
+    background-attachment: scroll;
+}
+/*HEADER CSS*/
+
+nav button {
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0;
+    background-color: transparent;
+    border: transparent solid;
+    border-bottom: #83a2a0 solid;
+    border-radius: 3px;
+    font-size: large;
+    
+
+}
+
+nav button:hover, nav button:active, .activebutton {
+    background-color: white;
+    border: rgb(209, 209, 209) solid;
+    border-bottom: #83a2a0 solid;
+}
+
+
+
+header img {
+    margin-bottom: auto;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    width: 40vh;
+}
+
+
+/*MODLIST CSS*/
+.mod {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: rgb(240, 238, 238);
+    padding: 1vh;
+    border: #333 solid;
+    margin-bottom: 10px;
+    transition: display 2s;
+}
+#modlist {
+    display: none;
+    transition: display 2s;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 10vh;
+    border-radius: 10px;
+}
+
+.modheader {
+    text-align: center;
+    text-transform: uppercase;
+    
+    border-bottom: #83a2a0 solid;
+    border-radius: 3px;
+    
+
+}
+.modwarning {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*DOWNLOAD BUTTONS*/
+.download {
+    width: 100%;
+}
+/*AUTHORS*/
+.author img {
+    width: 4vh;
+    height: 4vh;
+    display: inline-flex;
+    padding-right: 5px;
+}
+.author {
+    display: flex;
+    height: 4vh;
+    margin: 1vh;
+}
+.author p {
+    margin-top: 4.5px;
+}
+
+
+/*HOME CSS*/
+#home {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 10vh;
+    border-radius: 10px;
+    padding-bottom: 4vh;
+}
+
+#home hr {
+    color:#83a2a0;
+    width: 70%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/*HEROS*/
+#hero {
+    margin: auto;
+    height: 30vh;
+    width: 100vh;
+    object-fit: cover;
+    border-radius: 10px;
+    background-image: url(screenshots/origins.png);
+    background-position: center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 0;
+    flex-wrap: wrap;
+}
+#hero img {
+    width: 30vh;
+    flex-grow: 2;
+    margin-left: 10vh;
+}
+#hero div button {
+    flex-grow: 1;
+    width: 100px;
+    margin-bottom: 1.5vh;
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    border: #701616 solid;
+    padding: 15px;
+    border-color: #5c1414;
+    border: rgb(209, 209, 209) solid;
+
+}
+#hero div button:hover, #hero div button:active {
+    border-color: #5c1414;
+    border-bottom: #440808 solid;
+
+}
+#hero div {
+    flex-direction: column;
+    display: flex;
+    margin-right: 5vh;
+}
+/*LIST OF ORIGINS*/
+#listoforigins {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#listoforigins a {
+    font-size: x-large;
+}
+#apocalypseorigins {
+    display: flex;
+    justify-content: center;
+    
+}
+#apocalypseorigins a {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#home #downloadbutton {
+    text-align: center;
+    width: 20vh;
+
+}
+/*FEATURE SPOTLIGHT*/
+.feature img {
+    width: 80%;
+    margin: 1vh;
+    border-radius: 3px;
+}
+#featurespotlight {
+    width: 80%;
+    margin: auto;
+}
+.feature {
+    display: flex;
+}
+
+
+/*CHANGELOG CSS*/
+#changelog {
+    display: none;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 10vh;
+    border-radius: 10px;
+}

@@ -1,0 +1,72 @@
+header {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 1vh;
+    
+}
+img {
+    object-fit: contain;
+}
+
+header img {
+    margin-bottom: auto;
+    width: 40vh;
+}
+nav button {
+    width: 6vh;
+    height: 6vh;
+    display: none;
+    
+}
+#hero div {
+    flex-direction: row;
+
+    
+}
+#modlist {
+    width: 90%;
+    padding: 2vh;
+    
+}
+#hero div button {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#hero div a {
+    margin-right: 10px;
+}
+#hero {
+    height: 30vh;
+    width: 40vh;
+    
+}
+#listoforigins img {
+    width: 30vh;
+}
+#hero img {
+    display: none;
+}
+#home {
+    width: 90%;
+    margin: auto;
+    padding: 2vh;
+    border-radius: 10px;
+    padding-bottom: 4vh;
+}
+.modcol1 img {
+    width: 15vh;
+
+}
+.mod {
+    flex-direction: column;
+}
+.modcol1 {
+    text-align: center;
+    align-items: center;
+}
+.modcol2 {
+    width: 90%;
+}
+.modcol1 a {
+    width: 100%;
+}
