@@ -1,0 +1,14 @@
+name = "Ellemes' Container Library"
+filename = "ellemes-container-library-1.4.0-beta.1+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.4.0-beta.1+fabric/ellemes-container-library-1.4.0-beta.1%2B1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "c3776fb7b60f1ee33b8d1e3d969e15f9f3589d6f"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "TIhTvPdy"
+version = "zSQzHHl6"

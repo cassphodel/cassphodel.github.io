@@ -1,0 +1,18 @@
+name = "Advancements Enlarger"
+filename = "advancements-enlarger-0.2.4.jar"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "This mod makes the Advancement window larger and easier to scroll through. Disable to restore it to its original appearence."
+
+[download]
+hash-format = "sha1"
+hash = "dd71aa1ea18f2ff81a0604db151bb05be212dc38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3329360
+project-id = 355583

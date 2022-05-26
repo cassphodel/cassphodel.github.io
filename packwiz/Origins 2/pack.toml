@@ -1,0 +1,16 @@
+name = "Wish Fulfillment: Origins 2"
+author = "cassphodel"
+version = "2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bf89bb2ae511e864b0a3c71edec9ad6a5115df176262e8df8b842c96ae580ad2"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18.2", "1.18.1", "1.18"]

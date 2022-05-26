@@ -1,0 +1,13 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-1.18.2-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b19b74111690f1e21c1e752c291fb3b733bc6bb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3760937
+project-id = 469658

@@ -1,0 +1,18 @@
+name = "nogizmo"
+filename = "nogizmo-mc1.18-1.5.jar"
+side = "both"
+
+[option]
+optional = "true"
+default = "true"
+description = "nogizmo disables the 3D crosshair present in F3. Disable if you like having it."
+
+[download]
+hash-format = "sha1"
+hash = "5c09a5a1dea9ec3e1126de61241ab43db176fb4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3542453
+project-id = 397193

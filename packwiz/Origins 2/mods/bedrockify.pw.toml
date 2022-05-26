@@ -1,0 +1,13 @@
+name = "BedrockIfy - Bedrock Features on Java!"
+filename = "bedrockify-1.4.1+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "916bedb4305c4f735bc906937832bd8159ebc926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3679746
+project-id = 403858

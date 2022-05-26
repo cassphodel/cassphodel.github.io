@@ -1,0 +1,13 @@
+name = "On Soul Fire"
+filename = "onsoulfire-1.18-3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea6a5d855b6c96723137f67adf2aace15f02f75d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3782801
+project-id = 394667

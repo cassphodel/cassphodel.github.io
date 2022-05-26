@@ -1,0 +1,13 @@
+name = "Decorative"
+filename = "decorative-4.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "068f7fb001ea391128fdb7c3a567709966b0f1d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3742549
+project-id = 394007

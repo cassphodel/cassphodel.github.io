@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "cassietweaks:charred_planks"
+    },
+    "result": "cassietweaks:charred_pressure_plate",
+    "count": 1
+}

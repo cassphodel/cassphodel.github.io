@@ -1,0 +1,13 @@
+name = "Compliance"
+filename = "Compliance-32x.zip"
+side = "client"
+
+[option]
+optional = "true"
+default = "false"
+description = "Compliance is a remastered version of the classic Faithful Resource Pack."
+
+[download]
+url = "https://www.dropbox.com/s/oyfnv6fhf855v8i/Compliance-32x.zip?dl=1"
+hash-format = "sha256"
+hash = "D5965260503E699AF9357FBEF1CE455C74E0CBB3838067FA6E24AC690F1A54B1"

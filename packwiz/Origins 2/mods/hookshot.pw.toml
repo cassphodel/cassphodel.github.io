@@ -1,0 +1,13 @@
+name = "Hookshot"
+filename = "hookshot-r25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b124e41fc761a21ac49fc663f9ad8d500320754"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3668184
+project-id = 396512

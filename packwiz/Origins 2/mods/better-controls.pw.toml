@@ -1,0 +1,18 @@
+name = "Better Controls"
+filename = "BetterControls-Fabric-1.18+v1.2.3.jar"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Better Controls is a reimagining of Better Sprinting with even more customizability. It features several new keybindings and many configurable options for how sprinting, sneaking, and flying should behave."
+
+[download]
+hash-format = "sha1"
+hash = "98e117aadb9746c7ca4f46dee7f3ff519f32be90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3565372
+project-id = 413259

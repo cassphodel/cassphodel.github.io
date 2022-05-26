@@ -1,0 +1,19 @@
+name = "ClickThrough"
+filename = "clickthrough-1.18.2-fabric0.47.10-0.4.jar"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "ClickThrough allows you to click through signs into chest. Disable if you find that annoying."
+
+[download]
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.18.2-fabric0.47.10-0.4/clickthrough-1.18.2-fabric0.47.10-0.4.jar"
+hash-format = "sha1"
+hash = "82910e1466bd272ff13f792572533128012bc951"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Z5b0cAlD"
+version = "EZAA7MCl"

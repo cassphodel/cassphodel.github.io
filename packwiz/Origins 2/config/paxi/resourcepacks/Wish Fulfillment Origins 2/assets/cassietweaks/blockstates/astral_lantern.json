@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "hanging=true,on_wall=true,facing=north": { "model": "cassietweaks:block/astral_lantern" },
+        "hanging=true,on_wall=true,facing=east": { "model": "cassietweaks:block/astral_lantern",
+            "y": 90 },
+        "hanging=true,on_wall=true,facing=south": { "model": "cassietweaks:block/astral_lantern",
+            "y": 180 },
+        "hanging=true,on_wall=true,facing=west": { "model": "cassietweaks:block/astral_lantern",
+            "y": 270 }
+    }
+}

@@ -1,0 +1,13 @@
+name = "No Phoning Home"
+filename = "stopsnooping-1.18-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51bb0315d81605258fdc99d97360d9d96c93061b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3550308
+project-id = 552486

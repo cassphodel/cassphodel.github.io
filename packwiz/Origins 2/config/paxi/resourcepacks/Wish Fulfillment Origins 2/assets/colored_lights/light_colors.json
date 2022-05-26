@@ -1,0 +1,52 @@
+{
+  "replace": true,
+  "colors": {
+    "redstone_torch": "#ff3333",
+    "charm:redstone_lamp": "#ff3333",
+
+
+    "lava": "#ff7033",
+    "lava_cauldron": "#ff7033",
+    "magma_block": "#ff7033",
+
+    "fire": "#ffe580",
+    "jack_o_lantern": "#ffe580",
+    "campfire": "#ffe580",
+
+    "sea_lantern": "#a3e8ff",
+    "charm:tube_sea_lantern": "#ade1ea",
+    "charm:brain_sea_lantern": "#df78b9",
+    "charm:bubble_sea_lantern": "#a44eae",
+    "charm:fire_sea_lantern": "#d45552",
+    "charm:horn_sea_lantern": "#b0954c",
+	
+	
+	"cassietweaks:umbral_torch": "#8e8fb4",
+	"cassietweaks:umbral_campfire": "#8e8fb4",
+	"cassietweaks:umbral_lantern": "#8e8fb4",
+	"cassietweaks:astral_torch": "#70a6e6",
+	"cassietweaks:astral_campfire": "#70a6e6",
+	"cassietweaks:astral_lantern": "#70a6e6",
+
+	"byg:boric_lantern": "#8df57c",
+	"byg:boric_campfire": "#8df57c",
+	
+	"byg:therium_lantern": "#c5f2eb",
+	"byg:therium_lamp": "#c5f2eb",
+
+    "sculk_sensor": "#33ccff",
+    "soul_campfire": "#33ccff",
+    "soul_lantern": "#33ccff",
+    "soul_torch": "#33ccff",
+    "soul_wall_torch": "#33ccff",
+    "soul_fire": "#33ccff",
+
+    "glow_lichen": "#88ff88",
+
+    "amethyst_cluster": "#b440ff",
+    "large_amethyst_bud": "#b440ff",
+    "medium_amethyst_bud": "#b440ff",
+    "small_amethyst_bud": "#b440ff",
+    "nether_portal": "#b440ff"
+  }
+}

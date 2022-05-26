@@ -1,0 +1,8 @@
+{
+  "dropItems": true,
+  "growthTime": 30,
+  "perItemGrowthTimes": {
+    "byg:indigo_jacaranda_sapling": -1
+  },
+  "growthModifierRegexPatterns": {}
+}
