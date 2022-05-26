@@ -115,7 +115,7 @@ header img {
     width: 100vh;
     object-fit: cover;
     border-radius: 10px;
-    background-image: url(screenshots/origins.png);
+    background-image: url(../screenshots/origins.png);
     background-position: center;
     display: flex;
     justify-content:center;

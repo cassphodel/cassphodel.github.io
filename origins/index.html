@@ -2,16 +2,16 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Wish Fulfillment: Origins 2</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="web.css">
-    <link rel="stylesheet" href="origins2.css">
-    <link rel="stylesheet" href="desktop.css" media="(min-device-width:481px)">
-    <link rel="stylesheet" href="mobile.css" media="(max-device-width: 480px)">
+    <title>Wish Fulfillment: Origins</title>
+    <link rel="icon" type="image/x-icon" href="o1favicon.ico">
+    <link rel="stylesheet" href="../web.css">
+    <link rel="stylesheet" href="origins.css">
+    <link rel="stylesheet" href="../desktop.css" media="(min-device-width:481px)">
+    <link rel="stylesheet" href="../mobile.css" media="(max-device-width: 480px)">
 </head>
 <body>
     <header id="header">
-        <img alt="Wish Fulfillment: Origins 2" src="origins2logo.png">
+        <img alt="Wish Fulfillment: Origins" src="origins1logo.png">
         <nav>
             <button onclick="openhome()" id="homebutton">Home</button>
             <button onclick="openmods()" id="modsbutton">Mod List</button>
@@ -23,18 +23,19 @@
     <main>
         
         <div class="sections" id="home">
-            <div id="hero">
+            <div id="hero" src="../screenshots/origins.png">
+    
             </div>
             <hr>
             <h1>About</h1>
-            <p>Wish Fulfillment: Origins 2 is the sequel to our original Origins pack. The pack's focus is on Fabric's Origins mod, and accompanying the mod is a number of Fabric optimization and Vanilla+ mods like Charm, along with magic-focused mods like Bewitchment and Spectrum. For exploration, the pack includes Oh, The Biomes You'll Go for biome generation. A full mod list is available on this site.</p>
+            <p>Wish Fulfillment: Origins is the first Wish Fulfillment pack running on Fabric. The pack's focus is on Fabric's Origins mod, and accompanying the mod is a number of Fabric optimization and Vanilla+ mods like Charm. For exploration, the pack includes Oh, The Biomes You'll Go for biome generation. A full mod list is available on this site.</p>
             <br>
-            <p>Origins 2 runs on Minecraft 1.18.2 and uses the Fabric mod loader.</p>
+            <p>WF: Origins runs on Minecraft 1.16.5 and uses the Fabric mod loader.</p>
             <hr>
             <h1>Feature Spotlight</h1>
             <div id="featurespotlight">
                 <div class="feature">
-                    <img src="screenshots/bygwood.png">
+                    <img src="../screenshots/bygwood.png">
                     <div>
                         <h3>Building with BYG</h3>
                         <p>New wood from Oh, the Biomes You'll Go let you decorate like never before!</p>
@@ -45,10 +46,10 @@
                         <h3>Fly with Icarus</h3>
                         <p>Wings from the Icarus mod let you soar through the air, without the need for Firework Rockets.</p>
                     </div>
-                    <img src="screenshots/icarus3.png">
+                    <img src="../screenshots/icarus3.png">
                 </div>
                 <div class="feature">
-                    <img src="screenshots/coloredlights.png">
+                    <img src="../screenshots/coloredlights.png">
                     <div>
                         <h3>Colored Lights!</h3>
                         <p>Custom implementation of the Colored Light mod lets you experiment with new colored lights.</p>
@@ -59,10 +60,10 @@
                         <h3>Wall Lanterns</h3>
                         <p>Place both vanilla and modded lanterns on walls to decorate more effectively.</p>
                     </div>
-                    <img src="screenshots/lanterns2.png">
+                    <img src="../screenshots/lanterns2.png">
                 </div>
                 <div class="feature">
-                    <img src="screenshots/hints.png">
+                    <img src="../screenshots/hints.png">
                     <div>
                         <h3>Hints!</h3>
                         <p>While the game is loading, custom BedrockIfy hints will be displayed. Keep an eye out, you might learn something new!</p>
@@ -72,16 +73,8 @@
             <hr>
             <h1>List of Origins</h1>
             <div id="listoforigins">
-                <a target="_blank" href="https://i.imgur.com/617o2yF.png"><img src="images/originslist.png" alt="List of Origins"></a>
-                <a target="_blank" href="https://i.imgur.com/HcQg0vY.png"><img src="images/toomanyoriginslist.png" alt="List of TooManyOrigins"></a>
-                <a target="_blank" href="https://i.imgur.com/6uHH4Xi.png"><img src="images/extraoriginslist.png" alt="List of extra Orgins"></a>
-                <div id="apocalypseorigins">
-                    <a style="color: #36f;" target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/apocalypse-origins">Refractor Origin</a>
-                    <a style="color: #800080;" target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vQtKekFNaqPcevqtCJk-BHJ1aOa3vZEjkTA5BPKAzuhRJpgSMTlM-dzp-xkcU1JjXNr-s76AS2Xo-KF/pub">Hexblade Origin</a>
-                    <a style="color: #930;" target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vQD0B7jTZtZ1i3TdUU4oP8-ZpzRt-fWC4PxWO-zaDDHoRnavoMoX4HDSVEu1grXwIJa9VBP_kNe0rcE/pub">Myconid Origin</a>
-                </div>
-                <a style="color: red;" target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/icarus">Icarae Origin</a>
-
+                <a target="_blank" href="https://i.imgur.com/617o2yF.png"><img src="../images/originslist.png" alt="List of Origins"></a>
+                <a target="_blank" href="https://i.imgur.com/6uHH4Xi.png"><img src="../images/extraoriginslist.png" alt="List of extra Orgins"></a>
             </div>
             <hr>
             <p style="text-align: center">Minecraft is property of Mojang AB and Microsoft. Wish Fulfillment is not affiliated with either Mojang or Microsoft. All mods were made by the respective developers, please support them!</p>
@@ -92,7 +85,7 @@
         <button type="button" class="collapsible">Origins</button>
         <div class="mod">
             <div class="modcol1">
-            <img src="images/originslogo.png" alt="Preview of Origins">
+            <img src="../images/originslogo.png" alt="Preview of Origins">
             <a target="_blank" href="https://modrinth.com/mod/origins"><button class="download">
                 Download from Modrinth
             </button></a>
@@ -112,7 +105,7 @@
         <button type="button" class="collapsible">Extra Origins</button></a>
         <div class="mod">
             <div class="modcol1">
-            <img src="images/extraoriginslogo.png" alt="Preview of extra Orgins">
+            <img src="../images/extraoriginslogo.png" alt="Preview of extra Orgins">
             <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/extra-origins"><button class="download">
                 Download from CurseForge
             </button></a>
@@ -121,46 +114,7 @@
             <a target="_blank" href="https://www.curseforge.com/members/moriyashiine/" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9889c978-207b-45c8-a795-d95df9d00a91-profile_image-300x300.png" alt="MoriyaShiine"><p>MoriyaShiine</p></a>
 
         </div>
-        <button type="button" class="collapsible">Apocalypse Origins</button></a>
-        <div class="mod">
-            <div class="modcol1">
-            <img src="https://media.forgecdn.net/avatars/426/477/637656910005411769.png" alt="Preview of Apocalypse Origins">
-            <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/apocalypse-origins"><button class="download">
-                Download from CurseForge
-            </button></a>
-            </div>
-            <p class="modcol2">This is an Origins (by Apace100) addon, and the purpose of this project is for me to put together and release some unconvential origins that stray from the usual way of playing the game. Once it is complete, it will include the following Origins: Refractor, Hexblade, Myconids, Geneticist. </p>
-            <a target="_blank" href="https://www.curseforge.com/members/jaselumena" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/320df16b-f684-4e0a-be77-12da21039a3f-profile_image-300x300.png" alt="JaselUmena"><p>JaselUmena</p></a>
-
-        </div>
-        <button type="button" class="collapsible">TooManyOrigins</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="images/toomanyoriginslogo.png" alt="Preview of TooManyOrigins">
-            <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/toomanyorigins"><button class="download">
-                Download from CurseForge
-            </button></a>
-            </div>
-            <p class="modcol2">Choose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay. The different Origins all have a different impact on the vanilla gameplay. If you don't like these at all, you can also pick the "Human" origin while playing with friends on a server.</p>
-            <a target="_blank" href="https://www.curseforge.com/members/merchantpug" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/c822209f-2557-4389-8c6a-7c427cbe0b8a-profile_image-300x300.png" alt="MerchantPug"><p>MerchantPug</p></a>
-
-        </div>
         
-        <button type="button" class="collapsible">Origins: Classes</button></a>
-        <div class="mod">
-            <div class="modcol1">
-            <img src="https://media.forgecdn.net/avatars/293/170/637328327681965542.png" alt="Preview of Origin: Classes">
-            <a target="_blank" href="https://modrinth.com/mod/origins-classes"><button class="download">
-                Download from Modrinth
-            </button></a>
-            <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/origins-classes"><button class="download">
-                Download from CurseForge
-            </button></a>
-            </div>
-            <p class="modcol2">In addition to choosing an origin, you now also choose a class. Classes provide smaller benefits than origins, but they come without drawbacks. </p>
-            <a target="_blank" href="https://modrinth.com/user/Apace" class="author"><img src="https://avatars1.githubusercontent.com/u/49096778?v=4" alt="Apace"><p>Apace</p></a>
-
-        </div>
         
         
 
@@ -168,7 +122,7 @@
         <button type="button" class="collapsible">Oh, The Biomes You'll Go</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/byglogo.png" alt="Preview of Oh, The Biomes You'll Go">
+                <img src="../images/byglogo.png" alt="Preview of Oh, The Biomes You'll Go">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -180,39 +134,12 @@
 
 
         <h2 class="modheader">Magic Mods</h2>
-        <button type="button" class="collapsible">Bewitchment</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/attachments/343/440/2021-02-24_23.png" alt="Preview of Bewitchment">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/bewitchment"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <p class="modcol2">Bewitchment offers pacts with powerful demons, the ability to become a vampire or werewolf, brew powerful potions, cast rituals, curse your enemies (or friends), and so much more. To get started, craft the Book of Shadows with a Book and a Mandrake Root, the seeds of which are dropped from grass.</p>
-                <a target="_blank" href="https://www.curseforge.com/members/moriyashiine/" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9889c978-207b-45c8-a795-d95df9d00a91-profile_image-300x300.png" alt="MoriyaShiine"><p>MoriyaShiine</p></a>
-
-            </div>
-        <button type="button" class="collapsible">Spectrum</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/attachments/415/741/banner.png" alt="Preview of Spectrum">
-                <a target="_blank" href="https://modrinth.com/mod/spectrum"><button class="download">
-                    Download from Modrinth
-                </button></a>
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/spectrum"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <p class="modcol2">Spectrum is a story driven, exploration-based magic mod for Fabric focusing on the natural energies that flow in the world, represented in color. It is progression based and tries to not give everything away at first glance. Every step in your journey through the mod will be hinted at via advancements and the ingame manual that you will be gifted.</p>
-                <a target="_blank" href="https://modrinth.com/user/DaFuqs" class="author"><img src="https://avatars1.githubusercontent.com/u/26429514?v=4" alt="DaFuqs"><p>DaFuqs</p></a>
-
-            </div>
         
         <button type="button" class="collapsible">Fabric Waystones</button></a>
         <div class="mod">
             <div class="modcol1">
                 <img src="https://media.forgecdn.net/attachments/372/490/header.png" alt="Logo of Waystones">
-                <img src="images/waystone.png" alt="Preview of Waystones">
+                <img src="../images/waystone.png" alt="Preview of Waystones">
                 <a target="_blank" href="https://modrinth.com/mod/fwaystones"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -230,7 +157,7 @@
         <button type="button" class="collapsible">Croptopia</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/croptopia.png" alt="Logo for Croptopia">
+                <img src="../images/croptopia.png" alt="Logo for Croptopia">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -250,7 +177,7 @@
         <button type="button" class="collapsible">Adorn</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/adornpreview.png" alt="Preview of Adorn">
+                <img src="../images/adornpreview.png" alt="Preview of Adorn">
                 <a target="_blank" href="https://modrinth.com/mod/adorn"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -273,7 +200,7 @@
         <button type="button" class="collapsible">Campanion</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/campanionlogo.png" alt="Preview of Campanion">
+                <img src="../images/campanionlogo.png" alt="Preview of Campanion">
                 <a target="_blank" href="https://modrinth.com/mod/campanion"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -291,7 +218,7 @@
         <button type="button" class="collapsible">Comforts</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/comfortspreview.png" alt="Preview of Comforts">
+                <img src="../images/comfortspreview.png" alt="Preview of Comforts">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/comforts-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -306,7 +233,7 @@
         <button type="button" class="collapsible">Repurposed Structures</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/repurposedstructures.png" alt="Preview of Repurposed Structures">
+                <img src="../images/repurposedstructures.png" alt="Preview of Repurposed Structures">
                 <a target="_blank" href="https://modrinth.com/mod/repurposed-structures-fabric"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -324,7 +251,7 @@
         <button type="button" class="collapsible">Yung's Better Strongholds</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/betterstrongholds.png" alt="Preview of Yung's Better Strongholds">
+                <img src="../images/betterstrongholds.png" alt="Preview of Yung's Better Strongholds">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -337,7 +264,7 @@
         <button type="button" class="collapsible">Yung's Better Mineshafts</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/bettermineshafts.png" alt="Preview of Yung's Better Mineshafts">
+                <img src="../images/bettermineshafts.png" alt="Preview of Yung's Better Mineshafts">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -360,7 +287,7 @@
         <button type="button" class="collapsible">Yung's Better Dungeons</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/betterdungeons.png" alt="Preview of Yung's Better Dungeons">
+                <img src="../images/betterdungeons.png" alt="Preview of Yung's Better Dungeons">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -369,30 +296,6 @@
                 <a target="_blank" href="https://www.curseforge.com/members/yungnickyoung" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/64f43c76-306d-4a71-8a53-d35fe6503393-profile_image-150x150.png" alt="YUNGNICKYOUNG"><p>YUNGNICKYOUNG</p></a>
 
             </div>
-        
-        
-        
-        
-
-
-        <h2 class="modheader">Atmosphere Mods</h2>
-        <button type="button" class="collapsible">Colored Lights</button></a>
-        <div class="mod">
-            <div class="modcol1">
-            <img src="images/coloredlightspreview.png" alt="Preview of Colored Lights">
-            <a target="_blank" href="https://modrinth.com/mod/colored-lights"><button class="download">
-                Download from Modrinth
-            </button></a>
-            <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/colored-lights-fabric/"><button class="download">
-                Download from CurseForge
-            </button></a>
-            </div>
-            <p class="modcol2">A compromise solution to colored lighting in Minecraft by tinting based on area. Normally, computing colored lighting would require excessive memory requirements which makes it unfortunately quite impractical. This mod takes a compromising approach that calculates light colors instead for each chunk corner, and smoothly blends between them within the chunk. Although this solution is not perfect and does have noticeable issues, it achieves the general effect with minimal performance impact. </p>
-            <a target="_blank" href="https://modrinth.com/user/Gegy" class="author"><img src="https://avatars3.githubusercontent.com/u/5172118?v=4" alt="Gegy"><p>Gegy</p></a>
-
-        </div>
-
-        
 
         
         
@@ -401,7 +304,7 @@
         <button type="button" class="collapsible">Consistency+</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/consistencypluslogo.png" alt="Preview of Consitency Plus">
+                <img src="../images/consistencypluslogo.png" alt="Preview of Consitency Plus">
                 <a target="_blank" href="https://modrinth.com/mod/consistencyplus"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -420,7 +323,7 @@
         <button type="button" class="collapsible">Decorative</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/decorativelogo.png" alt="Preview of Decorative">
+                <img src="../images/decorativelogo.png" alt="Preview of Decorative">
                 <a target="_blank" href="https://modrinth.com/mod/decorative"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -436,7 +339,7 @@
         <button type="button" class="collapsible">Ender Christmas</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/enderchristmas.png" alt="Preview of Ender Christmas">
+                <img src="../images/enderchristmas.png" alt="Preview of Ender Christmas">
                 <a target="_blank" href="https://modrinth.com/mod/ender-christmas"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -462,7 +365,7 @@
         <button type="button" class="collapsible">Companion</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/companionlogo.gif" alt="Logo for Companion">
+                <img src="../images/companionlogo.gif" alt="Logo for Companion">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/companion-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -491,7 +394,7 @@
         <button type="button" class="collapsible">Earth2Java</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/earth2javalogo.png" alt="Preview of Earth2Java">
+                <img src="../images/earth2javalogo.png" alt="Preview of Earth2Java">
                 <a target="_blank" href="https://modrinth.com/mod/earth2java"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -565,7 +468,7 @@
         <button type="button" class="collapsible">AdaPaxels</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/adapaxels.png" alt="Crafting Recipe for AdaPaxels">
+                <img src="../images/adapaxels.png" alt="Crafting Recipe for AdaPaxels">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/adapaxels"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -575,67 +478,11 @@
 
             </div>
         
-        <button type="button" class="collapsible">Copper Armour and Tools</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/attachments/393/563/all.png" alt="Preview of Copper Armour and Tools">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/copper-armor-tools-fabric"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <p>Copper Armor & Tools is a mod that adds armor and tools made of vanilla copper. Many players around the world requested more uses for this new ore, for that reason, the goal of this mod is to meet this need.</p>
-                <a target="_blank" href="https://www.curseforge.com/members/same626" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7432d534-c3ba-4f32-90c6-2b23f441e1d3-profile_image-150x150.png" alt="same626"><p>same626</p></a>
-
-            </div>
-        <button type="button" class="collapsible">Hookshot</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/389/26/637581298530188177.png" alt="Logo for Hookshot">
-                <a target="_blank" href="https://modrinth.com/mod/hookshot"><button class="download">
-                    Download from Modrinth
-                </button></a>
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/hookshot"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <div class="modcol2">
-                    <p>Hookshot is a small mod that adds a grappling hook-like tool for the player to use to get around.</p>
-                    <ul>
-                        <li>Default range of 24 blocks</li>
-                        <li>Aquatic Modifier lets the hookshot glide through water</li>
-                        <li>Enderic Modifier teleports instead of pulls</li>
-                        <li>Quick Modifier speeds up the reeling by 50%</li>
-                        <li>Long Modifier doubles the range</li>
-                        <li>Automatic modifier automatically diconnects the hook</li>
-                    </ul></div>
-                <a target="_blank" href="https://modrinth.com/user/Cammie" class="author"><img src="https://avatars1.githubusercontent.com/u/16853086?v=4" alt="Cammie"><p>Cammie</p></a>
-
-            </div>
-        <button type="button" class="collapsible">Impaled</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/378/439/637557500949015170.png" alt="Logo for Impaled">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/impaled"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <div class="modcol2">
-                    <p>A mod that adds new Tridents, Sincere Loyalty (Loyalty IV) and a few tweaks and fixes to all tridents.</p>
-                    <ul>
-                        <li>Pitchfork: for early game, lower durability</li>
-                        <li>Hellfork: Nether variant of the Trident</li>
-                        <li>Elder Trident: an improved trident with homing capalities.</li>
-
-                    </ul>
-                </div>
-                <a target="_blank" href="https://www.curseforge.com/members/doctor4t" class="author"><img src="https://avatars.githubusercontent.com/u/25477005?v=4" alt="doctor4t"><p>doctor4t</p></a>
-
-            </div>
         <h2 class="modheader">Trinket Mods</h2>
         <button type="button" class="collapsible">Trinkets</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/trinkets.png" alt="Preview of Trinkets">
+                <img src="../images/trinkets.png" alt="Preview of Trinkets">
                 <a target="_blank" href="https://modrinth.com/mod/trinkets"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -720,7 +567,7 @@
         <button type="button" class="collapsible">Cammie's Minecart Tweaks</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/minecarttweaks.png" alt="Preview of No Chat Lag">
+                <img src="../images/minecarttweaks.png" alt="Preview of No Chat Lag">
                 <a target="_blank" href="https://modrinth.com/mod/cammies-minecart-tweaks"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -735,7 +582,7 @@
         <button type="button" class="collapsible">Cauldron Dyeing</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/cauldron.jpg" alt="Preview of Cauldron Dyeing">
+                <img src="../images/cauldron.jpg" alt="Preview of Cauldron Dyeing">
                 <a target="_blank" href="https://modrinth.com/mod/cauldron-dyeing"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -902,7 +749,7 @@
         <button type="button" class="collapsible">Roughly Enough Items</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/rei.png" alt="Preview of Roughly Enough Items">
+                <img src="../images/rei.png" alt="Preview of Roughly Enough Items">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -996,7 +843,7 @@
         <button type="button" class="collapsible">FTB Ultimine</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/ultimine.png" alt="Preview of FTB Ultimine">
+                <img src="../images/ultimine.png" alt="Preview of FTB Ultimine">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -1046,7 +893,7 @@
         <button type="button" class="collapsible">Universal Bone Meal</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/universal bone meal.png" alt="Preview of Universal Bone Meal">
+                <img src="../images/universal bone meal.png" alt="Preview of Universal Bone Meal">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -1083,90 +930,90 @@
         <button type="button" class="collapsible">AFK Display</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/afk display.png" alt="Logo for AFK Display">
+                <img src="../images/afk display.png" alt="Logo for AFK Display">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
                 <p class="modcol2">Greys out a player's name that is not moving for 5 minutes.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
         <button type="button" class="collapsible">Custom Nether Portals</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/custom nether portals.png" alt="Logo for Custom Nether Portals">
+                <img src="../images/custom nether portals.png" alt="Logo for Custom Nether Portals">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
                 <p class="modcol2">Ignite nether portals of any shape and size you like, or use crying obsidian in the portal frame if enabled. /function custom_nether_portals:config</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
         <button type="button" class="collapsible">Double Shulker Shells</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/double shulker shells.png" alt="Logo for Double Shulker Shells">
+                <img src="../images/double shulker shells.png" alt="Logo for Double Shulker Shells">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
                 </div>
                 <p class="modcol2">Makes all shulkers drop 2 shells.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
         <button type="button" class="collapsible">Fast Leaf Decay</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/fast leaf decay.png" alt="Logo for Fast Leaf Decay">
+                <img src="../images/fast leaf decay.png" alt="Logo for Fast Leaf Decay">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
                 <p class="modcol2">Leaves decay much faster when trees are mined in survival mode.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
         <button type="button" class="collapsible">More Mob Heads</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/more mob heads.png" alt="Logo for More Mob Heads">
+                <img src="../images/more mob heads.png" alt="Logo for More Mob Heads">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
             <p class="modcol2">Adds a chance to receive a mob head upon killing it.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
         <button type="button" class="collapsible">Nether Portal Coords</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/nether portal coords.png" alt="Logo for Nether Portal Coords">
+                <img src="../images/nether portal coords.png" alt="Logo for Nether Portal Coords">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
                 <p class="modcol2">Adds a trigger that calculates where a nether portal must be placed in the other dimension. Useful for syncing up nether portals.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
@@ -1182,15 +1029,15 @@
         <button type="button" class="collapsible">Player Head Drops</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/player head drops.png" alt="Logo for Player Head Drops">
+                <img src="../images/player head drops.png" alt="Logo for Player Head Drops">
                 <a target="_blank" href="https://vanillatweaks.net/picker/datapacks/"><button class="download">
                     Download from VanillaTweaks
                 </button></a>
             </div>
                 <p class="modcol2">A player will drop their head when killed by another player. The item displays who the killer is.</p>
             <div>
-                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="images/grant.png" alt="Grant"><p>Grant</p></a>
-                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="images/rx.png" alt="rx"><p>rx</p></a>
+                <a target="_blank" href="https://twitter.com/GrantGryczan" class="author"><img src="../images/grant.png" alt="Grant"><p>Grant</p></a>
+                <a target="_blank" href="https://github.com/rx-modules" class="author"><img src="../images/rx.png" alt="rx"><p>rx</p></a>
             </div>
         </div>
         
@@ -1282,8 +1129,8 @@
         <button type="button" class="collapsible">Advancements Enlarger</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/advancementslight.png" alt="Preview of Advancements Enlarger">
-                <img src="images/advancementsdark.png" alt="Preview of Advancements Enlarger">
+                <img src="../images/advancementslight.png" alt="Preview of Advancements Enlarger">
+                <img src="../images/advancementsdark.png" alt="Preview of Advancements Enlarger">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -1296,9 +1143,9 @@
         <button type="button" class="collapsible">AppleSkin</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/appleskin1.gif" alt="Preview of AppleSkin">
-                <img src="images/appleskin2.gif" alt="Preview of AppleSkin">
-                <img src="images/appleskin3.gif" alt="Preview of AppleSkin">
+                <img src="../images/appleskin1.gif" alt="Preview of AppleSkin">
+                <img src="../images/appleskin2.gif" alt="Preview of AppleSkin">
+                <img src="../images/appleskin3.gif" alt="Preview of AppleSkin">
                 <a target="_blank" href="https://modrinth.com/mod/appleskin"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -1455,7 +1302,7 @@
         <button type="button" class="collapsible">Death Log</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/deathlogpreview.png" alt="Preview of DeathLog">
+                <img src="../images/deathlogpreview.png" alt="Preview of DeathLog">
                 <a target="_blank" href="https://modrinth.com/mod/deathlog"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -1545,7 +1392,7 @@
         <button type="button" class="collapsible">Legendary Tooltips</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/legendarytooltipspreview.gif" alt="Preview of Legendary Tooltips">
+                <img src="../images/legendarytooltipspreview.gif" alt="Preview of Legendary Tooltips">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -1571,7 +1418,7 @@
         <button type="button" class="collapsible">Mouse Tweaks</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/mousetweakspreview.png" alt="Preview of Mouse Tweaks">
+                <img src="../images/mousetweakspreview.png" alt="Preview of Mouse Tweaks">
                 <a target="_blank" href="https://modrinth.com/mod/mouse-tweaks"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -1593,7 +1440,7 @@
         <button type="button" class="collapsible">nogizmo</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/nogizmo.png" alt="Preview of no gizmo">
+                <img src="../images/nogizmo.png" alt="Preview of no gizmo">
                 <a target="_blank" href="https://modrinth.com/mod/nogizmo"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -1650,7 +1497,7 @@
         <button type="button" class="collapsible">Sheep Consistency</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/sheepconsistencypreview.png" alt="Preview of No Chat Lag">
+                <img src="../images/sheepconsistencypreview.png" alt="Preview of No Chat Lag">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/sheep-consistency"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -1672,7 +1519,7 @@
         
         <h2 class="modheader">Optimization Mods</h2>
         <p class="modwarning">All mods in these section are optional. They are shipped with the modpack but can be disabled by preference.</p>
-        <p>Lazy Language Loader</p>
+
         <button type="button" class="collapsible">Better Beds</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1898,43 +1745,7 @@
                 </div>
                 <p class="modcol2">In vanilla 1.17, all buckets with axolotls look like they have the pink axolotl in them regardless of which type is actually inside. This client-side Fabric mod fixes this so that the item texture shows you what's actually inside it. It also adds textures for the baby forms, so you know exactly what's in each bucket.</p>
         </div>
-        <button type="button" class="collapsible">Feature NBT Deadlock Be Gone</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/471/663/637760602427290368.png" alt="Preview of Feature NBT Deadlock Begone">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <p>
-                    The bug is when placing NBT builds into the world during worldgen, it can deadlock the game if the build is replacing a BlockEntity of any kind. Spawners, chests, lecterns, beds, signs, etc. Which is... bad. Your game locks up and freezes. Ticks are no longer being run. 
-                </p>
-        </div>
-        <button type="button" class="collapsible">No Chat Lag</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/321/637771881126777015.png" alt="Preview of No Chat Lag">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
-        </div>
         
-
-        <button type="button" class="collapsible">On Soul Fire</button></a>
-        <div class="mod">
-            <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/282/637771810857755508.png" alt="Logo for On Soul Fire">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/on-soul-fire"><button class="download">
-                    Download from CurseForge
-                </button></a>
-                <a target="_blank" href="https://github.com/MoriyaShiine/on-soul-fire"><button class="download">
-                    View Source on GitHub
-                </button></a>
-                </div>
-                <p>Makes entities set on fire by soul fire actually render blue flames. They also take 2 damage instead of 1, like soul fire does.</p>
-        </div>
         <button type="button" class="collapsible">Polymorph</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -2100,7 +1911,7 @@
         <button type="button" class="collapsible">Forge Config API Port</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/forgeconfigapiport.png" alt="Logo for Forge Config API Port">
+                <img src="../images/forgeconfigapiport.png" alt="Logo for Forge Config API Port">
                 <a target="_blank" href="https://modrinth.com/mod/forge-config-api-port"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -2130,7 +1941,7 @@
         <button type="button" class="collapsible">GeckoLib</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/geckolib.png" alt="Logo for GeckoLib">
+                <img src="../images/geckolib.png" alt="Logo for GeckoLib">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/geckolib"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -2172,7 +1983,7 @@
         <button type="button" class="collapsible">Mod Menu</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/modmenu.png" alt="Preview of Mod Menu">
+                <img src="../images/modmenu.png" alt="Preview of Mod Menu">
                 <a target="_blank" href="https://modrinth.com/mod/modmenu"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -2192,7 +2003,7 @@
         <button type="button" class="collapsible">owo-lib</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/owolib.png" alt="Preview of owo lib">
+                <img src="../images/owolib.png" alt="Preview of owo lib">
                 <a target="_blank" href="https://modrinth.com/mod/owo-lib"><button class="download">
                     Download from Modrinth
                 </button></a>
@@ -2252,7 +2063,7 @@
         <button type="button" class="collapsible">Terrablender</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/terrablender.png" alt="Logo for Terrablender">
+                <img src="../images/terrablender.png" alt="Logo for Terrablender">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -2265,7 +2076,7 @@
         <button type="button" class="collapsible">Yung's API</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="images/yungapi.png" alt="Logo for Yung's API">
+                <img src="../images/yungapi.png" alt="Logo for Yung's API">
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
@@ -2285,8 +2096,6 @@
         <div class="mod">
             <div class="modcol1">
                 <p>Updated Better Biome Blend</p>
-                <p>Removed Panoramica</p>
-                <p>Updated loading screen and main menu panorama</p>
                 <p>    Added Lanterns Belong On Walls</p>    
                 <p>    Added Funnel</p>    
                 <p>    Ported Crucial 2 Creeper (Resource Pack)</p>    
@@ -2500,6 +2309,6 @@
         
     </div>
 </main>
-<script src="script.js"></script>
+<script src="../script.js"></script>
 </body>
 </html>
