@@ -1,0 +1,18 @@
+name = "Break Progress"
+filename = "breakprogress-1.0.1.jar"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Adds Break Progress to the WTHIT popup at the top of the screen. Disable for a less detailed view."
+
+[download]
+hash-format = "sha1"
+hash = "cad6999109f1f156e2cd2be7eabb4c528d24b4a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3133167
+project-id = 416406

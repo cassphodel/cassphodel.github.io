@@ -1,0 +1,16 @@
+{
+	// The type of flight that is used in freecam.
+	"freecamMode": "MODDED",
+	// Changes the speed of freecam.
+	"freecamSpeed": 1.0,
+	// Toggles whether your player is rendered in your original position while freecam is enabled.
+	"showClone": true,
+	// Toggles whether your hand is shown while freecam is enabled.
+	"showHand": false,
+	// Toggles action bar notifications.
+	"notify": true,
+	// The message that is shown when freecam is enabled.
+	"enableMessage": "Freecam has been enabled.",
+	// The message that is shown when freecam is disabled.
+	"disableMessage": "Freecam has been disabled."
+}

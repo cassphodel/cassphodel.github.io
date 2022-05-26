@@ -1,0 +1,13 @@
+name = "Elytra/Chestplate Swapper (Fabric)"
+filename = "elytra-chestplate-swapper-1.2.1-MC1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf132aba16db467d564904f08a33caae1b8e2e19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3571250
+project-id = 473125
