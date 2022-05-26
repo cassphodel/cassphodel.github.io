@@ -977,6 +977,10 @@ file = "defaultconfigs/skinnedlanterns-server.toml"
 hash = "b34904a394ae191031a8ca4c8130c3b30b71f51db281f11f4aa22eca10de5479"
 
 [[files]]
+file = "mods/Mirabilis 1.0.5 1.16.5.jar"
+hash = "4e3f2840f308ef183008a5c53b76796cf14e6d7a8db8dda3841588e8de7d4ee6"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "d73ee6525182c02b51264aec90da4d204cdca56a3dde37d4b8d67962266513cc"
 metafile = true
@@ -1077,9 +1081,8 @@ hash = "adc72063553d58a4771e59b4e1d015eae2b9c8db5f164f659eb7c9ca2c1389a6"
 metafile = true
 
 [[files]]
-file = "mods/block-swap.pw.toml"
-hash = "4180255172e5f656552148ffed7bf2b76d9357eb195dd7b91bea757995dda2a4"
-metafile = true
+file = "mods/blockswap-1.1.1.jar"
+hash = "3de025acb17d60dccfeeaffcaf494cee3c9c0d60213542a901e33c11398cfc34"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -1142,9 +1145,8 @@ hash = "02d3751895e1aea3675afb6d16424e4dcefdcf8c3fe9c486fda53b250e624ced"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "57a1bcc879f6bdd3473951521c786e3a84e0bfc91a2ed3f71db44559b09b8d94"
-metafile = true
+file = "mods/cloth-config-4.14.54-forge.jar"
+hash = "5cfe280c0a75b13d97d58ef708c1db87cdf41e188b04ccca8c4a0a7a0d183e5e"
 
 [[files]]
 file = "mods/contenttweaker.pw.toml"
@@ -1357,6 +1359,10 @@ hash = "0a011ccb3eb6cb918d81a34e2efa06f9f158764d125dcde867a53b67fa74bd25"
 metafile = true
 
 [[files]]
+file = "mods/jeed-1.16.5-1.6.jar"
+hash = "4ba503dd4b95bba9ea02ab28680754fc1b186147590163d40846b636c38dd299"
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
 metafile = true
@@ -1367,14 +1373,8 @@ hash = "1dfaaf52028bde8ebe007a37097ab633579665ba18315ec496e995c1969167fb"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "38d12c7ac42bcca8051d08a7869a2987ddb11f44949cbf65a41590f6fb127d96"
-metafile = true
-
-[[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
-metafile = true
+file = "mods/lazydfu-0.1.3.jar"
+hash = "895e072a0f9f0edc0f9bb3ee9c37a5896539845f1ca9bb2643517d67c1c5133f"
 
 [[files]]
 file = "mods/leap.pw.toml"
@@ -1404,11 +1404,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
-metafile = true
-
-[[files]]
-file = "mods/mirabilis-vanilla-biome-overhaul.pw.toml"
-hash = "523818d80ff5ae716c4074b37285f5338832972afd41a9bd6fff8e29d710041d"
 metafile = true
 
 [[files]]
@@ -1552,9 +1547,8 @@ hash = "6fb7599d2ee267a19b91ebb12f9b304da9971505da11d271b21745c212c37181"
 metafile = true
 
 [[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
-metafile = true
+file = "mods/shutupexperimentalsettings-1.0.3.jar"
+hash = "22ce84a0d424c2d48e483cb873909ac5c8c322bc793d09365ad44b901f43de62"
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
