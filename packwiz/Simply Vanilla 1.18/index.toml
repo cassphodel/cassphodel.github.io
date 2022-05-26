@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/.modmanager.delete.json"
-hash = "915d69466deacddcaa9ed259a5fe4a7d91a11a62cc72852d05a5c2a64b884843"
-
-[[files]]
 file = "config/BetterControls.json"
 hash = "18b1283ee350fa965cffa1330c3ce2fa306b741122bb1deefc855eeab69c7ea0"
 
