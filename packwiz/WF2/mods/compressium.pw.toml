@@ -1,0 +1,13 @@
+name = "Compressium"
+filename = "Compressium-1.16.5-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24f9424a39ff742a13bd446cb149825a2b625063"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3428525
+project-id = 342929

@@ -1,0 +1,13 @@
+name = "Charm Reforged"
+filename = "charm-forge-1.16.5-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bca86a0a792d38c664864b68dbc6eac47376b4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3214651
+project-id = 430988

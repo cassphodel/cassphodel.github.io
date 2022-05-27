@@ -16,7 +16,7 @@
             <button onclick="openhome()" id="homebutton">Home</button>
             <button onclick="openmods()" id="modsbutton">Mod List</button>
             <button onclick="openchangelog()" id="changelogbutton">Changelog</button>
-            <button onclick="window.location.href=`https://www.technicpack.net/modpack/wish-fulfillment-origins-2`" id="downloadbutton">Download</button></a>
+            <button onclick="opendownloads()" id="downloadbutton">Download</button></a>
         </nav>
     </header>
     
@@ -1672,7 +1672,6 @@
         
         <h2 class="modheader">Optimization Mods</h2>
         <p class="modwarning">All mods in these section are optional. They are shipped with the modpack but can be disabled by preference.</p>
-        <p>Lazy Language Loader</p>
         <button type="button" class="collapsible">Better Beds</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1683,12 +1682,13 @@
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/better-beds"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <p class="modcol2">Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
-                    This results in increased performance and resourcepack support!</p>
-                <a target="_blank" href="https://modrinth.com/user/Motschen" class="author"><img src="https://avatars1.githubusercontent.com/u/49783724?v=4" alt="Motschen"><p>Motschen</p></a>
-
             </div>
+            <div class="modcol2">
+                <p>Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.</p>
+                <p>This results in increased performance and resourcepack support!</p>
+            </div>
+            <a target="_blank" href="https://modrinth.com/user/Motschen" class="author"><img src="https://avatars1.githubusercontent.com/u/49783724?v=4" alt="Motschen"><p>Motschen</p></a>
+        </div>
         
         <button type="button" class="collapsible">Better Biome Blend</button></a>
         <div class="mod">
@@ -1804,6 +1804,23 @@
                 </div>
                 <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
         </div>
+
+        <button type="button" class="collapsible">Lazy Language Loader</button></a>
+        <div class="mod">
+            <div class="modcol1">
+                <img src="https://cdn.modrinth.com/data/Nz0RSWrF/icon.png" alt="Logo for Lazy Language Loader">
+                <a target="_blank" href="https://modrinth.com/mod/lazy-language-loader"><button class="download">
+                    Download from Modrinth
+                </button></a>
+                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader"><button class="download">
+                    Download from CurseForge
+                </button></a>
+            </div>
+            <div class="modcol2">
+                <p>lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!</p>
+            </div>
+            <a target="_blank" href="https://modrinth.com/user/chachy" class="author"><img src="https://avatars.githubusercontent.com/u/38067923?v=4" alt="chachy"><p>chachy</p></a>
+        </div>
         
         <button type="button" class="collapsible">Limited Chunk Loading</button></a>
         <div class="mod">
@@ -1898,6 +1915,7 @@
                 </div>
                 <p class="modcol2">In vanilla 1.17, all buckets with axolotls look like they have the pink axolotl in them regardless of which type is actually inside. This client-side Fabric mod fixes this so that the item texture shows you what's actually inside it. It also adds textures for the baby forms, so you know exactly what's in each bucket.</p>
         </div>
+
         <button type="button" class="collapsible">Feature NBT Deadlock Be Gone</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1905,11 +1923,15 @@
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <p>
-                    The bug is when placing NBT builds into the world during worldgen, it can deadlock the game if the build is replacing a BlockEntity of any kind. Spawners, chests, lecterns, beds, signs, etc. Which is... bad. Your game locks up and freezes. Ticks are no longer being run. 
-                </p>
+            </div>
+            <div class="modcol2">
+                <p>The bug is when placing NBT builds into the world during worldgen, it can deadlock the game if the build is replacing a BlockEntity of any kind. Spawners, chests, lecterns, beds, signs, etc. Which is... bad. Your game locks up and freezes. Ticks are no longer being run.</p>
+            </div>
+            <div class="author">
+                <a target="_blank" href="https://www.curseforge.com/members/telepathicgrunt" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/d317d71f-e224-49ad-81a8-f54b1c728f7c-profile_image-150x150.jpg" alt="telepathicgrunt"><p>telepathicgrunt</p></a>
+            </div>
         </div>
+
         <button type="button" class="collapsible">No Chat Lag</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1917,11 +1939,16 @@
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+            </div>
+            <div class="modcol2">
+                <p>A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+            </div>
+            <div class="author">
+                <a target="_blank" href="https://www.curseforge.com/members/NoahvdAa" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2bc03688-080a-455f-95c7-01e057cb3afc-profile_image-150x150.png" alt="NoahvdAa"><p>NoahvdAa</p></a>
+            </div>
         </div>
-        
 
+        
         <button type="button" class="collapsible">On Soul Fire</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1932,9 +1959,15 @@
                 <a target="_blank" href="https://github.com/MoriyaShiine/on-soul-fire"><button class="download">
                     View Source on GitHub
                 </button></a>
-                </div>
+            </div>
+            <div class="modcol2">
                 <p>Makes entities set on fire by soul fire actually render blue flames. They also take 2 damage instead of 1, like soul fire does.</p>
+            </div>
+            <div class="author">
+                <a target="_blank" href="https://www.curseforge.com/members/MoriyaShiine" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9889c978-207b-45c8-a795-d95df9d00a91-profile_image-150x150.png" alt="MoriyaShiine"><p>MoriyaShiine</p></a>
+            </div>
         </div>
+
         <button type="button" class="collapsible">Polymorph</button></a>
         <div class="mod">
             <div class="modcol1">
@@ -1942,11 +1975,14 @@
                 <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <div class="modcol2">
+            </div>
+            <div class="modcol2">
                 <p>Polymorph is a mod that solves recipe conflicts by letting players choose between all potential outputs shared by the same ingredients.</p>
                 <p>With a sufficiently large amount of mods, recipe conflicts are a common occurrence and the responsibility for resolving these usually falls on the user or modpack developer, using datapacks or other tools to ensure that each recipe is unique.</p>
                 <p>Polymorph offers an alternative solution, allowing all possible crafting and smelting recipes to co-exist regardless of conflicts.</p>
+            </div>
+            <div class="author">
+                <a target="_blank" href="https://www.curseforge.com/members/TheIllusiveC4" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/83d6011f-9d0a-4926-92c9-ebb0d7308933-profile_image-150x150.png" alt="TheIllusiveC4"><p>TheIllusiveC4</p></a>
             </div>
         </div>
         
@@ -1960,8 +1996,13 @@
                 <a target="_blank" href="https://github.com/kyrptonaught/tooltipfix"><button class="download">
                     View Source on GitHub
                 </button></a>
-                </div>
+            </div>
+            <div class="modcol2">
                 <p>Stops tooltips that are too large to fit on the screen from running off the screen.</p>
+            </div>
+            <div class="author">
+                <a target="_blank" href="https://www.curseforge.com/members/Kyrptonaught" class="author"><img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-150x150.png" alt="Kyrptonaught"><p>Kyrptonaught</p></a>
+            </div>
         </div>
         
 
@@ -2208,45 +2249,63 @@
         <button type="button" class="collapsible">Patchouli</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/321/637771881126777015.png" alt="Preview of No Chat Lag">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
+                <img src="../images/patchouli.png" alt="Logo for Patchouli">
+                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
+            </div>
+                <div class="modcol2">
+                    <p>Patchouli is a mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike.</p>
+                    <p>Patchouli's systems allow any modder or modpack maker to quickly create beautiful books full of user experience enhancing features. The user-facing feature set of the mod is designed in function of research done on what features people liked from Botania's Lexica Botania.</p>
                 </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+            <div>
+                <a target="_blank" href="https://www.curseforge.com/members/williewillus" class="author"><img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-150x150.png" alt="williewillus"><p>williewillus</p></a>
+                <a target="_blank" href="https://www.curseforge.com/members/Vazkii" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8eda5ef0-d975-400a-ab18-b938c1c81549-profile_image-150x150.png" alt="Vazkii"><p>Vazkii</p></a>
+            </div>
+
+
         </div>
         
         <button type="button" class="collapsible">Paxi</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/321/637771881126777015.png" alt="Preview of No Chat Lag">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
+                <img src="../images/paxi.png" alt="Logo for Paxi">
+                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/paxi-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+            </div>
+                <p class="modcol2">Paxi is a simple mod for global, automatic data and resource packs.</p>
+                <a target="_blank" href="https://www.curseforge.com/members/yungnickyoung" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/64f43c76-306d-4a71-8a53-d35fe6503393-profile_image-150x150.png" alt="YUNGNICKYOUNG"><p>YUNGNICKYOUNG</p></a>
+
         </div>
         
         <button type="button" class="collapsible">Pehkui</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/321/637771881126777015.png" alt="Preview of No Chat Lag">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
+                <img src="https://cdn.modrinth.com/data/t5W7Jfwy/icon.png" alt="Logo for Pehkui">
+                <a target="_blank" href="https://modrinth.com/mod/pehkui"><button class="download">
+                    Download from Modrinth
+                </button></a>
+                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/pehkui"><button class="download">
                     Download from CurseForge
                 </button></a>
-                </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+            </div>
+            <p class="modcol2"> This mod allows for most entities to have their size changed, either enlarging or shrinking them.</p>
+            <a target="_blank" href="https://modrinth.com/user/Virtuoel" class="author"><img src="https://avatars2.githubusercontent.com/u/8584461?v=4" alt="Virtuoel"><p>Virtuoel</p></a>
+
         </div>
         
-        <button type="button" class="collapsible">PuzzlesLib</button></a>
+        <button type="button" class="collapsible">Puzzles Lib</button></a>
         <div class="mod">
             <div class="modcol1">
-                <img src="https://media.forgecdn.net/avatars/477/321/637771881126777015.png" alt="Preview of No Chat Lag">
-                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/nochatlag"><button class="download">
+                <img src="../images/puzzleslib.png" alt="Logo for Puzzles Lib">
+                <a target="_blank" href="https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric"><button class="download">
                     Download from CurseForge
                 </button></a>
                 </div>
-                <p class="modcol2">A couple of days ago, something changed in Mojang's blocked users API, causing the client to not properly load the list of blocked users on start. Because of this, the client will attempt to fetch the blocklist every two minutes when the chat is being rendered. This loading is done on the same thread as the rendering, causing the game to freeze until Mojang's API returns a response. Since the requests takes a while to complete, this will cause a noticeable lag spike.</p>
+                <p class="modcol2">Puzzles Lib is a rather light-weight library consisting of multiple frameworks and utility classes. But most of all, it offers an abstraction layer for developing mods on both the Forge and Fabric mod loader, making ports and maintaining mods rather simple without having to rewrite a bunch of logic.</p>
+                <a target="_blank" href="https://www.curseforge.com/members/Fuzs_" class="author"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/9f8e2157-6b0b-47c8-bb48-a49f33b96d3e-profile_image-150x150.png" alt="Fuzs_"><p>Fuzs_</p></a>
+
         </div>
         
         <button type="button" class="collapsible">Terrablender</button></a>
@@ -2498,6 +2557,47 @@
         </div>
 
         
+    </div>
+    <div id="downloads">
+        <h1>Download Origins 2</h1>
+        <h2>Installing MultiMC</h2>
+        <div class="downloadflex">
+            <div class="downloaddesc">
+                <p>MultiMC is a Packwiz pack designed for use with MultiMC.</p>
+                <p>These instructions will focus on using Origins 2 with MultiMC. The pack is also compatible with forks like PolyMC. If you already have MultiMC or similar installed, feel free to skip ahead.</p>
+                <p><a href="http://multimc.org/#Download">Find MultiMC for your hardware here.</a> From there, download the ZIP and extract it into a new folder. Inside the folder will be an executable (MultiMC.exe on Windows). Run this executable.</p>
+                <p>Windows may pop up a warning as it doesn't recognize the developer, but if that occurs all you need to do is click <strong>More Info</strong>, and then <strong>Run Anyway</strong> to bypass it.</p>
+            </div>
+            <div>
+                <img src="../images/multimcguidedownload.png" alt="">
+                <img src="../images/multimcguidewindowswarning.png" alt="Click more info to bypass Windows Unknown Publisher warning.">
+            </div>
+        </div>
+        <hr>
+        <h2>Installing Origins 2</h2>
+        <div class="downloadflex">
+            <div class="downloaddesc">
+                <p>Once finished with setup, choose Add Instance, Import From Zip, and paste the download link for Origins 2 in the provided textbox.</p>
+                <input type="text" id="packurl" onclick="copyURL()" disabled value="https://cassphodel.github.io/packwiz/Wish%20Fulfillment%20-%20Simply%20Vanilla%201.18.zip">
+                <button onclick="copyURL()">Copy Pack Download</button>
+
+            </div>
+            <div>
+                <img src="../images/multimcguideaddinstance.png" alt="Add Instance can be found in the top right corner">
+                <img src="../images/multimcguideimportfromzip.png" alt="Import from ZIP is the second option.">
+            </div>
+        </div>
+        <hr>
+        <h2>Post-install Setup</h2>
+        <div class="downloadflex">
+            <div>
+                <p>After installing, you may have to edit the instance so that it is using the correct version of Java. 1.18 and beyond require Java 17, which can be found online if you do not already have it installed. To configure MultiMC to use the correct Java, just  Right click the pack icon, choose Edit Instance, click Settings, and click the button for Auto-detect and change it to Java 17.</p>
+            </div>
+            <div>
+                <img src="../images/multimcguideeditinstance.png" alt="Edit instance.">
+                <img src="../images/multimcguidejava.png" alt="Configure Java 17.">
+            </div>
+        </div>
     </div>
 </main>
 <script src="../wf web/script.js"></script>

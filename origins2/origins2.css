@@ -99,6 +99,28 @@ header img {
     border-radius: 10px;
     padding-bottom: 4vh;
 }
+#downloads {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 10vh;
+    border-radius: 10px;
+}
+.downloadflex {
+    display: flex;
+}
+.downloadflex img {
+    width: 80vh;
+    text-align: right;
+}
+.downloaddesc {
+    width: 100%;
+}
+#downloads hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 60%;
+}
 
 #home hr {
     color:#440808;

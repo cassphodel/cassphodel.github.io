@@ -1,0 +1,13 @@
+name = "Creatures and Beasts"
+filename = "CNB-1.16.3_5-1.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a94d803cfa73f6581a2ecbd28683bd9b3170cc97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3252973
+project-id = 414401

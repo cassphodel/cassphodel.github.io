@@ -1,0 +1,13 @@
+name = "Curious Jetpacks"
+filename = "curiousjetpacks-1.4c-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c595a385a6de5d933df81f5f923eb2e226127d38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3275061
+project-id = 404757
