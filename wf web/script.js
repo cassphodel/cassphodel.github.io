@@ -6,6 +6,7 @@ document.querySelector(`#homebutton`).setAttribute("class", "activebutton");
         document.querySelector(`#changelog`).style.display = "none";
         document.querySelector(`#modlist`).style.display = "block";
         document.querySelector(`#homebutton`).setAttribute("class", "inactivebutton");
+        document.querySelector(`#downloadbutton`).setAttribute("class", "inactivebutton");
         document.querySelector(`#modsbutton`).setAttribute("class", "activebutton");
         document.querySelector(`#changelogbutton`).setAttribute("class", "inactivebutton");
     }
@@ -16,6 +17,7 @@ document.querySelector(`#homebutton`).setAttribute("class", "activebutton");
         document.querySelector(`#home`).style.display = "block";
         document.querySelector(`#modsbutton`).setAttribute("class", "inactivebutton");
         document.querySelector(`#homebutton`).setAttribute("class", "activebutton");
+        document.querySelector(`#downloadbutton`).setAttribute("class", "inactivebutton");
         document.querySelector(`#changelogbutton`).setAttribute("class", "inactivebutton");
         
     }
@@ -26,6 +28,7 @@ document.querySelector(`#homebutton`).setAttribute("class", "activebutton");
         document.querySelector(`#changelog`).style.display = "block";
         document.querySelector(`#homebutton`).setAttribute("class", "inactivebutton");
         document.querySelector(`#changelogbutton`).setAttribute("class", "activebutton");
+        document.querySelector(`#downloadbutton`).setAttribute("class", "inactivebutton");
         document.querySelector(`#modsbutton`).setAttribute("class", "inactivebutton");
         
     }
