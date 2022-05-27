@@ -1,0 +1,13 @@
+name = "Slime Sling"
+filename = "SlimeSling-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79b0662ffde15a079b133c5be61b5416c1dfd54f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3168492
+project-id = 436404

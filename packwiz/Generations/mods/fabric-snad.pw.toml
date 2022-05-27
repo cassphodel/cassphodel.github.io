@@ -1,0 +1,13 @@
+name = "[Fabric] Snad"
+filename = "snad-1.0.10-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fe22fdecc0892b4e614877c0fa48b73b4bf09cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3430860
+project-id = 492259

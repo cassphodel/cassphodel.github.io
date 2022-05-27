@@ -1,0 +1,13 @@
+name = "Bunch o' Trinkets"
+filename = "bunch-o-trinkets-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e887d0d221a37cee032176a292f97942aac49ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2988010
+project-id = 356165

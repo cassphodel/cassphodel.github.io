@@ -1,0 +1,13 @@
+name = "Crawl (Fabric)"
+filename = "crawl-0.8.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82f57912179ee0c51cd0655d75d0f0fb3e2e26ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3302651
+project-id = 314579

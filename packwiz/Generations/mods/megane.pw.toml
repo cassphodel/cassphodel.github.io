@@ -1,0 +1,13 @@
+name = "megane"
+filename = "megane-4.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fde9f226cfea1e59aaac74d1c0f63fa4b019bfcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3432108
+project-id = 408118

@@ -1,0 +1,13 @@
+name = "Roughly Enough Resources"
+filename = "rer-2.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13d7e25fbe2c19075a6bcd1297c138a817481d1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3343450
+project-id = 325625

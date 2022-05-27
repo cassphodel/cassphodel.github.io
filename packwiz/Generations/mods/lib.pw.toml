@@ -1,0 +1,13 @@
+name = "Flytre Lib (FlytreLib)"
+filename = "flytre_lib-0.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49417ec365aa2256931bb2b968d2e04c90188254"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3328057
+project-id = 444498

@@ -1,0 +1,13 @@
+name = "Polymorph (Fabric)"
+filename = "polymorph-fabric-0.0.14-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6243dc66bb3c6d139482900df085ff0a702aeeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3577365
+project-id = 397434

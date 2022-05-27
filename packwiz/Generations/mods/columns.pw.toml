@@ -1,0 +1,13 @@
+name = "Columns"
+filename = "columns-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00c3795d6830bc7751ab5f7817e3791a53d51ea0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3107117
+project-id = 385230

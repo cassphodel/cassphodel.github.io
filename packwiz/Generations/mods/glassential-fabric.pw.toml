@@ -1,0 +1,13 @@
+name = "Glassential (Fabric)"
+filename = "glassential-fabric-1.16.4-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc633c3c451436400d39c894aa766357cc5edf5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3135802
+project-id = 320778

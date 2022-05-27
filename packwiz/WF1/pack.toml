@@ -1,0 +1,13 @@
+name = "Wish Fulfillment"
+author = "cassphodel"
+version = "1.15"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69f522cb3809e7c0074fd7204469eb35b51ecca59fa7fdb23a0fbb5d54a0e14c"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"

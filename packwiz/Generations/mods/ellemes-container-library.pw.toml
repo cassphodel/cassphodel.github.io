@@ -1,0 +1,14 @@
+name = "Ellemes' Container Library"
+filename = "ninjaphenix-container-library-1.2.10+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.2.10+1.16.5-fabric/ninjaphenix-container-library-1.2.10+1.16.5.jar"
+hash-format = "sha1"
+hash = "79d2d2844a23964538e56346a45cb33e33c214e6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "TIhTvPdy"
+version = "vV6smKCC"

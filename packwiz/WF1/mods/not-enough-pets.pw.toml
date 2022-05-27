@@ -1,0 +1,13 @@
+name = "Not Enough Pets"
+filename = "NotEnoughPets-1.12.2-2.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43ee6067a559612230839b649734df8c80979c84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3527865
+project-id = 322159

@@ -1,0 +1,13 @@
+name = "YUNG's Better Mineshafts (Fabric)"
+filename = "BetterMineshafts-Fabric-1.16.4-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c954e7ee0c60d9caa17cb53992a24c560483c692"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3344725
+project-id = 373591

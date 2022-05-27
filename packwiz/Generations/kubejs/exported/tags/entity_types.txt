@@ -1,0 +1,154 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 25, 2021 3:50:06 PM
+
+#dml-refabricated:end_mobs
+- minecraft:enderman
+- minecraft:shulker
+- minecraft:endermite
+
+#dml-refabricated:zombie_mobs
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:husk
+- minecraft:zoglin
+- minecraft:zombified_piglin
+
+#dml-refabricated:illager_mobs
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+
+#trinketheartcanisters:blue_hearts
+- minecraft:wither
+- minecraft:ender_dragon
+
+#c:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+- bewitchment:leonard
+- bewitchment:baphomet
+- bewitchment:lilith
+- bewitchment:herne
+
+#bewitchment:untaglockable
+- #c:bosses
+
+#earthtojavamobs:skeletons
+- earthtojavamobs:skeleton_wolf
+
+#dml-refabricated:nether_mobs
+- minecraft:wither_skeleton
+- minecraft:blaze
+- minecraft:ghast
+- minecraft:magma_cube
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:piglin
+- minecraft:zombified_piglin
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#astromine:does_not_breath
+- astromine:space_slime
+- astromine:super_space_slime
+
+#trinketheartcanisters:green_hearts
+- minecraft:elder_guardian
+- minecraft:ravager
+- minecraft:vindicator
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#dml-refabricated:skeleton_mobs
+- minecraft:skeleton
+- minecraft:wither_skeleton
+- minecraft:stray
+
+#dml-refabricated:ocean_mobs
+- minecraft:guardian
+- minecraft:drowned
+
+#bewitchment:encounter_fortune
+- minecraft:husk
+- minecraft:stray
+- minecraft:witch
+- minecraft:vindicator
+- minecraft:blaze
+- bewitchment:hellhound
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- bewitchment:silver_arrow
+
+#dml-refabricated:overworld_mobs
+- minecraft:creeper
+- minecraft:enderman
+- minecraft:skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:witch
+- minecraft:spider
+
+#trinketheartcanisters:red_hearts
+- minecraft:enderman
+- minecraft:witch
+
+#bewitchment:insanity_blacklist
+- minecraft:creeper
+- minecraft:witch
+
+#dml-refabricated:slimy_mobs
+- minecraft:slime
+- minecraft:magma_cube
+
+#astromine:does_not_breathe
+- minecraft:iron_golem
+- minecraft:armor_stand
+
+#earthtojavamobs:raiders
+- earthtojavamobs:viler_witch
+
+#bewitchment:has_blood
+- minecraft:player
+- minecraft:villager
+- minecraft:wandering_trader
+- minecraft:witch
+- minecraft:pillager
+- minecraft:vindicator
+- minecraft:evoker
+- minecraft:illusioner
+- minecraft:piglin
+- minecraft:piglin_brute
+- bewitchment:vampire
+
+#earthtojavamobs:impact_projectiles
+- earthtojavamobs:bone_shard
+
+#dml-refabricated:ghost_mobs
+- minecraft:ghast
+- minecraft:phantom
+- minecraft:vex

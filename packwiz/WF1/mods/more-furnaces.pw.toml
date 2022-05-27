@@ -1,0 +1,13 @@
+name = "More Furnaces"
+filename = "MoreFurnaces-1.12.2-1.10.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b4cbf74e2363e21bcde52180820467ee5432ed5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2627678
+project-id = 78320

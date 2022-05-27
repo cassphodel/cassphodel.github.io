@@ -1,0 +1,13 @@
+name = "Somnus API (Discontinued)"
+filename = "somnus-fabric-0.0.12-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cb901a22df1a8da002220f2d4967379c916f27b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3438305
+project-id = 433538

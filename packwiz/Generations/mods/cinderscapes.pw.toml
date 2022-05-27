@@ -1,0 +1,13 @@
+name = "Cinderscapes"
+filename = "cinderscapes-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1462024efadb5c93d932b81a3866834d6f034c33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3424696
+project-id = 391429

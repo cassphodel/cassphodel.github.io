@@ -1,0 +1,16 @@
+name = "Wish Fulfillment: Generations"
+author = "cassphodel"
+version = "1.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17f7b92cb68fce3b031479311eac8aa1339bc120edcb8b982f2c85e6027c651a"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.5", "1.16.4", "1.16.3"]

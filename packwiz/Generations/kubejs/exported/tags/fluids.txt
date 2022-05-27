@@ -1,0 +1,133 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 25, 2021 3:50:06 PM
+
+#c:oxygen
+- astromine:oxygen
+- astromine:oxygen_flowing
+
+#c:crude_oil
+- astromine:crude_oil
+- astromine:crude_oil_flowing
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- astromine:oxygen
+- astromine:oxygen_flowing
+- astromine:crude_oil
+- astromine:crude_oil_flowing
+- astromine:residual_fuel_oil
+- astromine:heavy_gas_oil
+- astromine:heavy_gas_oil_flowing
+- astromine:diesel
+- astromine:diesel_flowing
+- astromine:kerosene
+- astromine:kerosene_flowing
+- astromine:naphtha
+- astromine:naphtha_flowing
+- astromine:gasoline
+- astromine:gasoline_flowing
+- astromine:butane
+- astromine:butane_flowing
+- indrev:coolant_still
+- indrev:coolant_flowing
+- indrev:sulfuric_acid_still
+- indrev:sulfuric_acid_flowing
+- indrev:toxic_mud_still
+- indrev:toxic_mud_flowing
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+- minecraft:water
+- artofalchemy:alkahest
+- artofalchemy:flowing_alkahest
+- artofalchemy:essentia_mercury
+- artofalchemy:flowing_essentia_mercury
+- artofalchemy:essentia_venus
+- artofalchemy:flowing_essentia_venus
+- artofalchemy:essentia_tellus
+- artofalchemy:flowing_essentia_tellus
+- artofalchemy:essentia_mars
+- artofalchemy:flowing_essentia_mars
+- artofalchemy:essentia_jupiter
+- artofalchemy:flowing_essentia_jupiter
+- artofalchemy:essentia_saturn
+- artofalchemy:flowing_essentia_saturn
+- artofalchemy:essentia_uranus
+- artofalchemy:flowing_essentia_uranus
+- artofalchemy:essentia_neptune
+- artofalchemy:flowing_essentia_neptune
+- artofalchemy:essentia_apollo
+- artofalchemy:flowing_essentia_apollo
+- artofalchemy:essentia_diana
+- artofalchemy:flowing_essentia_diana
+- artofalchemy:essentia_ceres
+- artofalchemy:flowing_essentia_ceres
+- artofalchemy:essentia_pluto
+- artofalchemy:flowing_essentia_pluto
+- artofalchemy:essentia_void
+- artofalchemy:flowing_essentia_void
+
+#c:gasoline
+- astromine:gasoline
+- astromine:gasoline_flowing
+
+#c:kerosene_oxygen_fuel
+- astromine:kerosene_oxygen_fuel
+- astromine:kerosene_oxygen_fuel_flowing
+
+#c:residual_fuel_oil
+- astromine:residual_fuel_oil
+- astromine:residual_fuel_oil_flowing
+
+#astromine:water_breathable
+- #minecraft:water
+
+#astromine:lava_breathable
+- #minecraft:lava
+
+#c:diesel
+- astromine:diesel
+- astromine:diesel_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- indrev:molten_netherite_still
+- indrev:molten_netherite_flowing
+- indrev:molten_iron_still
+- indrev:molten_iron_flowing
+- indrev:molten_copper_still
+- indrev:molten_copper_flowing
+- indrev:molten_gold_still
+- indrev:molten_gold_flowing
+- indrev:molten_tin_still
+- indrev:molten_tin_flowing
+
+#c:kerosene
+- astromine:kerosene
+- astromine:kerosene_flowing
+
+#c:naphtha
+- astromine:naphtha
+- astromine:naphtha_flowing
+
+#astromine:normal_breathable
+- #c:oxygen
+
+#c:heavy_gas_oil
+- astromine:heavy_gas_oil
+- astromine:heavy_gas_oil_flowing
+
+#c:butane
+- astromine:butane
+- astromine:butane_flowing
+
+#c:hydrogen
+- astromine:hydrogen
+- astromine:hydrogen_flowing
+
+#earthtojavamobs:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#astromine:rocket_fuels
+- #c:kerosene_oxygen_fuel

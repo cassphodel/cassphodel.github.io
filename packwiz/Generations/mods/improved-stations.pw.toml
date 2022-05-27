@@ -1,0 +1,13 @@
+name = "Improved Stations (Fabric)"
+filename = "improved-stations-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21ca9fc33e22c344db62259472193c447616ccd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3032328
+project-id = 355914

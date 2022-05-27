@@ -1,0 +1,13 @@
+name = "Staff of Building"
+filename = "staffofbuilding-1.2.6-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65586b271ad22d4063b0696b3c6c5e37335b8276"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3284852
+project-id = 382694

@@ -1,0 +1,13 @@
+name = "Mechanix"
+filename = "mechanix-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3c876d496e0a3fabf4decc8120e00a4032ba069"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3328060
+project-id = 421512

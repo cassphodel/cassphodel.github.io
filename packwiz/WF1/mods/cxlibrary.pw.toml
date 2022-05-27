@@ -1,0 +1,13 @@
+name = "CXLibrary"
+filename = "cxlibrary-1.12.1-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f07bed909d861140ffa5c7dc018587b95e275052"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2463886
+project-id = 244023

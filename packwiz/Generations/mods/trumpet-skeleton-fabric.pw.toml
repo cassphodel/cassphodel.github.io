@@ -1,0 +1,13 @@
+name = "Trumpet Skeleton (Fabric)"
+filename = "trumpet-skeleton-fabric-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a5a7e80981693b2402f3ff429c2b020172e39fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3033242
+project-id = 330417

@@ -1,0 +1,13 @@
+name = "Chargers"
+filename = "Chargers-1.12.2-1.2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e69d3a55b4d5bbf7d8b6a0e395bf863aeae00fc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2989950
+project-id = 290433

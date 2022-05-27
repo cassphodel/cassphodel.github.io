@@ -1,0 +1,13 @@
+name = "Trinket Heart Canisters"
+filename = "trinket-heart-canisters-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f60d9051fc365592878f730d7ff02a6c641537b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3027993
+project-id = 401275

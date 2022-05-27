@@ -1,0 +1,14 @@
+name = "Expanded Storage"
+filename = "expandedstorage-7.3.5+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.5+1.16.5-fabric/expandedstorage-7.3.5+1.16.5.jar"
+hash-format = "sha1"
+hash = "7bd3eb9ad7ff224f6d7d61b9c95fef33857fbe33"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "psjeHi3j"
+version = "jgOuHrmc"

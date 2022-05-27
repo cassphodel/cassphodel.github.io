@@ -1,0 +1,13 @@
+name = "More Buckets"
+filename = "MoreBuckets-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab244193c5c998d61d50640c633165aac3c842fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2695556
+project-id = 298760

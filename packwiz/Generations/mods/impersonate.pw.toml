@@ -1,0 +1,13 @@
+name = "Impersonate"
+filename = "Impersonate-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea9a05d4829bbdb840f38dc7394b4dcb2ae707f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3304035
+project-id = 360333

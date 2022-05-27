@@ -1,0 +1,13 @@
+name = "[Fabric] Fat Experience Orbs"
+filename = "fatxporbs-0.0.9+1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63c93e2021f3ba20f9c9f1bbe0d421f9a8b67b9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3128781
+project-id = 334873

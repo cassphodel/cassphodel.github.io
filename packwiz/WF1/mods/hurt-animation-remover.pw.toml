@@ -1,0 +1,13 @@
+name = "Hurt Animation Remover"
+filename = "HurtAnimationRemover-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9defa330bd369b2c340c60035ce95b0be770a570"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2698697
+project-id = 319263

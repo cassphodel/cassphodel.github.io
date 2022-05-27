@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-fabric-1605.1.5-build.75.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48fbf918759ccbb36362362ab5038bb7780b45fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3525703
+project-id = 416294

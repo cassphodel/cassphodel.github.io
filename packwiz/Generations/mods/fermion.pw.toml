@@ -1,0 +1,13 @@
+name = "Fermion"
+filename = "fermion-mc116-2.9.221.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cb30a056b5460315957f637ab14e4e03fd03b4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3319820
+project-id = 318760

@@ -1,0 +1,27 @@
+{
+  "dropItems": true,
+  "growthTime": 20,
+  "perItemGrowthTimes": {
+    "minecraft:birch_sapling": -1,
+    "byg:cyan_amaranth": -1,
+    "minecraft:melon_stem": -1,
+    "minecraft:wheat": -1,
+    "minecraft:oak_sapling": -1,
+    "byg:skyris_sapling": -1,
+    "minecraft:pumpkin_stem": -1,
+    "byg:azalea": -1,
+    "minecraft:spruce_sapling": -1,
+    "byg:ebony_sapling": -1,
+    "minecraft:bamboo": -1,
+    "minecraft:carrots": -1,
+    "byg:osiria_rose": -1,
+    "byg:cyan_tulip": -1,
+    "minecraft:cornflower": -1,
+    "minecraft:cactus": -1,
+    "croptopia:coffee_crop": -1,
+    "croptopia:peanut_crop": -1,
+    "byg:witch_hazel_sapling": -1,
+    "minecraft:sugar_cane": -1
+  },
+  "growthModifierRegexPatterns": {}
+}

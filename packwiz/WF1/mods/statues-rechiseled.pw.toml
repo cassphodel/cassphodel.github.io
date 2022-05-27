@@ -1,0 +1,13 @@
+name = "Statues: Rechiseled"
+filename = "statues-rechiseled-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5d13c5fb0afb17ca7e52f9a905cb0f22850e3a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2664963
+project-id = 311592

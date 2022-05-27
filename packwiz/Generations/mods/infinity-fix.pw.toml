@@ -1,0 +1,13 @@
+name = "Infinity Fix (Fabric)"
+filename = "infinityfix-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8470dde0336b8dad91963d4cc1fd713052a6317"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2763186
+project-id = 315804

@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "Earth2Java-1.7.1+1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6afc39df61606a702c8fddb304c3623bd5798830"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3310364
+project-id = 398022
