@@ -5642,6 +5642,11 @@ hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
 metafile = true
 
 [[files]]
+file = "mods/funnel.pw.toml"
+hash = "20a04ebe8f48b810dc3a521a0164851b5b2ce3b0e5481374270cc9da0c674ad6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-fabric-1.18.2-3.0.35.jar"
 hash = "b55f8e9df29dab7e5fdebdbfb601d82a4605180b1ed89cfa3939cfe682bda8c9"
 
