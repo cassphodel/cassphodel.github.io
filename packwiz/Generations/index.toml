@@ -1024,11 +1024,6 @@ hash = "e1a457dec8060a35d450888a9d8a7e7de7639131ea2fd4375fd274b26d3d3a76"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.pw.toml"
-hash = "6743bb7b8c565fcfc0ebf20959ce16d97112b7b33b88b9047af7f28730257081"
-metafile = true
-
-[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "e95873611b67b2fee571ca8dbd2649db229d4b2b932345db586ad0d7ffe2887b"
 metafile = true
@@ -1037,6 +1032,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "e4e55a5a3429a6b419f33b1fcf325e9e14e976042095bd0a34c93450215fd25d"
 metafile = true
+
+[[files]]
+file = "mods/mostructures-1.0.1+mc.1.16.4.jar"
+hash = "077502c5fe94fe1209c586ff7d12b183ce866331d5bd64c4984804fadbaa7500"
 
 [[files]]
 file = "mods/nice-to-have.pw.toml"
@@ -1119,9 +1118,8 @@ hash = "afeb0f8656654bdc57761436b1d9175417567b5401608798491051827907e858"
 metafile = true
 
 [[files]]
-file = "mods/secret-rooms-fabric.pw.toml"
-hash = "7b1dad449f5cf2a9e50d4cc76ca2a00fc7b84dfde2c62e13ea6041ffd6929003"
-metafile = true
+file = "mods/secretrooms-0.9.3+1.16.5.jar"
+hash = "11c20ee0dd7b9c6eaf51ec1950790b06c1eedce89b8374bfb70cc9c8776569d3"
 
 [[files]]
 file = "mods/sihywtcamc-1.2+1.16.4.jar"
