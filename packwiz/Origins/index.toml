@@ -805,8 +805,9 @@ hash = "7b54965f8fc70aca1f15b34346dbc96b268aafe81765d5ca21b9e7078baceea1"
 metafile = true
 
 [[files]]
-file = "mods/architectury-1.26.40.jar"
-hash = "de04c6f222a53eb9c789d4f4e8ff7c868e4e5bfd84764e02d23ff8a15ed53d90"
+file = "mods/architectury-api.pw.toml"
+hash = "4030fc0ac3935cbe5ad420c5361959cd6fb73d19734a92a836de93408efbaed4"
+metafile = true
 
 [[files]]
 file = "mods/audiooutput-1.16.2-0.0.3.jar"
@@ -825,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "14033c0c526d305381d15519d222394a2ee9a33c861dd04c6c270fd7f453cb13"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "85fc1c1b68cf153930f3df8548734f16c167a801abbbb3608fe082448e647418"
 metafile = true
 
 [[files]]
@@ -856,10 +862,6 @@ metafile = true
 file = "mods/clickthrough.pw.toml"
 hash = "3a2bc19ed35db573a4a24bc51bc86b02b4fb35ef9a1c2fe81e21e8164208ab07"
 metafile = true
-
-[[files]]
-file = "mods/cloth-config-6.2.57-fabric.jar"
-hash = "4d0f7ef52e21f0e69eca198d8a2442ea8c6765685c6f7d1d263b717871b78420"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"

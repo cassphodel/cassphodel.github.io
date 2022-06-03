@@ -1,0 +1,13 @@
+name = "Vanilla Tweaks Origins 2"
+filename = "Vanilla Tweaks_Origins 2.zip"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. The website includes a picker with which you can create your very own collection of tweaks to be included in your game. You pick and choose, we do the rest!"
+
+[download]
+url = "https://www.dropbox.com/s/wptgevnp9ryiuhb/VanillaTweaks_Origins2.zip?dl=1"
+hash-format = "sha256"
+hash = "CBB374F189E05B717F84E185E82D7D18C2CEC6D048F92400275F7096213F8B12"

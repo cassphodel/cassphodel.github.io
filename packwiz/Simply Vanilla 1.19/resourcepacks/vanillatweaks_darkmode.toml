@@ -1,0 +1,13 @@
+name = "Vanilla Tweaks Dark Mode"
+filename = "Vanilla Tweaks_DarkMode.zip"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. The website includes a picker with which you can create your very own collection of tweaks to be included in your game. You pick and choose, we do the rest!"
+
+[download]
+url = "https://www.dropbox.com/s/gt4nep2wkymyms2/VanillaTweaks_DarkMode.zip?dl=1"
+hash-format = "sha256"
+hash = "C7D0B75AAF40054BDCDEA7FC619EDA87FAAE60BD57CE151E769898900312B780"

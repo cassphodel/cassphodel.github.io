@@ -1,0 +1,13 @@
+name = "Stay True"
+filename = "Stay True.zip"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Stay True is a visual remaster of the current default texture-pack, I tweaked and changed a lot of  current textures that I thought needed it. The changes are not drastic and still fit perfectly with the current color scheme and textures of the default texture pack, many of these changes will add a lot more diversity, removing repetitiveness which in turn results in a more realistic and overall nicer appearance."
+
+[download]
+url = "https://www.dropbox.com/s/3nka0t39v1d6tvr/Stay%20True.zip?dl=1"
+hash-format = "sha256"
+hash = "1624502376B391041C260EE64A8EACA81FA908BE7F8949BF2F4EF44FA24C04C9"

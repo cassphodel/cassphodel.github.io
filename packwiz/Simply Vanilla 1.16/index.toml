@@ -1,0 +1,125 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7b54965f8fc70aca1f15b34346dbc96b268aafe81765d5ca21b9e7078baceea1"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "ab254141bd5c094959203150330b19b5453b01bbee5d4601d0f204676bf1bc4e"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "85fc1c1b68cf153930f3df8548734f16c167a801abbbb3608fe082448e647418"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "6473fa1ca8cff2a08c50a5db67edfeb65280aad5f58b7e063af1c4ebddc86cf4"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "7f3af4e2529a17ee9be632ceb7ef7ca9c8c83ef601b21c68d9930149c7ea2bf4"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "3a2bc19ed35db573a4a24bc51bc86b02b4fb35ef9a1c2fe81e21e8164208ab07"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "1a2d97c540355a1b9f0b79154cf52f8d5ca2007de07ba6a8be1159d7d2d81c2e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b5cb24a4168af0e3a6400c248c440bd0bb6e08a8bb6d03922fa2b1f6376ed6d8"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f5901e29a05694a278b4714921db82363393fa13904e5e958ea894b1a22f6981"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0abe0481b3f45b4d59e556bf106534a733f1aec5060187dccf1ca61dd8970999"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5ad3b8f83668ed98de4e73c33120ea1ca60bc818c6b08427ca5999d4961fdd73"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "89b2a2d726bc85a3a0a0bac2db0b79c1c0e59854c973e0aaa45017a570aa7525"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "089b56c3e78120e2dbabed5dd286657f6f4cb2317d1ad3406ff0397837b1522e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "09cf109c20bb76b04db3016f0682d5b7ac112f93ad9790a9d43cfa3229171516"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e4e55a5a3429a6b419f33b1fcf325e9e14e976042095bd0a34c93450215fd25d"
+metafile = true
+
+[[files]]
+file = "mods/nogizmo.pw.toml"
+hash = "cb200057f88fb95c50a1a4d0aa60697e34dcf0b4dd546a5e9bc6ea0500782e91"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard-fabric.pw.toml"
+hash = "afeb0f8656654bdc57761436b1d9175417567b5401608798491051827907e858"
+metafile = true
+
+[[files]]
+file = "mods/sheep-consistency.pw.toml"
+hash = "8be4b863289b5a4e57df3976537c8e83f446a8c2228f31c884f352cdb1030404"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "2b1ab2f5f82dd9dec88db0b387ceb7fe49ae310c9d752777f515ef2aec34a622"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a63bf998df259adebbfca4e1f2947b909108c3babf29cf93936b60b71621c97b"
+metafile = true
+
+[[files]]
+file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
+hash = "faebc2e6f0cd048423fe0dcf39535211ffb17bb9e5a9adeea6de030c07b196a4"
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "062b6980da44d6f07b242b258d69826682a04d36e8a8ed6a50885e1ecbba64af"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "11ad7174c2577bc880721bf02442d2562d78a716879ac6465c96bc4dbc379b96"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "10d638f6c62147ab7c48e9c69a6c6c554bcfe619c7a2f862d22ffd1aa2133f41"
+metafile = true

@@ -1,0 +1,18 @@
+name = "Distant Horizons: A Level of Detail mod"
+filename = "DistantHorizons-1.6.3a-1.16.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "32ae2e6bb202a9400e00bebaa21c9ba4553168bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3764391
+project-id = 508933
+
+[option]
+optional = "true"
+default = "false"
+description = "Distant Horizons allows for chunks outside the render distance to be rendered at lower detail. Warning: this mod is in alpha and is extremely resource intensive."

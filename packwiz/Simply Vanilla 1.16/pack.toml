@@ -1,0 +1,16 @@
+name = "Wish Fulfillment: Simply Vanilla 1.16"
+author = "cassphodel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c3252d99f6ca8adb1e7470bcb7bf9fe125a391fba7c092ce98c52f45fcb1720"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.5", "1.16"]

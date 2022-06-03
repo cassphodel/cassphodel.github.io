@@ -1,0 +1,15 @@
+name = "Wish Fulfillment: Simply Vanilla 1.19"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "966b87b1a32b93e01449e0cb43f15ba5ddc017db71f753de4e0be1e98a0175fe"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.19-rc2"
+
+[options]
+acceptable-game-versions = ["1.19-rc2", "1.19-rc1", "1.19-pre4"]

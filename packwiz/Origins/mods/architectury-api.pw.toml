@@ -1,0 +1,14 @@
+name = "Architectury API"
+filename = "architectury-1.32.63.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.63+fabric/architectury-1.32.63.jar"
+hash-format = "sha1"
+hash = "3917511a9e6bfffd6df80084600ea710735d75e2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "7mmmFMxV"

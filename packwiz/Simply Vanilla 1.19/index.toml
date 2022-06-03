@@ -1,0 +1,48 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancements-enlarger.pw.toml"
+hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e2e6a1366f3ad18e09b3d289b8367c7e1939312afba61fed34aefa44c99c1147"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a6f83324caca3f4afc863754cde30711fb626db7d953db06ce4e1eed6cc1906b"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "288f229de9bfc3b4314e4a57ea4f2e73ba89b2ee62b0fb77bcd201faa5649a75"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compliance.pw.toml"
+hash = "2929add92f49330cd70777999c7376b723430575f19022662ad7825ee8ea0de4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/staytrue.toml"
+hash = "2f822e8c357b3281787dfdfbab173ce4389ec3e00779bb2363ba672916c3a285"
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "5acacb8dab4706f7c11306b5d17a115f380864bd586791db3bc3368dbde52afb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanillatweaks_darkmode.toml"
+hash = "269a547d3bdcedc6aa1ec3bb03918c53f8679151f53f1b666c8453adba23a20d"
+
+[[files]]
+file = "resourcepacks/vanillatweaks_origins2.toml"
+hash = "00b679338e3d7bb766dd2daa9b6299fc37f691b5044bae95234d129808690e80"

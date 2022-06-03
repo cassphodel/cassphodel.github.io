@@ -5315,7 +5315,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-additions.pw.toml"
-hash = "93fa075817b3b41864f9390f4121a76533e7eb3e254ad9f3fed23ecdbe64f165"
+hash = "dd1f24e8c57d2249ccffb749da5addfe738ae5de538491b0ddf916670cbffdf4"
 metafile = true
 
 [[files]]
@@ -5399,7 +5399,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "b529fe007c869b7f30f1d8dfc10aa9258bc0e3fe3d6e24020f5d71b1521e726b"
+hash = "b5cbeacd81556bb35baae52bc7576c35ce88dbe23021a9e39c192592af67e92e"
 metafile = true
 
 [[files]]
@@ -5424,7 +5424,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "2eaf54d060f96426c2d99b497d24aa2afb4e7d29ee1d72b3b347591edc9a666e"
+hash = "beed33cf896de71b0667ae5499904217fbad118d652f1a85eebd0d9fa01f14e6"
 metafile = true
 
 [[files]]
@@ -5512,7 +5512,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.pw.toml"
-hash = "4f16a03dabb368faf862a065662debf4156ccd305941a478b5d6bac944427dbe"
+hash = "da87f05c797f51c268f8d09a88e905bf33985ebf84cd2c5058d47509d9fcd930"
 metafile = true
 
 [[files]]
@@ -5581,7 +5581,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
+hash = "a580d407e80e0327592711f5deb1e34730e852dbab2d3de6dbd684a40e70fcc2"
 metafile = true
 
 [[files]]
@@ -5777,7 +5777,7 @@ hash = "3fefcdf4844faa79ba28a0c11625a6f6eeb5389630bb7f3df4ec47401236c135"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "08a9e3841f1025d972558e64e6d35ca5cc8cb48bacc20de3d6ef71f842083cc1"
+hash = "342ac585256604a947923e71c7489e6b92c72587910be9f5cfc42d51a6de94a6"
 metafile = true
 
 [[files]]
@@ -5797,7 +5797,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "22b07787d338866bb50df01328b2c355f7794cfe341b90c74c54521775f9d0a5"
+hash = "407ce658d76cdcf7049ab62ab50175dc61e5889254af8b840388f3ae965be8ac"
 metafile = true
 
 [[files]]
@@ -5807,7 +5807,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "5629c516ca7e25936359cda584c64118eb13d4232af593d96705c93b84a9cf6d"
+hash = "ea7abe71d5bbb0fcb4ec4ef2025232a22f2e9acae7a0d1652bbc63a276dcba82"
 metafile = true
 
 [[files]]
@@ -5832,17 +5832,17 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "64fa5ecce5d8f39948eb63786489be3de10154a62d53fff05aaf861cee80095f"
+hash = "8ca1cc52a03eb50066accb95d57654e9173b9c279c9dc017d964c4f22976bcb7"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "eaffd2377e668381b726a8e01df5114e5e8006ad857daf963a663c1509678dfa"
+hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c0e2ebc766c8680d6845ed6694f5d89ab418f67217059320d681b5d1ccdac502"
+hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
 metafile = true
 
 [[files]]
@@ -5877,7 +5877,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "21617d86a7e1a5fd42af3157e306542d971e047bde36a00bfde2b1cd83762a5f"
+hash = "2b8dc04f81b96f2c0cb3c0198ac62c3eba5b8cd8a97d17c93953da904d4da749"
 metafile = true
 
 [[files]]
@@ -5917,12 +5917,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81dd7391f2b1eb47ffd1a3c589adc658086c39a8906b4f501470a2e2c87c0ec0"
+hash = "a6a392bda7133ece2097dec112d8e5b319672f5be40139cba6787330deb207db"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e1df8de87a9b1405fe15374a9675559eef7959d23e2482f871a8833c8eccb3da"
+hash = "c0c3b565d421de2de8d5265971b7cdc309c9f5c7e8d2e92183dc056a8bad7ce7"
 metafile = true
 
 [[files]]

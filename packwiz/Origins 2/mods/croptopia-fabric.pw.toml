@@ -1,13 +1,13 @@
 name = "Croptopia [FABRIC/FORGE]"
-filename = "Croptopia-1.18.2-FABRIC-2.0.1.jar"
+filename = "Croptopia-1.18.2-FABRIC-2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2aa5f12a97f99f32a3c3b8a13f547491655f7662"
+hash = "1b9473c305cb5fa054079b69c8fc8f2b432747c2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3779983
+file-id = 3816093
 project-id = 415438
