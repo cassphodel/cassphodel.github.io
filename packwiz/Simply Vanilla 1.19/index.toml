@@ -33,6 +33,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/staytrue.toml"
 hash = "2f822e8c357b3281787dfdfbab173ce4389ec3e00779bb2363ba672916c3a285"
+metafile = true
 
 [[files]]
 file = "resourcepacks/unity.pw.toml"
@@ -42,7 +43,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/vanillatweaks_darkmode.toml"
 hash = "269a547d3bdcedc6aa1ec3bb03918c53f8679151f53f1b666c8453adba23a20d"
+metafile = true
 
 [[files]]
 file = "resourcepacks/vanillatweaks_origins2.toml"
 hash = "00b679338e3d7bb766dd2daa9b6299fc37f691b5044bae95234d129808690e80"
+metafile = true

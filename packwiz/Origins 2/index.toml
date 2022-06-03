@@ -5547,7 +5547,7 @@ metafile = true
 
 [[files]]
 file = "mods/ellemes-container-library.pw.toml"
-hash = "2be900da8ec2ac6841be11f04b36a36bca4b8f45f568a6ec50043ab1c930705e"
+hash = "b925e02a338a6d806d35003c57bf6c3125acb331058654bc98441ad5c4855ac2"
 metafile = true
 
 [[files]]
