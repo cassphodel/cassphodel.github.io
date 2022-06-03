@@ -5343,8 +5343,9 @@ hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
 metafile = true
 
 [[files]]
-file = "mods/architectury-4.3.53.jar"
-hash = "359cad2d04c57bd9cbb444177b43405e80228032b4873f6890ba8d40153f3782"
+file = "mods/architectury-api.pw.toml"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+metafile = true
 
 [[files]]
 file = "mods/artifacts-fabric.pw.toml"
@@ -5465,8 +5466,9 @@ hash = "ddaed8104a27f3d0eaf3c4956db1a9c53f9a8667a02e7f4e91f7c63bf6910920"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-6.2.57-fabric.jar"
-hash = "4d0f7ef52e21f0e69eca198d8a2442ea8c6765685c6f7d1d263b717871b78420"
+file = "mods/cloth-config.pw.toml"
+hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
+metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"

@@ -862,6 +862,11 @@ file = "mods/cloth-config-6.2.57-fabric.jar"
 hash = "4d0f7ef52e21f0e69eca198d8a2442ea8c6765685c6f7d1d263b717871b78420"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "bec5d979c40bf4a181a65f3c333b9b87892d8d10aaa498bce970dbd7dc7614bb"
+metafile = true
+
+[[files]]
 file = "mods/comforts-fabric.pw.toml"
 hash = "e3c12bb65e0e2ec7f349ace05312bbefeac815da9030a501bd78fb8fcfbee241"
 metafile = true

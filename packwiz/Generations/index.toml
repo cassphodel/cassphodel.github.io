@@ -137,10 +137,6 @@ file = "config/betterstrongholds/fabric-1_16/rareblocks.json"
 hash = "d6a7ad89b872184a4f72d1dd58557f4855758f9f08be4f257960c80ab8dae376"
 
 [[files]]
-file = "config/bewitchment.json"
-hash = "b4e34a3f59553148e6fa712458775f4510e39cea52a519547209d4688ddb5e06"
-
-[[files]]
 file = "config/byg/byg-biomes.json"
 hash = "7a1a6ac5599b14f4991e9709c77a8d0cd92464c74bc335cdc7831d297fa616db"
 
@@ -646,7 +642,7 @@ hash = "f29da987e59cf2660feb6de322e2774831b432d32d3b20955097ed3b52ae048d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "309912c79b2994e7dbbf14b9015cb2ec4f020793c0e755df0308a95326866322"
+hash = "30972eed3237d88bdf3aa9dee34003700c31ece8795f316ed512e3ef773c1ac1"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -721,8 +717,9 @@ hash = "7b54965f8fc70aca1f15b34346dbc96b268aafe81765d5ca21b9e7078baceea1"
 metafile = true
 
 [[files]]
-file = "mods/architectury-1.26.40.jar"
-hash = "de04c6f222a53eb9c789d4f4e8ff7c868e4e5bfd84764e02d23ff8a15ed53d90"
+file = "mods/architectury-api.pw.toml"
+hash = "4030fc0ac3935cbe5ad420c5361959cd6fb73d19734a92a836de93408efbaed4"
+metafile = true
 
 [[files]]
 file = "mods/audiooutput-1.16.2-0.0.3.jar"
@@ -794,8 +791,9 @@ hash = "3a2bc19ed35db573a4a24bc51bc86b02b4fb35ef9a1c2fe81e21e8164208ab07"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-6.2.57-fabric.jar"
-hash = "4d0f7ef52e21f0e69eca198d8a2442ea8c6765685c6f7d1d263b717871b78420"
+file = "mods/cloth-config.pw.toml"
+hash = "bec5d979c40bf4a181a65f3c333b9b87892d8d10aaa498bce970dbd7dc7614bb"
+metafile = true
 
 [[files]]
 file = "mods/columns.pw.toml"
@@ -868,9 +866,8 @@ hash = "580ac2258540a8d8fb82e933bb674dccd2224403ddb613ffbb5af69b6ec5eba3"
 metafile = true
 
 [[files]]
-file = "mods/extra-origins.pw.toml"
-hash = "d1d7618228866f06f9485e04a083d74d17b53b64cf85016cb89ea5616c37ca49"
-metafile = true
+file = "mods/extraorigins-1.16.5-12.jar"
+hash = "e837ef3a3b612ffd54e84a0356a09180f3f4c81b53de136bbad7356965b01437"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -980,11 +977,6 @@ hash = "5ad3b8f83668ed98de4e73c33120ea1ca60bc818c6b08427ca5999d4961fdd73"
 metafile = true
 
 [[files]]
-file = "mods/iron-jetpacks-fabric.pw.toml"
-hash = "b9233283de7588a6526d2f6d34c10dea4f60932a876e5390346e0c9067108b71"
-metafile = true
-
-[[files]]
 file = "mods/konkrete_fabric_1.1.3_MC_1.16.3-1.16.5.jar"
 hash = "48d568712fd6ee009cc3ea2662f6c8e3d6d0d6dec1cd7a079603aee4f9b84b86"
 
@@ -1069,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "5629c516ca7e25936359cda584c64118eb13d4232af593d96705c93b84a9cf6d"
+hash = "e2c6bb873359685d0f782df7b4f00effd53e5835007a221a634aa61e8c3f0992"
 metafile = true
 
 [[files]]
