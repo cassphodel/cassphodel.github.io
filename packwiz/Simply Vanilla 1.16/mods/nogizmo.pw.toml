@@ -1,6 +1,11 @@
 name = "nogizmo"
 filename = "nogizmo-mc1.16.3-1.3.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "nogizmo disables the 3D crosshair present in F3. Disable if you like having it."
 
 [download]
 hash-format = "sha1"

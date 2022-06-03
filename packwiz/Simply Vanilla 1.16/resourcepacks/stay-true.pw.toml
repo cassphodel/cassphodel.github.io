@@ -1,0 +1,19 @@
+name = "Stay True"
+filename = "Stay_True_1.16.zip"
+side = "client"
+
+[option]
+optional = "true"
+default = "false"
+description = "Stay True is a visual remaster of the current default texture-pack, I tweaked and changed a lot of  current textures that I thought needed it. The changes are not drastic and still fit perfectly with the current color scheme and textures of the default texture pack, many of these changes will add a lot more diversity, removing repetitiveness which in turn results in a more realistic and overall nicer appearance."
+
+
+[download]
+hash-format = "sha1"
+hash = "171dbfba076a0aef6b024d9e342ac7ec03d54b06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3181114
+project-id = 353554

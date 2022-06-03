@@ -21,6 +21,11 @@ hash = "6473fa1ca8cff2a08c50a5db67edfeb65280aad5f58b7e063af1c4ebddc86cf4"
 metafile = true
 
 [[files]]
+file = "mods/break-progress.pw.toml"
+hash = "a2d93ecea4b50cc8054d71b2850a5cf6b92061c4abbf26831a0ef42bc0a9981b"
+metafile = true
+
+[[files]]
 file = "mods/chime.pw.toml"
 hash = "7f3af4e2529a17ee9be632ceb7ef7ca9c8c83ef601b21c68d9930149c7ea2bf4"
 metafile = true
@@ -31,13 +36,33 @@ hash = "3a2bc19ed35db573a4a24bc51bc86b02b4fb35ef9a1c2fe81e21e8164208ab07"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "bec5d979c40bf4a181a65f3c333b9b87892d8d10aaa498bce970dbd7dc7614bb"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "1f4571f77f4b2757821d99a9537f0e30ab8963d4d8e8a2e9375ced0214e39ce6"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "1a2d97c540355a1b9f0b79154cf52f8d5ca2007de07ba6a8be1159d7d2d81c2e"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0b89ca4c0cd217785ab7dcc268a126ee91764a3ebfe9d1182d3b658f5e2a3544"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b5cb24a4168af0e3a6400c248c440bd0bb6e08a8bb6d03922fa2b1f6376ed6d8"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "191ff09a1c7ad541a3e98c07767923c7e66b3139ca3cbc546846ca20d3880cd7"
 metafile = true
 
 [[files]]
@@ -76,13 +101,33 @@ hash = "09cf109c20bb76b04db3016f0682d5b7ac112f93ad9790a9d43cfa3229171516"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "9297276e7cb592bab1dd5a7e531d6364a696c0f31b9c855a9178cbd9814838f4"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e4e55a5a3429a6b419f33b1fcf325e9e14e976042095bd0a34c93450215fd25d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "a1b27f50144bb769038f7cc9d31758f43539cf41fbf39f297a6938810a9ec428"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "cded7eba6658445f1a61f24b52fd68d6ae5cac8fb3f1c04d5613a8db495ddbf8"
+metafile = true
+
+[[files]]
 file = "mods/nogizmo.pw.toml"
 hash = "cb200057f88fb95c50a1a4d0aa60697e34dcf0b4dd546a5e9bc6ea0500782e91"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e1e74e025080e3ead1a2bb543ec6a062029afd97801948ac9d6e8b39d1cabc40"
 metafile = true
 
 [[files]]
@@ -122,4 +167,19 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "10d638f6c62147ab7c48e9c69a6c6c554bcfe619c7a2f862d22ffd1aa2133f41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "6c80f90d3c24a702133f55cff8893495ba2a8e63719f74233fffd8818f8d9426"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "b8b41857a5a9bc7221ed7781b457dcb97789b42650a0987dc012d0d599e97155"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "d11d13f1c21c9dec5c35f013ccdfcdc6e943fd7e35597e7fd9e59eeb105735e0"
 metafile = true
