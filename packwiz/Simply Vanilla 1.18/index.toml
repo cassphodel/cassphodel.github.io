@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/bedrockify.pw.toml"
-hash = "ecc990ff57a3f27180e53fc9356e9b55bc0791bc27227691ffb0996e76c9c6be"
+hash = "979ee0358a2c1f56d572db93962d44efbd619a24470b20d2078504654bb2ce7d"
 metafile = true
 
 [[files]]
@@ -333,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "28aecd6547365d789ea9e2ff812188283d74b045b8fa50e3c983d0402f1810e8"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "20fb0f2864bb742c07c4db408049ef8368a74f9708ab6dbf1b189c54206a063b"
 metafile = true
 
 [[files]]
@@ -428,6 +433,11 @@ hash = "abf43f1e9a7d4135d071f75b0c5dfff4489d9aa868104203409ce1b47d2ae766"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "d9c693222627bf2f895fce3b415f776cdd174ff8d1589f9f6481cfcb86842866"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "b8ac8ef13235f9728b85eddb5c2739ad28689a7cb1d4d308b17deb6d63bba9ca"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
@@ -464,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/nogizmo.pw.toml"
-hash = "fbb2eb2051d45ac3c9024eeb72f312161200e3ac288f4d6af4d71699d1c18462"
+hash = "dc69b4c6c06c072778c8ba7bd4a6e7641731b42d92c5b7f35c7c1ade714277ad"
 metafile = true
 
 [[files]]

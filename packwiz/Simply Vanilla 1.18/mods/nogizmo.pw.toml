@@ -1,6 +1,6 @@
 name = "nogizmo"
 filename = "nogizmo-mc1.18-1.5.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = "true"

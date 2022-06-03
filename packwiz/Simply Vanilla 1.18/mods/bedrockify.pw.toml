@@ -2,6 +2,11 @@ name = "BedrockIfy - Bedrock Features on Java!"
 filename = "bedrockify-1.4.1+mc1.18.2.jar"
 side = "both"
 
+[option]
+optional = "true"
+default = "true"
+description = "BedrockIfy brings Bedrock features into Java."
+
 [download]
 hash-format = "sha1"
 hash = "916bedb4305c4f735bc906937832bd8159ebc926"

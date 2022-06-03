@@ -1,0 +1,19 @@
+name = "Litematica"
+filename = "litematica-fabric-1.18.2-0.11.3.jar"
+side = "client"
+
+[option]
+optional = "true"
+default = "true"
+description = "Litematica allows for easier building of megastructures."
+
+
+[download]
+hash-format = "sha1"
+hash = "df3374fad636a66cda1f1e2d351aa3e50b8ea2ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3783909
+project-id = 308892
