@@ -1,5 +1,5 @@
 version:2975
-quilt_available_resource_packs:["Black Icons","Classic Icons","White Icons","continuity/default","continuity/glass_pane_culling_fix","file/Compliance-32x-Java-Beta-18.zip","file/PureBDcraft 128x MC118.zip","file/Stay True (1.18).zip","file/Stay True (Classic Leaves)","file/Stay True (WF Edition)","file/The Andrew Experience.zip","file/VanillaTweaks_r371602 [1.18].zip","file/xali\u0027s Enchanted Books v0.9.zip","programer_art","vanilla"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","programer_art","vanilla","betterbeds/connectedbeds","betterbeds/fancybeds","file/Stay True.zip","file/Vanilla Tweaks_DarkMode.zip","file/Vanilla Tweaks_Origins 2.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Stay True (Classic Leaves)","file/VanillaTweaks_r371602 [1.18].zip","file/xali\u0027s Enchanted Books v0.9.zip","file/The Andrew Experience.zip"]
+resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Vanilla Tweaks_Origins 2.zip","file/Vanilla Tweaks_DarkMode.zip","file/Stay True.zip"]
 incompatibleResourcePacks:[]
 lastServer:192.168.0.243:56021
 lang:en_us
@@ -124,9 +124,7 @@ key_key.deathlog.death_screen:key.keyboard.end
 key_key.ecs.swap:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.freecam.toggle:key.keyboard.c
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.o
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.freecam.playerControl:key.keyboard.unknown
 key_key.lambdacontrols.look_up:key.keyboard.keypad.8
 key_key.lambdacontrols.look_right:key.keyboard.keypad.6
 key_key.lambdacontrols.look_down:key.keyboard.keypad.2
@@ -137,15 +135,6 @@ key_key.mousewheelie.sort_inventory:key.mouse.middle
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.unknown
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.v
-key_key.disable_voice_chat:key.keyboard.end
-key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.i
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
@@ -167,12 +156,17 @@ key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_wm_toggle_minimap_radar:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.o
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0

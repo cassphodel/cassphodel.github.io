@@ -225,8 +225,12 @@ file = "config/xaeroworldmap.txt"
 hash = "954e10ab612e037a2eb6674b20f44fb75866c0d101d91af37bfac49e590bf366"
 
 [[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "15a8f24620ca392e2930ea3447d00567519fd2e3a7659dc5e0b0bf210ed177f5"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "9db13a5d1fbfa69240dfe68982045d85cd53345df43be0120201b788e62f8124"
+hash = "1b0c6077a828c273aeb58fac169cdf63500cf270a9335f321b6a3b19617bf033"
 
 [[files]]
 file = "mods/advancements-enlarger.pw.toml"
@@ -337,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "20fb0f2864bb742c07c4db408049ef8368a74f9708ab6dbf1b189c54206a063b"
+hash = "74f89e0b26c1d446c410b3f0bb48c52ceee228b9a9fbb10076d09efde2ff9638"
 metafile = true
 
 [[files]]
