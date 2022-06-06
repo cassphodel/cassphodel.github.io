@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/nogizmo.pw.toml"
-hash = "cb200057f88fb95c50a1a4d0aa60697e34dcf0b4dd546a5e9bc6ea0500782e91"
+hash = "2409170b064165b69c177c5f6709889792aebb9e36ce8f94d623a1b65528ab0e"
 metafile = true
 
 [[files]]
@@ -170,13 +170,18 @@ hash = "10d638f6c62147ab7c48e9c69a6c6c554bcfe619c7a2f862d22ffd1aa2133f41"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "6c80f90d3c24a702133f55cff8893495ba2a8e63719f74233fffd8818f8d9426"
+hash = "dae5b323d619d1a6f052c77bdd2a29f82fcaafda04be63028f61467ac0e39aa4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unity.pw.toml"
-hash = "b8b41857a5a9bc7221ed7781b457dcb97789b42650a0987dc012d0d599e97155"
+hash = "9a8151af95b58b20e8e0e85e27d8817311307ebdfd6959c72cdfaee0a6d529b1"
 metafile = true
 
 [[files]]

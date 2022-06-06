@@ -367,7 +367,7 @@ hash = "0ee1c5f3d67212ae138149d4b70861ce161c5d2307643346ddd7c2786932dc95"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
+hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
 metafile = true
 
 [[files]]
@@ -491,12 +491,12 @@ hash = "3fefcdf4844faa79ba28a0c11625a6f6eeb5389630bb7f3df4ec47401236c135"
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "eaffd2377e668381b726a8e01df5114e5e8006ad857daf963a663c1509678dfa"
+hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c0e2ebc766c8680d6845ed6694f5d89ab418f67217059320d681b5d1ccdac502"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
@@ -521,12 +521,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81dd7391f2b1eb47ffd1a3c589adc658086c39a8906b4f501470a2e2c87c0ec0"
+hash = "a6a392bda7133ece2097dec112d8e5b319672f5be40139cba6787330deb207db"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e1df8de87a9b1405fe15374a9675559eef7959d23e2482f871a8833c8eccb3da"
+hash = "c0c3b565d421de2de8d5265971b7cdc309c9f5c7e8d2e92183dc056a8bad7ce7"
 metafile = true
 
 [[files]]
