@@ -5221,6 +5221,10 @@ file = "config/servercore.toml"
 hash = "0893d0c75f109dfc161ed112a88975a135bd34558209a5c349954d4d4d4d9cfe"
 
 [[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "d43c5d1dfbf271e58fdd8ef2a724c10f72269aaccdcc71226a5079c541defd57"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738"
 
@@ -5380,6 +5384,11 @@ metafile = true
 [[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "ecc990ff57a3f27180e53fc9356e9b55bc0791bc27227691ffb0996e76c9c6be"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.pw.toml"
+hash = "1e954aaaa8a744866381bdc495c108b184f066a973c8233704a586b8429078a9"
 metafile = true
 
 [[files]]
@@ -5858,6 +5867,11 @@ metafile = true
 [[files]]
 file = "mods/sheep-consistency.pw.toml"
 hash = "37e300586bc8fc7bb0154d658caddec3e9a95b15fb6dca81f5423890fd4166ff"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "8de78e1eb073b1aea2af6953362804718b68c2e3b8934f3200762092a0dcda8b"
 metafile = true
 
 [[files]]

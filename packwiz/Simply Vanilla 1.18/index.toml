@@ -165,6 +165,10 @@ file = "config/rrp.properties"
 hash = "bb3c440223ec83a5db900599501aab7edeab8fef038daae5b24c4c3efc04c83a"
 
 [[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "d43c5d1dfbf271e58fdd8ef2a724c10f72269aaccdcc71226a5079c541defd57"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "a37b4e0b992e96184975f56dad1fa25afedcc7b76402efc7bd4a23b7c8af3902"
 
@@ -277,6 +281,11 @@ hash = "979ee0358a2c1f56d572db93962d44efbd619a24470b20d2078504654bb2ce7d"
 metafile = true
 
 [[files]]
+file = "mods/beenfo.pw.toml"
+hash = "1e954aaaa8a744866381bdc495c108b184f066a973c8233704a586b8429078a9"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "43ad173e5e3b92a29c52ba9f7af4c9ba63bf2c57076ea83349967f37499dccef"
 metafile = true
@@ -386,11 +395,6 @@ hash = "4d2911ace7454364aec1b496a976cbee02ee8f2d254bf83a9c1af05c5e90eda9"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "080789b2856c84e8a971e270c62012ee995b3aa16373ed6c45ba7bd13a317eaf"
-metafile = true
-
-[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
@@ -398,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
-metafile = true
-
-[[files]]
-file = "mods/inspecio.pw.toml"
-hash = "3744b37943bf6a59a883764941114262ef5a7468a59b83938b6a3e50ac740c88"
 metafile = true
 
 [[files]]
@@ -507,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/sheep-consistency.pw.toml"
 hash = "37e300586bc8fc7bb0154d658caddec3e9a95b15fb6dca81f5423890fd4166ff"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "8de78e1eb073b1aea2af6953362804718b68c2e3b8934f3200762092a0dcda8b"
 metafile = true
 
 [[files]]
