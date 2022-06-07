@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "ed0df821bc716ff4f83f5000c84fe3f45357591b84ce503f9bcf45019c7a6a17"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
+
+[[files]]
 file = "mods/advancements-enlarger.pw.toml"
 hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
 metafile = true
@@ -12,17 +24,66 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8f45b4cff70962f73389b08b9422bbca049708e7f6f99c2f3329c9bae859b1ee"
+hash = "f8a26df27fe9676b6267677155a6f030a4856beff5ae4fee8f21c3f3d44a98d9"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a6f83324caca3f4afc863754cde30711fb626db7d953db06ce4e1eed6cc1906b"
+hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "2b64ff013f8fccb2e7e96c27c569aa9e43c7aa86555844c8ebe3dfe6e50ce26e"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks.jar"
+hash = "e05d8a6829d7071e7a0f5bfbd1bc044e6de5db5f5c37815eafc5b3d658b11cf4"
+
+[[files]]
+file = "mods/nether-portal-accessibility.pw.toml"
+hash = "0339c553e0e96e1e2c4a9a0a35d95310248a5215b91bab9232cb3942fdf6eade"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "288f229de9bfc3b4314e4a57ea4f2e73ba89b2ee62b0fb77bcd201faa5649a75"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "677e6eb10c7aa494473d1c9b55eaf54e4389ac19f7131564a153f81b43da45f2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5e14ee3730e67f5f210ec4797bb9420073403ec1925e755c43c802b38a76ad19"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
@@ -46,6 +107,6 @@ hash = "269a547d3bdcedc6aa1ec3bb03918c53f8679151f53f1b666c8453adba23a20d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vanillatweaks_origins2.toml"
-hash = "00b679338e3d7bb766dd2daa9b6299fc37f691b5044bae95234d129808690e80"
+file = "resourcepacks/vanillatweaks_wildupdate.toml"
+hash = "6e8b2fd63b4685f74f0bc9b853d90ce6f4836f761086e2c9e157f020bb06ff89"
 metafile = true

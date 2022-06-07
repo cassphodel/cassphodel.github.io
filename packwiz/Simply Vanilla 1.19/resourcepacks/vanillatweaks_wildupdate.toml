@@ -1,5 +1,5 @@
-name = "Vanilla Tweaks Origins 2"
-filename = "Vanilla Tweaks_Origins 2.zip"
+name = "Vanilla Tweaks Wild Update"
+filename = "Vanilla Tweaks_WildUpdate.zip"
 side = "client"
 
 [option]
@@ -8,6 +8,6 @@ default = "true"
 description = "Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. The website includes a picker with which you can create your very own collection of tweaks to be included in your game. You pick and choose, we do the rest!"
 
 [download]
-url = "https://www.dropbox.com/s/wptgevnp9ryiuhb/VanillaTweaks_Origins2.zip?dl=1"
+url = "https://www.dropbox.com/s/dek2nyr0lm284ti/VanillaTweaks_WildUpdate.zip?dl=1"
 hash-format = "sha256"
-hash = "CBB374F189E05B717F84E185E82D7D18C2CEC6D048F92400275F7096213F8B12"
+hash = "9EF2E5D391DC9B84C0C1DE5BFA784C95E5B57149BF87EEC451A828F42A880E59"
