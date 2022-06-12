@@ -1,0 +1,14 @@
+name = "nogizmo"
+filename = "nogizmo-mc1.19-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxeeiAUG/versions/1.6/nogizmo-mc1.19-1.6.jar"
+hash-format = "sha1"
+hash = "09dbc0d200f0698b9e23bae420da43dfb5ac0437"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "dxeeiAUG"
+version = "ZUFFUFbB"

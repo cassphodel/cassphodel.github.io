@@ -13,8 +13,32 @@ file = "config/yosbr/options.txt"
 hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
 
 [[files]]
+file = "mods/CITResewn-1.1.0+1.19.jar"
+hash = "2aa216610ab5e4a07bd6b9c039f7e7efd2b521bd298399c6ce788d35688c8a48"
+
+[[files]]
 file = "mods/advancements-enlarger.pw.toml"
 hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "cf1c8c1b2de20c6d260277ed690acbf02f876d901071eb6a2fb46135fd7455d7"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d22a3f3162c5fdfcddc5687bbead9c001003d4cd1cf05be711ec4b3bb674565a"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "7495abb08e7df662bf47a549c10d7833d2365bbf375b20136c1e09c0c21a9765"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
 metafile = true
 
 [[files]]
@@ -23,8 +47,23 @@ hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
 
 [[files]]
+file = "mods/beenfo.pw.toml"
+hash = "cb8269ce5369544853fed81ade531ce30a04d0f1be79dde665a99fa42a753b84"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "9962f073ca683f9d979b62b97e9dc5a44072a58bc9121af3c9719f004085f61e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "dbf2c28de7653648cca1bfb357ff393fe8a7b3bd06dbcfc6780b91e63b7b9e82"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f8a26df27fe9676b6267677155a6f030a4856beff5ae4fee8f21c3f3d44a98d9"
+hash = "e6c2096ab51783e86b5dd740b176c2a1d2409337bf18ba7de87fcd767e7157e5"
 metafile = true
 
 [[files]]
@@ -33,8 +72,13 @@ hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "255ca8fe8e9973c40ff191d738f276f603153ff4039fbb1a0d4ddc239abdc3f0"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
@@ -62,13 +106,43 @@ hash = "0339c553e0e96e1e2c4a9a0a35d95310248a5215b91bab9232cb3942fdf6eade"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "422acd4c858b8ba3ad84237220c07d26a9189e8959ee9675cf5fb4480e9d691d"
+metafile = true
+
+[[files]]
+file = "mods/nogizmo.pw.toml"
+hash = "b21362213e87334afdd2e735f01eb97c1e111f0a11c7d653984f10d30427425b"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest-fabric.pw.toml"
+hash = "1d5c795ada054e5ded0b426174f67bf98efdaa6a27ff424b259237c8c2aa2e17"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "9147414569dfdb12dab792512c7d810258ae563edd6fad91ae5f622d1792cd89"
+metafile = true
+
+[[files]]
+file = "mods/sheep-consistency.pw.toml"
+hash = "37e300586bc8fc7bb0154d658caddec3e9a95b15fb6dca81f5423890fd4166ff"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "288f229de9bfc3b4314e4a57ea4f2e73ba89b2ee62b0fb77bcd201faa5649a75"
+hash = "05be6d85d6485589a2c6b5ebe84e5fa11e689a9eb63f31444314e3264a168a1e"
 metafile = true
 
 [[files]]
