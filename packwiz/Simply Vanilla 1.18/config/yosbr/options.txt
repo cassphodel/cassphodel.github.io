@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Stay True (WF Edition)","file/Vanilla Tweaks_Origins 2.zip","file/Vanilla Tweaks_DarkMode.zip","file/elytra.zip","file/xali\u0027s Enchanted Books v0.9.zip","file/The Andrew Experience.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Stay True.zip","file/Vanilla Tweaks_Origins 2.zip","file/Vanilla Tweaks_DarkMode.zip","file/elytra.zip","file/xali\u0027s Enchanted Books v0.9.zip","file/The Andrew Experience.zip"]
 incompatibleResourcePacks:[]
 lastServer:192.168.0.243:56021
 lang:en_us
@@ -48,7 +48,7 @@ textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:true
-pauseOnLostFocus:false
+pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
 heldItemTooltips:true
