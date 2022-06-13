@@ -1,5 +1,4 @@
 version:2975
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","programer_art","vanilla","betterbeds/connectedbeds","betterbeds/fancybeds","file/Stay True.zip","file/Vanilla Tweaks_DarkMode.zip","file/Vanilla Tweaks_Origins 2.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -37,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Vanilla Tweaks_Origins 2.zip","file/Vanilla Tweaks_DarkMode.zip","file/Stay True.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Stay True (WF Edition)","file/Vanilla Tweaks_Origins 2.zip","file/Vanilla Tweaks_DarkMode.zip","file/elytra.zip","file/xali\u0027s Enchanted Books v0.9.zip","file/The Andrew Experience.zip"]
 incompatibleResourcePacks:[]
 lastServer:192.168.0.243:56021
 lang:en_us
@@ -123,12 +122,6 @@ key_bedrockIfy.key.settings:key.keyboard.b
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.ecs.swap:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.freecam.toggle:key.keyboard.c
-key_key.freecam.playerControl:key.keyboard.unknown
-key_key.lambdacontrols.look_up:key.keyboard.keypad.8
-key_key.lambdacontrols.look_right:key.keyboard.keypad.6
-key_key.lambdacontrols.look_down:key.keyboard.keypad.2
-key_key.lambdacontrols.look_left:key.keyboard.keypad.4
 key_key.logical_zoom.zoom:key.mouse.4
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.mouse.middle
@@ -164,9 +157,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_wm_toggle_minimap_radar:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.o
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0

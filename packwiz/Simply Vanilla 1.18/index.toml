@@ -539,9 +539,17 @@ hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/The Andrew Experience.zip"
+hash = "80dc1c13858f78c3e62abdbebcfa2a5ba239fc876af1f08e993a47bc38b04d05"
+
+[[files]]
 file = "resourcepacks/compliance.pw.toml"
 hash = "2929add92f49330cd70777999c7376b723430575f19022662ad7825ee8ea0de4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/elytra.zip"
+hash = "47700e459fc64d7e3a026d30a51da95ae22e50e6b05b660ea625e604054bbf5f"
 
 [[files]]
 file = "resourcepacks/staytrue.toml"
