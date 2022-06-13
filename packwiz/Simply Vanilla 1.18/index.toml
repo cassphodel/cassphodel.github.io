@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+hash = "62023af97326e7f5973d9704af59a498118c07227fcc1ab607da007e62b90e88"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "553f3f18b2ed3a484ae0ecaae453e2e674e7a13dc5045bc582ae260b632cacb9"
+hash = "ed6bd9ac3ea3c5acc5505c1b2de9181f276014235ec872443d1554afcfebd522"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
+hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "e908fcb242bda46e38c324bbcfd810f38d555a61ab766aef32e4f56e1561fa77"
+hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
 metafile = true
 
 [[files]]
@@ -490,12 +490,12 @@ hash = "3fefcdf4844faa79ba28a0c11625a6f6eeb5389630bb7f3df4ec47401236c135"
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
+hash = "1d5c795ada054e5ded0b426174f67bf98efdaa6a27ff424b259237c8c2aa2e17"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
+hash = "bd86bfc2dc17789f239be8547a155b3e6f2429df1cffa23b2bcc1952b3cd24a8"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "8de78e1eb073b1aea2af6953362804718b68c2e3b8934f3200762092a0dcda8b"
+hash = "010e81882aab141266a2255d475cf5e1dca19143a7ec9daa709ba49c889e5e72"
 metafile = true
 
 [[files]]
@@ -525,12 +525,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a6a392bda7133ece2097dec112d8e5b319672f5be40139cba6787330deb207db"
+hash = "e3864ef03dd986bde40d98d01d77a171e7861c7b04993f8a500754bfb72a7e53"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c0c3b565d421de2de8d5265971b7cdc309c9f5c7e8d2e92183dc056a8bad7ce7"
+hash = "b39ea4b76fe845d90c1dc4d2b5a9dace1a0d8a0b952f1c8a28e5b6c4997e135f"
 metafile = true
 
 [[files]]
