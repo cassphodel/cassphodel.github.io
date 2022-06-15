@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-0.4.0.jar"
+filename = "midnightlib-0.4.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bad7a3239314c297a1793b96a8688ba71b0b928e"
+hash = "5dd23557e5417f4174f0750e73e2b6fc9c3c53e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3657092
+file-id = 3821194
 project-id = 488090
