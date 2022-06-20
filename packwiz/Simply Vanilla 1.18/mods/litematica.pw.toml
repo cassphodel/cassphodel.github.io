@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = "true"
-default = "true"
+default = "false"
 description = "Litematica allows for easier building of megastructures."
 
 
