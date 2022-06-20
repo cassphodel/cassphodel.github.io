@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.16.X-Base-2.4.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39eae7dacc98c87b224a40ea303d64fc8a9462bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3190886
+project-id = 222097

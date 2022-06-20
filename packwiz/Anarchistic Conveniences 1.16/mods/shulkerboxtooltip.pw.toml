@@ -1,0 +1,13 @@
+name = "ShulkerBoxTooltip"
+filename = "shulkerboxtooltip-2.3.8+1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "518898e117922b1ea0cd7f9b079e2c4bd5a44a04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3531089
+project-id = 315811

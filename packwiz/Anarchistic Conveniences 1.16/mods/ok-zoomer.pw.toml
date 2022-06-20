@@ -1,0 +1,13 @@
+name = "Ok Zoomer"
+filename = "okzoomer-4.0.1+1.16.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60ee683e6a75da17ab105ea65f89871352711af6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3048200
+project-id = 354047

@@ -1,0 +1,13 @@
+name = "Advanced NBT Tooltips"
+filename = "advanced-nbt-tooltip-1.6.0+build.3-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04fc9dcaa1974ab9a84f3eb5a9e7fe7450cfadd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3294915
+project-id = 393788

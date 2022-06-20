@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advanced-nbt-tooltips.pw.toml"
+hash = "6f0a1085c2a76a439e454f0e6d97ae0891d5b2bc67494a914bccd854737c34be"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "44c97139367bae9aa1f259ce2f35fc731a62e71e6c34eedd4bbcc737cd8e8233"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "6473fa1ca8cff2a08c50a5db67edfeb65280aad5f58b7e063af1c4ebddc86cf4"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "59cdd2c058070a3ea40bf27f2047111feed8cfa49143a553533bc244c69f3431"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c60bb92d80a5e4327c69ef4f3fb0537753916e73c60819e4a196f488546380eb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2fa2af1dc925f206b987c7e92d4ac4182453febf286544aa7c64029d1dff4551"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "17e87c3df5059cb66025a094ce4fff3bbdb2960e808291245f356a773addda39"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e4e55a5a3429a6b419f33b1fcf325e9e14e976042095bd0a34c93450215fd25d"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "7cc88517ad101b6cfed4c0fc1ba90df1e9bcaf4d6ab2a14d622fc41862ed21d7"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "75c9c2e5d996987d61ae565ed74a35946a6e29a776b793aa7f19b167d16c7432"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "9e7e56e6ac8d333a244c64d08e40065971b5fe0f121d69a552514ac3a36679d7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a63bf998df259adebbfca4e1f2947b909108c3babf29cf93936b60b71621c97b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9c54780d27f7dc66de5fcc797af78f9cade805e6cb6cab4dc51c55c484e521a2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7ff38f1d5088c56d6291e86ad9dafb3b687742b79af5d72efe9351c9395293d8"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "f7b06cb8ec7928fff97239728f125646d9100499fc99281a1fd73486e5fa1841"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "44b00972b8ba650259d8bf4a5621626acd354ddceae9a54129fd8fa44443c4fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "b8b41857a5a9bc7221ed7781b457dcb97789b42650a0987dc012d0d599e97155"
+metafile = true
