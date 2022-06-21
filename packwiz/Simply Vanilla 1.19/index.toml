@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bedrockify.json"
+hash = "5ccb5a45d42168272d8fe0e0f7c340ce09bc550c9f5daca890abde89056b0469"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "ed0df821bc716ff4f83f5000c84fe3f45357591b84ce503f9bcf45019c7a6a17"
 
@@ -11,10 +15,6 @@ hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
-
-[[files]]
-file = "mods/CITResewn-1.1.0+1.19.jar"
-hash = "2aa216610ab5e4a07bd6b9c039f7e7efd2b521bd298399c6ce788d35688c8a48"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -42,6 +42,11 @@ hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
 
 [[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "20d8c1721cda16f6810c773edfbc464b0b9226ef2f0bfec62fa488eacadedc4a"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "cb8269ce5369544853fed81ade531ce30a04d0f1be79dde665a99fa42a753b84"
 metafile = true
@@ -49,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/boosted-brightness.pw.toml"
 hash = "3988a0d8049951659e3be5324c24bdf7fba3a45292141dbb88779205eb4022e5"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d4d632cfad45945d9499da99693f0bcdda0ddb4cb47169e25666264edb8f67ef"
 metafile = true
 
 [[files]]
@@ -66,13 +76,28 @@ file = "mods/connected-doors-1.1+1.19.jar"
 hash = "787c8534fd750eb2342cff11e56b1a1f0e6a35665dd722f3e22343ddb960c088"
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "96a3463c6b05867e7ed2cf98bd7faed2b8d190913d9d8f9b551bbae6eab8efe4"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "0850a39b11db4a0d5063c2b00430e0d17d6ec4534b5e267a9508b119fe4ce58f"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "2db492a7ec0d37888c765c6d3a4a362de8b1539cfcaf97138176cb1e115d5da0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "48940c3d311a2c814001ca89a4c2cb52274c8e698d6409457487b3f533c7ac6f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "6740ed944875ddd29d44b38bb88fd5050f600d44ff30ff3d553cbb9394254d8c"
 metafile = true
 
 [[files]]
@@ -101,13 +126,14 @@ hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "555760a4c07416b9408402172dd73f11341a836dd6e749d2ef0a2f30a868987b"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "3564b7d6d1d3f807ed9a9a44e53b1eba9b887fa547237e428fa32b438f6439f4"
 metafile = true
 
 [[files]]
-file = "mods/mousetweaks.jar"
-hash = "e05d8a6829d7071e7a0f5bfbd1bc044e6de5db5f5c37815eafc5b3d658b11cf4"
+file = "mods/mouse-wheelie.pw.toml"
+hash = "555760a4c07416b9408402172dd73f11341a836dd6e749d2ef0a2f30a868987b"
+metafile = true
 
 [[files]]
 file = "mods/nether-portal-accessibility.pw.toml"
@@ -122,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/nogizmo.pw.toml"
 hash = "b21362213e87334afdd2e735f01eb97c1e111f0a11c7d653984f10d30427425b"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "7b12e2521aad003e0ed3ec2fa89e936a1db238e580ddc5c98667dacd5dbf9e37"
 metafile = true
 
 [[files]]

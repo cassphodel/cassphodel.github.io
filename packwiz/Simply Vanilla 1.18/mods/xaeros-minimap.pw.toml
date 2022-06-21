@@ -2,6 +2,11 @@ name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_22.9.3_Fabric_1.18.2.jar"
 side = "both"
 
+[option]
+optional = "true"
+default = "true"
+description = "Xaero's Minimap is a minimap that keeps to the aesthetic of vanilla Minecraft."
+
 [download]
 hash-format = "sha1"
 hash = "d69803acd7ac4c4e89a8565b1f155cf2729389b8"

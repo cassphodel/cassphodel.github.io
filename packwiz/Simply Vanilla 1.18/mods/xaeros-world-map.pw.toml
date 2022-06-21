@@ -2,6 +2,11 @@ name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.23.3_Fabric_1.18.2.jar"
 side = "both"
 
+[option]
+optional = "true"
+default = "true"
+description = "Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap."
+
 [download]
 hash-format = "sha1"
 hash = "bf12529194e592644243f21a5aa191475996044d"
