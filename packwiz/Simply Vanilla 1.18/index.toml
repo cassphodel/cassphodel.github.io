@@ -173,6 +173,10 @@ file = "config/skinlayers.json"
 hash = "a37b4e0b992e96184975f56dad1fa25afedcc7b76402efc7bd4a23b7c8af3902"
 
 [[files]]
+file = "config/skinswapper.json"
+hash = "e10283ecf74861e59ced1ab44857833b2eeffe3a26160e3e3a2f85a11796aa3e"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
