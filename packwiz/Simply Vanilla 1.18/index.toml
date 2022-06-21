@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "dc919fbccb9d268f08d65b6cb9411f9bb6eae98b8770f4d6ebec43157ac679d9"
+hash = "cb31a6021573e5d57ca44d97e64f5e80f91caa7dd8c08c3b5d2afe72e48da306"
 metafile = true
 
 [[files]]
@@ -346,13 +346,8 @@ hash = "ee040b13b9c9e71e09803d16e48527ac47465d9b1a30185c44c933a2e2243403"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "74f89e0b26c1d446c410b3f0bb48c52ceee228b9a9fbb10076d09efde2ff9638"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f0a8204b063b65f66eab06e065fec4dfed765884a67a9dc61eccd63c3ab47168"
+hash = "cb453e4d6ffe07218504fd11dc5bf48a2827e2ab2ef50c7a278a5a5d7b48b7eb"
 metafile = true
 
 [[files]]
@@ -475,11 +470,6 @@ hash = "667d9e683beb4739d9f2ed50aca3023428c0cd03afb9811667ef209c09283856"
 metafile = true
 
 [[files]]
-file = "mods/no-phoning-home.pw.toml"
-hash = "97af10acf39f2f18c1572070792931027b94f7af0c58f1b6bada7754bac72e2d"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ef0ad7353b79f507bd76c56716e8a6fc717cf3ab90135e0466fe39eb4662ab92"
 metafile = true
@@ -491,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/nogizmo.pw.toml"
-hash = "671b6b7176af4746cd3b3f0d64169b8f37fb3f1be274f7ecd9cc19007a12b6d8"
+hash = "1536112c10a327541eebf0d61455ec2f2d0b4bc0a6582056332c0c190b8fefd0"
 metafile = true
 
 [[files]]
