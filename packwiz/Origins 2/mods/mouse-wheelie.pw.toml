@@ -1,13 +1,14 @@
-name = "Mouse Wheelie (Fabric)"
-filename = "mousewheelie-1.9.0+mc1.18.2.jar"
+name = "Mouse Wheelie"
+filename = "mousewheelie-1.9.1+mc1.18.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/1.9.1+mc1.18.2/mousewheelie-1.9.1%2Bmc1.18.2.jar"
 hash-format = "sha1"
-hash = "b95ecc0fa9ac7bc6c5fe03d6ba074ef60da20647"
-mode = "metadata:curseforge"
+hash = "26aeea7a89d2801a319a9f8b3426e38fb62c260f"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3832048
-project-id = 317514
+[update.modrinth]
+mod-id = "u5Ic2U1u"
+version = "lcCY0KZL"
