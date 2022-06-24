@@ -10,15 +10,20 @@ hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "ed0df821bc716ff4f83f5000c84fe3f45357591b84ce503f9bcf45019c7a6a17"
+hash = "b79cd19a84cd86040258e38215b43b04ebb473761398cad3ce4f121ff4198e82"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+hash = "cf2dcdca67076c7b59573140082f166da0c260cf932120eee956632f2e6870f6"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
+
+[[files]]
+file = "mods/advancements-enlarger.pw.toml"
+hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -53,6 +58,26 @@ metafile = true
 [[files]]
 file = "mods/beenfo.pw.toml"
 hash = "cb8269ce5369544853fed81ade531ce30a04d0f1be79dde665a99fa42a753b84"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "c7b770b9f0a69de02a3d427403e167a09a25ca0cfc26f74d399be2dd21ad6527"
+metafile = true
+
+[[files]]
+file = "mods/better-controls.pw.toml"
+hash = "b4b9b7e1e51e76892dc8002b396cd21f3f8a92b007f02047c6f6b89045c7901e"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "113e971e1a3d588d43beedef5702d8dd40abf150d99b6d0d82f39c2bc381335d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "455c662cc51dec506f65b8989db19650093be75b704f2c674e8375c32e016a58"
 metafile = true
 
 [[files]]
@@ -102,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6740ed944875ddd29d44b38bb88fd5050f600d44ff30ff3d553cbb9394254d8c"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
