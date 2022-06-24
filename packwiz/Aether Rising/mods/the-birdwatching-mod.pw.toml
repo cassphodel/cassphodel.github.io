@@ -1,0 +1,13 @@
+name = "The Birdwatching Mod"
+filename = "TheBirdwatchingMod-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6df37f99c41b8d811881044551c0df99afe86287"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2925159
+project-id = 316581

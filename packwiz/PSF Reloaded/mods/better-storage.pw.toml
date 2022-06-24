@@ -1,0 +1,13 @@
+name = "Better Storage"
+filename = "BetterStorage-1.7.10-0.13.1.126.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0d938e7618616485b50ac03bbd1b4ccd30a8324"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2248061
+project-id = 232919

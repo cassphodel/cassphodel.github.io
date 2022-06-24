@@ -1,0 +1,13 @@
+name = "Mine & Blade: Battlegear 2"
+filename = "1.7.10-MB_Battlegear2-Bullseye-1.0.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bde2f36210c7e486f31538c7695ce0002ac05bb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2286765
+project-id = 59710

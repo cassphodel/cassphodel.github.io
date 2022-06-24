@@ -1,0 +1,13 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_22.9.3_Forge_1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bbf6f765d2b30ba7987698b274a68fba88936ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835765
+project-id = 263420

@@ -1,0 +1,13 @@
+name = "Super Massive Tech"
+filename = "SuperMassiveTech-MC1.7.10-0.4.0-beta-114.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2655133086"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2273970
+project-id = 224363

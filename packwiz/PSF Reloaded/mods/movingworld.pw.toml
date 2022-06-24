@@ -1,0 +1,13 @@
+name = "MovingWorld"
+filename = "movingworld-1.7.10-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a86e16fc03f4d4f86da47568fd1b54fd54f7828"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282144
+project-id = 230495

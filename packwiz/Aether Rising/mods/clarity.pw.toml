@@ -1,0 +1,13 @@
+name = "Clarity"
+filename = "clarity-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c01c8262fdacfb399b58d5c3006b83255a0ccae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2507721
+project-id = 252145

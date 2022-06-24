@@ -1,0 +1,13 @@
+name = "Davincis Vessels"
+filename = "archimedesshipsplus-1.7.10-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be201bfa8c959235b5490299d6abab902e42cad8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282145
+project-id = 228029

@@ -1,0 +1,13 @@
+name = "Darkcore"
+filename = "darkcore-0.41-179.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a77fbcb1479b86d03e74fd23417278c5825a9364"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305497
+project-id = 230156

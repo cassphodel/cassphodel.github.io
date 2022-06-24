@@ -1,0 +1,6 @@
+waypoint:base:B:1073:64:1535:6:false:0:gui.xaero_default:false:0
+waypoint:cavern of doom:D:1111:10:1504:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:1078:65:1530:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:1068:65:1535:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint_old:D:1077:65:1537:0:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:1125:21:1496:0:false:1:gui.xaero_default:false:0

@@ -1,0 +1,13 @@
+name = "Ars Magica 2"
+filename = "1.7.10_AM2-1.4.0.009.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d32666287cc0b565822f04421fc9e9c27b9afd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280862
+project-id = 67313

@@ -1,0 +1,13 @@
+name = "Visuals"
+filename = "Visuals-1.12.2-7r.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "597261c1e888401471c82f42a9dcc7ae8b1cd87f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2756068
+project-id = 305723

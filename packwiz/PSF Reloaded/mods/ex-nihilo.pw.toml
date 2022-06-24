@@ -1,0 +1,13 @@
+name = "Ex Nihilo"
+filename = "Ex-Nihilo-1.38-53.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fc901f7a00ef1dac1356d7576ccbe4779dfb8ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2316201
+project-id = 221696

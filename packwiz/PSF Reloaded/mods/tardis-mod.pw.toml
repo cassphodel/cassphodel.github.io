@@ -1,0 +1,13 @@
+name = "TARDIS Mod"
+filename = "tardismod-1.7.10-0.995-350.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4ad517aceace4766978f1798295eced3a986a3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305503
+project-id = 230170

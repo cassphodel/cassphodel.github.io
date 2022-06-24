@@ -218,7 +218,7 @@ hash = "428a0e888f3ab020f1cf1c5aa9471391117b5fcb1adfd2f137494e05b9035386"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b0c73ae168f184bef47ebdb43b739c0224fa35ff8964dc7991ce9e458add5c42"
+hash = "b228f017635ef18882933ab884cbae624fc95075b5b55f01dc74436d59cd9429"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ff27996cf1f612781b5a3130c31ace4977d4b6d1cf375ee5ed6048830e2d53bc"
+hash = "8095a17de2aef32a3047f4229a0360cba6cd1f8d4cfb40d66845e062e85ab662"
 metafile = true
 
 [[files]]
@@ -459,6 +459,11 @@ hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "ed116b2217854ef5e30551d1c2798398ce2e2636b5bcd7a05733cb7d6429147c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "667d9e683beb4739d9f2ed50aca3023428c0cd03afb9811667ef209c09283856"
+hash = "b4377c27002b165b6f5446e082c1e38f4ec0d1ea747f59255a1b36ca1c2a1ded"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Wild Mobs "
+filename = "WildMobs-1.7.10-1.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "626cb7cae9b57827db20d29f0d3e2eb64b9e82d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2727879
+project-id = 255711

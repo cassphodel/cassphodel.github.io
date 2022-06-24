@@ -1,0 +1,13 @@
+name = "Wish Fulfillment: Aether Rising"
+author = "cassphodel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a1838a5c615e30dc3f62a783510e764a05de542a04ab4cf073c9725d80614859"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"

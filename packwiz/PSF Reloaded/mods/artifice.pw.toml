@@ -1,0 +1,13 @@
+name = "Artifice"
+filename = "Artifice-1.7.10-1.1.5R-399.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4398334eabc2b72fd0f53dfbd3b5f707346af9d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2248653
+project-id = 223174

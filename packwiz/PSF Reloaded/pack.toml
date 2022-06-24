@@ -1,0 +1,13 @@
+name = "PSF Reloaded"
+author = "cassphodel"
+version = "1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2839e7940470352de4daa98b48ce09fd538d0ae32350b6760bb02d4a0195a0b3"
+
+[versions]
+forge = "10.13.0.1150"
+minecraft = "1.7.10"

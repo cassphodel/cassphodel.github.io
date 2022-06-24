@@ -1,0 +1,13 @@
+name = "Thaumic Horizons"
+filename = "thaumichorizons-1.7.10-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "babd8db9b769688340ac51a341355f1854337929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2265882
+project-id = 227914

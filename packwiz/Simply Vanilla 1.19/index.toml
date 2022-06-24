@@ -5,6 +5,10 @@ file = "config/bedrockify.json"
 hash = "5ccb5a45d42168272d8fe0e0f7c340ce09bc550c9f5daca890abde89056b0469"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "ed0df821bc716ff4f83f5000c84fe3f45357591b84ce503f9bcf45019c7a6a17"
 
@@ -23,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4d396908eb29d14a73b83735db2dfb21be1ba81f77ded1e7dd1a0acc96a72a69"
+hash = "b41b8ce7b580d6bb90135c7d35f4c56328b8c5d92ef5c1e472969f2296dc4e5d"
 metafile = true
 
 [[files]]
@@ -92,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48940c3d311a2c814001ca89a4c2cb52274c8e698d6409457487b3f533c7ac6f"
+hash = "3816fd8be1ae3a45ee02ec7fe09fa45b8b0552ad7904eef2a839a8080460ef6c"
 metafile = true
 
 [[files]]
@@ -121,6 +125,11 @@ hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d7b3d3c5c5ec4bd1bafc1f629b329fa594a216476a9b56b26bcd3b3ed8007775"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
 metafile = true
@@ -132,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "555760a4c07416b9408402172dd73f11341a836dd6e749d2ef0a2f30a868987b"
+hash = "acb39a078c618083acd07ed1bfd94dcbf3043955238ad32cf1789f428b40b48d"
 metafile = true
 
 [[files]]
@@ -162,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "444dd6ecd474caa0b51c133a42fc3a38fbfeaf5d51f0f39ca9f43091b659c2c5"
+hash = "9b51a580a676d5046e745bd6968dda066757deb2c0cda647cdfbb06c162bec18"
 metafile = true
 
 [[files]]
@@ -187,22 +196,22 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "4f83b1ed4b7b6c60db39a22a2f9b4c30ead0f475e27c6e98f0a16e69564269eb"
+hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5fefef783840bad29b7cab873ad37a7e321b75936b99c1e76de3d0e82b1eb9ec"
+hash = "fd0fa6e033413cd1c6166e9616f1b5d60d863a836bf50329c202d4676d3c0877"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "677e6eb10c7aa494473d1c9b55eaf54e4389ac19f7131564a153f81b43da45f2"
+hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5e14ee3730e67f5f210ec4797bb9420073403ec1925e755c43c802b38a76ad19"
+hash = "4ff08115d4dec034c1fa2a5b933daf38cf4dfc31282b8e7ffa04db89c1cd307b"
 metafile = true
 
 [[files]]

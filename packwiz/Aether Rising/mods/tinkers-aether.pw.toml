@@ -1,0 +1,13 @@
+name = "Tinkers Aether"
+filename = "tinkersaether-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c97d54a07531c614a0c85e33b1fc95525cc6eb99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2699034
+project-id = 296633
