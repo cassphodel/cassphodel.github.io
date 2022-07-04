@@ -86,6 +86,11 @@ hash = "3988a0d8049951659e3be5324c24bdf7fba3a45292141dbb88779205eb4022e5"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "d34f349d77f57ac0d6ae7c61424eff4380eed46b4d2e5177fa09b3071c250d9d"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d4d632cfad45945d9499da99693f0bcdda0ddb4cb47169e25666264edb8f67ef"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3816fd8be1ae3a45ee02ec7fe09fa45b8b0552ad7904eef2a839a8080460ef6c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
 metafile = true
 
 [[files]]

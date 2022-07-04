@@ -53,6 +53,10 @@ file = "config/betterf3.json"
 hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
 
 [[files]]
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
 file = "config/citresewn-defaults.json"
 hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
 
@@ -320,6 +324,16 @@ hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "4005e222e444336878c881022ca37c346ba194c726acd7e6f258a029566d1f4c"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "e306361a119aa0b97d0b9966dfb750ff09d377281607e8e8a2b194ecbf78293b"
 metafile = true
@@ -374,8 +388,18 @@ file = "mods/entityculling-fabric-mc1.18-1.5.0.jar"
 hash = "0ee1c5f3d67212ae138149d4b70861ce161c5d2307643346ddd7c2786932dc95"
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "06a94fff81af2163694a46205ddc17acb866e5d0006d7f65ba5531a9d8b8d57c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e827579af29e5db22e80d7dfc61aee87e004c23880eff6a1391fa3e265dd3f56"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
 metafile = true
 
 [[files]]
@@ -567,9 +591,17 @@ file = "resourcepacks/elytra.zip"
 hash = "47700e459fc64d7e3a026d30a51da95ae22e50e6b05b660ea625e604054bbf5f"
 
 [[files]]
+file = "resourcepacks/stay-true-emissive-textures-e2121.zip"
+hash = "2e0a6e27917977fb8c3b46066f1abec08323251feb3cb812449d4ae17eda8fcc"
+
+[[files]]
 file = "resourcepacks/staytrue.toml"
 hash = "2f822e8c357b3281787dfdfbab173ce4389ec3e00779bb2363ba672916c3a285"
 metafile = true
+
+[[files]]
+file = "resourcepacks/technoblade-pigs.zip"
+hash = "3a52ce9b4bef6f536253085c4a53a369239060deb7b5fce392da766e443af5e0"
 
 [[files]]
 file = "resourcepacks/unity.pw.toml"
