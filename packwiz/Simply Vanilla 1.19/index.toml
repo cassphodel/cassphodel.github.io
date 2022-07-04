@@ -9,6 +9,34 @@ file = "config/betterf3.json"
 hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
 
 [[files]]
+file = "config/capes.json5"
+hash = "f3557f3ee0e8693f06c1942d4352cb3a43e783614f324d19277b149b40b9cbbd"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "ef21ea4f5b0880491130f0b3c7d01ebfe05f3b3b32991625ce65d3ed6898e5d8"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e33f449c4ca8702c4df32553fe9bc5062f241c11162cd9ca1235823c99e69965"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "392310e5ec2e7cf9b58265a29eda17d336b8877629d8d575bc5551516ab7596b"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "b79cd19a84cd86040258e38215b43b04ebb473761398cad3ce4f121ff4198e82"
 
@@ -106,13 +134,18 @@ hash = "dbf2c28de7653648cca1bfb357ff393fe8a7b3bd06dbcfc6780b91e63b7b9e82"
 metafile = true
 
 [[files]]
-file = "mods/connected-doors-1.1+1.19.jar"
-hash = "787c8534fd750eb2342cff11e56b1a1f0e6a35665dd722f3e22343ddb960c088"
+file = "mods/connected-doors.toml"
+hash = "2e613931127d2b1d6678c4c3a879936c2bc80cce088bdb54a60e0522a9a7f5fc"
+metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "96a3463c6b05867e7ed2cf98bd7faed2b8d190913d9d8f9b551bbae6eab8efe4"
 metafile = true
+
+[[files]]
+file = "mods/customsplashscreen-1.3.0.jar"
+hash = "814e2eb9d1e0b00bafda3034c5b25c48d9a6b997a562e475f15f3dd84cd050dc"
 
 [[files]]
 file = "mods/deathlog.pw.toml"

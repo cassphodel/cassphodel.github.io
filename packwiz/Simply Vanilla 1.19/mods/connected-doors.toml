@@ -1,0 +1,8 @@
+name = "Connected Doors"
+filename = "connected-doors-1.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FakeDomi/ConnectedDoors/releases/download/1.1%2B1.19/connected-doors-1.1+1.19.jar"
+hash-format = "sha1"
+hash = "A82EBFD485EA89A2767F2E56E19D138B28219150"
