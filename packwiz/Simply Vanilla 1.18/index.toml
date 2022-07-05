@@ -41,14 +41,6 @@ file = "config/bedrockifyMixins.json"
 hash = "19ec8f5999285a05dba8b8ff3d3ff7380d876413f553cc38c4a26cd268d12b49"
 
 [[files]]
-file = "config/better_loading_screen/background.png"
-hash = "ac420b7ce17c0f4d646fc2ef24d43b7a3d06296e3e2d5cbff17c18d03e259302"
-
-[[files]]
-file = "config/better_loading_screen/config.json5"
-hash = "d30f9b7ee3bbb0ea2375a22276f43966fd57e8bf8d5e09b14a8a290f79b0c70d"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
 
@@ -79,6 +71,18 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 [[files]]
 file = "config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/customsplashscreen.json5"
+hash = "d11aac115de79a6407a036d731fb4aeda4c2c308e3eed97e17d19a954c594bb8"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "ac420b7ce17c0f4d646fc2ef24d43b7a3d06296e3e2d5cbff17c18d03e259302"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
 file = "config/deathlog.json"
@@ -260,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8095a17de2aef32a3047f4229a0360cba6cd1f8d4cfb40d66845e062e85ab662"
+hash = "55fd7b7f37f960eef69ff4bf3e0b89b0c5d4deac241a90ba564016c2d6dfab82"
 metafile = true
 
 [[files]]
@@ -319,11 +323,6 @@ hash = "52ae75d316fdaad1ec99100e9aad7a2b1334536e591f95a67c0c99b8a7ee2729"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
 metafile = true
@@ -335,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e306361a119aa0b97d0b9966dfb750ff09d377281607e8e8a2b194ecbf78293b"
+hash = "8a6a2f09446e99d1688d3a871ad9deff140f20bfc13e5bb90a2a595a75a54db5"
 metafile = true
 
 [[files]]
@@ -356,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "d95d2c03170638de595e2c70c06b3a41dd9e0cdf1d35c0ed4e00b7a934d8767d"
 metafile = true
 
 [[files]]
@@ -394,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e827579af29e5db22e80d7dfc61aee87e004c23880eff6a1391fa3e265dd3f56"
+hash = "8f31661b15f16b623985370d964086b5245f3efffd88b8d4b5e31b9daab062c5"
 metafile = true
 
 [[files]]
@@ -459,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "abf43f1e9a7d4135d071f75b0c5dfff4489d9aa868104203409ce1b47d2ae766"
+hash = "694ba2f3626d9db25c9b7eae13be6f68b6701feff9096fd1d9943f7dc8e15311"
 metafile = true
 
 [[files]]
@@ -489,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+hash = "d82c06cc5c3e67835f000f07aff22e3aa96bcf1b08c0a86c0a15bb87e7a807a8"
 metafile = true
 
 [[files]]
@@ -499,12 +503,17 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "b4377c27002b165b6f5446e082c1e38f4ec0d1ea747f59255a1b36ca1c2a1ded"
+hash = "0e84e9b07393fbdc2c2a39495a35bfc57b398c4cf22ff79c3002d657082b7cea"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-accessibility.pw.toml"
+hash = "1fb433ce78dafacf7baa8f4d8e3b08f35ba6f2977cae05de6c8513b17d84b254"
 metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "ef0ad7353b79f507bd76c56716e8a6fc717cf3ab90135e0466fe39eb4662ab92"
+hash = "d8f785f0293684cc254df7975dbd8da4225638ebfa95bb681e73460975725715"
 metafile = true
 
 [[files]]
@@ -529,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "3efeee5800eb609d02837d650d3d7724c681053cdb886a8cabe5988d563e034f"
+hash = "0a0992a0b15e9dac60d43bf53fb46cc87ae0679401a3dd45641205d6de536c51"
 metafile = true
 
 [[files]]
@@ -544,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "010e81882aab141266a2255d475cf5e1dca19143a7ec9daa709ba49c889e5e72"
+hash = "aa40ece9a92298e1dff07930b8f2dd24a34d29a2830b3b0cb825cb89a03e7a2e"
 metafile = true
 
 [[files]]

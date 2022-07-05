@@ -1,0 +1,13 @@
+name = "Nether Portal Accessibility [Forge/Fabric] [1.16-1.19]"
+filename = "portal_accessibility-1.0.0-fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff2abe3805494344ad836215875e3f1c4b4f65a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3801754
+project-id = 623726
