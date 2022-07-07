@@ -1,0 +1,13 @@
+name = "Legendary Tooltips [Fabric]"
+filename = "LegendaryTooltips-1.19-fabric-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fde9f03eeaf8168cd81cc9111339b07a75683bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848255
+project-id = 542478

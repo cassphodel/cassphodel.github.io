@@ -13,6 +13,10 @@ file = "config/capes.json5"
 hash = "f3557f3ee0e8693f06c1942d4352cb3a43e783614f324d19277b149b40b9cbbd"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "edc88686e8127f3308d2fbc62a94d4d44a2fb2b15cb5de84565770a4977c3faa"
+
+[[files]]
 file = "config/customsplashscreen/background.png"
 hash = "ef21ea4f5b0880491130f0b3c7d01ebfe05f3b3b32991625ce65d3ed6898e5d8"
 
@@ -21,8 +25,16 @@ file = "config/customsplashscreen/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "e0000f8c4aa54b29d2f5eea8394485a2303e4a61a2477983f999d45aa4fb9d9b"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "e33f449c4ca8702c4df32553fe9bc5062f241c11162cd9ca1235823c99e69965"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "5bff35b33c152e82a8514cee9830b3174d7b35d1dd6305f4952e1ea0502b4c24"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -38,11 +50,11 @@ hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b79cd19a84cd86040258e38215b43b04ebb473761398cad3ce4f121ff4198e82"
+hash = "1f035703608156ac1832086df81cc8577d574925b0ccd122a31533ace71095ec"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "cf2dcdca67076c7b59573140082f166da0c260cf932120eee956632f2e6870f6"
+hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -52,6 +64,10 @@ hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
 file = "mods/advancements-enlarger.pw.toml"
 hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
 metafile = true
+
+[[files]]
+file = "mods/afk-attack.jar"
+hash = "f382131ca5d472b3c692fe2d68cd311f0ecd16c6e4613f244a2d691d0a3b4623"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -66,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "7495abb08e7df662bf47a549c10d7833d2365bbf375b20136c1e09c0c21a9765"
+metafile = true
+
+[[files]]
+file = "mods/autoreconnect.pw.toml"
+hash = "07a4b6556597a34df6809c9450c8cee43e9f686abbdd261517751264948daf08"
 metafile = true
 
 [[files]]
@@ -119,6 +140,11 @@ hash = "d34f349d77f57ac0d6ae7c61424eff4380eed46b4d2e5177fa09b3071c250d9d"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "02ce09e64c6ed4f5484b1496201ad411e78561812c3008e6c1bdd6dfab63e616"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d4d632cfad45945d9499da99693f0bcdda0ddb4cb47169e25666264edb8f67ef"
 metafile = true
@@ -158,6 +184,25 @@ hash = "2db492a7ec0d37888c765c6d3a4a362de8b1539cfcaf97138176cb1e115d5da0"
 metafile = true
 
 [[files]]
+file = "mods/elytra-chestplate-swapper.pw.toml"
+hash = "45e23a957fc221e2549653b00775faa9548450e2852f9e98d693b54dc768060f"
+metafile = true
+
+[[files]]
+file = "mods/ender-christmas.pw.toml"
+hash = "9a225e269c790b40087c968c65b32d149c0671360cb37ebd6e434933eeb3d8bc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.5.2-mc1.19.jar"
+hash = "0f2e6b299c422bd68966c2917dc20ebb58d20f001676ad71bc20a424d1290e6f"
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1f47872fdf0e954fe7dab437208f9c86f10812284aad39c7d3ae8ca13d906b89"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3816fd8be1ae3a45ee02ec7fe09fa45b8b0552ad7904eef2a839a8080460ef6c"
 metafile = true
@@ -168,8 +213,23 @@ hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "15703ff475fc638bdc8a4d62b708d517be68f86069611e84149cf126f2d76187"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6740ed944875ddd29d44b38bb88fd5050f600d44ff30ff3d553cbb9394254d8c"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2027fc62f27fdabd1f6485dbdc2f4316ea6b04dedf595f839651020d2d861a69"
 metafile = true
 
 [[files]]
@@ -188,8 +248,28 @@ hash = "255ca8fe8e9973c40ff191d738f276f603153ff4039fbb1a0d4ddc239abdc3f0"
 metafile = true
 
 [[files]]
+file = "mods/lan-server-properties.pw.toml"
+hash = "17830718e0cc945c2606ce0068baeed618f2908c424fe96fb8267933f2e4b647"
+metafile = true
+
+[[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "06ed7c252e0da2fc0586eac9ccdd22df8e955563e7775637702481ca92583bda"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips-fabric.pw.toml"
+hash = "f96a545f44b67b4fe0574a9dd55edb19cc460b55b77c51824cb2d22b59fa5d2f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
 metafile = true
 
 [[files]]
@@ -238,8 +318,8 @@ hash = "7b12e2521aad003e0ed3ec2fa89e936a1db238e580ddc5c98667dacd5dbf9e37"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
+file = "mods/right-click-harvest.pw.toml"
+hash = "d08c969a9dacce45490b36d91f9d92bcc795ef6fd4245ef05fd67b433b0ee264"
 metafile = true
 
 [[files]]

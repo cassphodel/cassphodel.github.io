@@ -1,0 +1,14 @@
+name = "Ender Christmas"
+filename = "ender_christmas-1.0.0+1.18.4337d14.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jPWnGLCr/versions/1.0.0/ender_christmas-1.0.0+1.18.4337d14.jar"
+hash-format = "sha1"
+hash = "cfb5d7e492c4ea0511644989a53410cbca17f4a4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "jPWnGLCr"
+version = "lMhbjCN1"
