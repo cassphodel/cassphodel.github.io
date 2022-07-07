@@ -97,6 +97,10 @@ file = "config/enhanced_bes.properties"
 hash = "d989e2e20ef20e8db071ab0aa0fa1d2dcdccb1ba6d950ae8a2da7e96c30f7c34"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "9e972bc18acf58ea7624e7dc42bd587362c03496867eb4a50ced87b52f8d0435"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
@@ -323,11 +327,6 @@ hash = "52ae75d316fdaad1ec99100e9aad7a2b1334536e591f95a67c0c99b8a7ee2729"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "4005e222e444336878c881022ca37c346ba194c726acd7e6f258a029566d1f4c"
 metafile = true
@@ -447,6 +446,11 @@ hash = "9e86cd8a71dc12d22cba68b398d64c8f864d4dc8fd8047a6f0afe5a1c6be0207"
 metafile = true
 
 [[files]]
+file = "mods/kappa.pw.toml"
+hash = "7450169f450bdb5407bfe1bc47c7418975540da60d572c9dd56d029ba6966a6e"
+metafile = true
+
+[[files]]
 file = "mods/lan-server-properties.pw.toml"
 hash = "3df58ad22ec535b8a9c9f44fcf6ce855418ca1eb0ca6cc23ee0150166b521303"
 metafile = true
@@ -489,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "ed116b2217854ef5e30551d1c2798398ce2e2636b5bcd7a05733cb7d6429147c"
+metafile = true
+
+[[files]]
+file = "mods/minecraftcapes.pw.toml"
+hash = "5de7c2998dba36909a7b170b213522fdfa664f30ce15eb97d7770e058fce628e"
 metafile = true
 
 [[files]]
@@ -538,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "0a0992a0b15e9dac60d43bf53fb46cc87ae0679401a3dd45641205d6de536c51"
+hash = "5506214a863a77a3ed0e98d1bd73389e4bd530f430e05415d57cd331047b8f70"
 metafile = true
 
 [[files]]
