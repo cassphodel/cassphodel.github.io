@@ -58,7 +58,7 @@ hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "960f90941345558485828f38675beccd711bb677e899a3cbae78861af8b7a9ee"
+hash = "d903ffa69693e158bf5c2d65b5fcc7cae9ca834e3bbf806c9206fcb6b0b23aa1"
 
 [[files]]
 file = "mods/advancements-enlarger.pw.toml"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "d4d632cfad45945d9499da99693f0bcdda0ddb4cb47169e25666264edb8f67ef"
+hash = "f2ca3c2ef10cb90a25deef0e8bfb9198ce9d6beb6b740c307816f864a1f116c5"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3816fd8be1ae3a45ee02ec7fe09fa45b8b0552ad7904eef2a839a8080460ef6c"
+hash = "229e51aae32ef7116a8ed9847a6ce64512af388a656df0b3ec2222c87c4f7b54"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "255ca8fe8e9973c40ff191d738f276f603153ff4039fbb1a0d4ddc239abdc3f0"
+hash = "aba9753677d0224315537edda9a465a1c1925bab3bd00fcbff53ae9025d9a22d"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "acb39a078c618083acd07ed1bfd94dcbf3043955238ad32cf1789f428b40b48d"
+hash = "94bb0c9a377c9a1fea47cd9ad5a722b7d041ba11c896f5fd76fd20b6d08c603f"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "422acd4c858b8ba3ad84237220c07d26a9189e8959ee9675cf5fb4480e9d691d"
+hash = "4a685ccd6e720cba65641cb9f6baf37e3d38b546dd6adaa4c97bad99daf5b042"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "9b51a580a676d5046e745bd6968dda066757deb2c0cda647cdfbb06c162bec18"
+hash = "4e3fd3859dd89cfa6ce66b6edd42758a3504ac39f5318e88077360ac71b3f7e5"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
+hash = "ba4fa4527a3f7beb3e653bb404a817d9878a2f2766439c41c71332a8ec97c459"
 metafile = true
 
 [[files]]
@@ -354,17 +354,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "fd0fa6e033413cd1c6166e9616f1b5d60d863a836bf50329c202d4676d3c0877"
+hash = "85ca1a7ef3e0f64d595c517b1f8125350bb03901b4385d28283e57ff921d4e91"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
+hash = "1eb33f86eead49f33a4e66497910f279c6d7f466da24686274f0a4b608ca9d68"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4ff08115d4dec034c1fa2a5b933daf38cf4dfc31282b8e7ffa04db89c1cd307b"
+hash = "2bc3242a6a026024a2048e0051c0efed79d159e72d6ea361da847acbc6f68da5"
 metafile = true
 
 [[files]]
@@ -389,6 +389,10 @@ hash = "47700e459fc64d7e3a026d30a51da95ae22e50e6b05b660ea625e604054bbf5f"
 file = "resourcepacks/staytrue.toml"
 hash = "2f822e8c357b3281787dfdfbab173ce4389ec3e00779bb2363ba672916c3a285"
 metafile = true
+
+[[files]]
+file = "resourcepacks/technoblade-pigs.zip"
+hash = "3a52ce9b4bef6f536253085c4a53a369239060deb7b5fce392da766e443af5e0"
 
 [[files]]
 file = "resourcepacks/unity.pw.toml"

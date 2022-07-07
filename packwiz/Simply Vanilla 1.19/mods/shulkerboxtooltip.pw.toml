@@ -1,13 +1,13 @@
 name = "ShulkerBoxTooltip"
-filename = "shulkerboxtooltip-3.0.9+1.19.jar"
+filename = "shulkerboxtooltip-3.0.10+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "023270ac4d8c28ee2fd58500a10cc0bfa6aee73e"
+hash = "b72deb26591e1bd4fc5cdaf9a708fd57f0335280"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3828073
+file-id = 3856055
 project-id = 315811
