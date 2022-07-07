@@ -1,0 +1,8 @@
+name = "Seed Pouch Fix Script"
+filename = "seed_pouch_fixing.zs"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/scripts/seed_pouch_fixing.zs"
+hash-format = "sha1"
+hash = "f0979f611d81d0a0c0b88215d8d638a84e9fc42b"

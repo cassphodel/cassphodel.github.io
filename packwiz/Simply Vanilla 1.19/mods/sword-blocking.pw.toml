@@ -1,0 +1,19 @@
+name = "Sword Blocking"
+filename = "swordblocking-1.1.0.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "A Fabric clientside mod to restore sword blocking, you just need a shield in your offhand. "
+
+[download]
+url = "https://cdn.modrinth.com/data/4q52b4lD/versions/1.1.0/swordblocking-1.1.0.jar"
+hash-format = "sha1"
+hash = "a03cde1d75863a868b1b635f51bb041350d60b7f"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "4q52b4lD"
+version = "oflvkCWw"

@@ -1,0 +1,8 @@
+name = "Create Compat Content Script"
+filename = "create_compat_content.zs"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/scripts/create_compat_content.zs"
+hash-format = "sha1"
+hash = "68809fd084d668afc3fc76bf47ed4644872031f8"

@@ -1,0 +1,8 @@
+name = "Caverns n Chasms Compat Script"
+filename = "caverns_n_chasms_compat.zs"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/scripts/caverns_n_chasms_compat.zs"
+hash-format = "sha1"
+hash = "019db3ac0b5cc7d3db983671460c5c7d12a86e3e"

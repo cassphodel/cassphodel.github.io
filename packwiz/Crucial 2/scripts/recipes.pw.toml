@@ -1,0 +1,8 @@
+name = "Recipe Script"
+filename = "recipes.zs"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/scripts/recipes.zs"
+hash-format = "sha1"
+hash = "0000f3a4d63677a75981c91a1c9bf404f4fa3810"

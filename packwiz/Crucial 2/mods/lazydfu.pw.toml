@@ -1,0 +1,8 @@
+name = "Lazy DFU"
+filename = "lazydfu-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/mods/lazydfu-0.1.3.jar"
+hash-format = "sha1"
+hash = "3ce32ac0a8656f9ba27bfb4623358a51516f80ed"

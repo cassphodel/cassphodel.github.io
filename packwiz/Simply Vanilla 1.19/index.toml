@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-controls.pw.toml"
-hash = "b4b9b7e1e51e76892dc8002b396cd21f3f8a92b007f02047c6f6b89045c7901e"
+hash = "34ef40ef95a319097592e69009599e8813105ec8f40b6f9f945d629f5e5398b0"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "aee18e366adf3ea2bf52907f568ed8f19302cdf948618888d7ef69feccd2a4c1"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "aba9753677d0224315537edda9a465a1c1925bab3bd00fcbff53ae9025d9a22d"
 metafile = true
@@ -279,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "d7b3d3c5c5ec4bd1bafc1f629b329fa594a216476a9b56b26bcd3b3ed8007775"
+hash = "79e8af2eb595a5f85a13e7f0141f087f011321c7aefddfcb7da15d4522a01832"
 metafile = true
 
 [[files]]
@@ -353,6 +358,11 @@ hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
+file = "mods/sword-blocking.pw.toml"
+hash = "8a1ccb92029d83193294488728c936bc143e591de90af2d9d97d72a465e972a1"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "85ca1a7ef3e0f64d595c517b1f8125350bb03901b4385d28283e57ff921d4e91"
 metafile = true
@@ -373,12 +383,16 @@ hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Invisible Shields.zip"
+hash = "13b5dc86402a0899e84e283ffee9a8306e44f75831c799fb3b17ed338bfb47f0"
+
+[[files]]
 file = "resourcepacks/The Andrew Experience.zip"
 hash = "80dc1c13858f78c3e62abdbebcfa2a5ba239fc876af1f08e993a47bc38b04d05"
 
 [[files]]
 file = "resourcepacks/compliance.pw.toml"
-hash = "2929add92f49330cd70777999c7376b723430575f19022662ad7825ee8ea0de4"
+hash = "ae7cf4d2934dfc89a5d66cbb45e7176294ed984142b68fbbf55002853c06fe76"
 metafile = true
 
 [[files]]
@@ -387,7 +401,7 @@ hash = "47700e459fc64d7e3a026d30a51da95ae22e50e6b05b660ea625e604054bbf5f"
 
 [[files]]
 file = "resourcepacks/staytrue.toml"
-hash = "2f822e8c357b3281787dfdfbab173ce4389ec3e00779bb2363ba672916c3a285"
+hash = "d760b8a7ff90ffc1e4df2fe66bfb26244d49cf2ec69417c2b1ed4eb0b3c58d8d"
 metafile = true
 
 [[files]]
@@ -395,16 +409,21 @@ file = "resourcepacks/technoblade-pigs.zip"
 hash = "3a52ce9b4bef6f536253085c4a53a369239060deb7b5fce392da766e443af5e0"
 
 [[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "43fe47b30a4d97ff116788b34880d6fcf3d07fc9bafb0878512cc2e006d81037"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unity.pw.toml"
-hash = "5acacb8dab4706f7c11306b5d17a115f380864bd586791db3bc3368dbde52afb"
+hash = "3ee3e0de644e135c78842a23617097c4a852968f58d1fce474a78e1fa6495a31"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanillatweaks_darkmode.toml"
-hash = "269a547d3bdcedc6aa1ec3bb03918c53f8679151f53f1b666c8453adba23a20d"
+hash = "cd4166b2d22bfa6b1c402e16c6a54c0f521277c849dcf1d3fdc31ace3a7152ab"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanillatweaks_wildupdate.toml"
-hash = "6e8b2fd63b4685f74f0bc9b853d90ce6f4836f761086e2c9e157f020bb06ff89"
+hash = "cffe200d69cc1f0aaac047f27c4e20e6b54af5ab2b9419daa2317a8f9b3b6fae"
 metafile = true

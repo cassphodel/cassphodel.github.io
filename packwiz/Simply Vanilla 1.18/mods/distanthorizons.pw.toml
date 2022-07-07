@@ -3,8 +3,8 @@ filename = "DistantHorizons-1.6.3a-1.18.2.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "false"
+optional = true
+default = false
 description = "Distant Horizons allows for chunks outside the render distance to be rendered at lower detail. Warning: this mod is in alpha and is extremely resource intensive."
 
 

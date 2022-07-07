@@ -2,6 +2,11 @@ name = "Better Controls"
 filename = "BetterControls-Fabric-1.19+v1.2.3.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "Better Controls allows for more options when setting controls, including toggle sneak and autowalk."
+
 [download]
 hash-format = "sha1"
 hash = "20f3d8dce6a61380efb9fd5c12158511c6d1f8f5"

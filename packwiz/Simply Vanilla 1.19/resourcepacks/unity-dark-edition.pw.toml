@@ -1,0 +1,17 @@
+name = "Unity: Dark Edition"
+filename = "Unity-1.19.X-Dark-0.8.1.zip"
+side = "client"
+
+[option]
+optional = true
+description = "Unity is a resource pack that follows the traditional Minecraft aesthetics but adds subtle depth and more natural colors. This addon allows for dark mode."
+
+[download]
+hash-format = "sha1"
+hash = "a2209fc575213cc3a215c499e94becec631d898f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822246
+project-id = 350660

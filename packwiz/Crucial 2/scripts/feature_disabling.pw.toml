@@ -1,0 +1,8 @@
+name = "Feature Disabling Script"
+filename = "feature_disabling.zs"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/scripts/feature_disabling.zs"
+hash-format = "sha1"
+hash = "5158c73a8967b19ea48ac4de31219c8e5899ed26"

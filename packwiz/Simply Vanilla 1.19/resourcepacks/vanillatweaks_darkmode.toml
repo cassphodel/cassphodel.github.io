@@ -3,9 +3,9 @@ filename = "Vanilla Tweaks_DarkMode.zip"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
-description = "Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. The website includes a picker with which you can create your very own collection of tweaks to be included in your game. You pick and choose, we do the rest!"
+optional = true
+default = true
+description = "Implements Vanilla Tweaks' Dark Mode to Minecraft's GUI."
 
 [download]
 url = "https://www.dropbox.com/s/gt4nep2wkymyms2/VanillaTweaks_DarkMode.zip?dl=1"

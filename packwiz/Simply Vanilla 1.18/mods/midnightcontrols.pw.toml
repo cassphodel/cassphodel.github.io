@@ -3,8 +3,8 @@ filename = "midnightcontrols-1.0.0+1.18.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "false"
+optional = true
+default = false
 description = "A Fabric Minecraft mod which adds better controls, reach-around and controller support."
 
 

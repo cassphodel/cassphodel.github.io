@@ -1,18 +1,17 @@
 name = "Unity"
-filename = "Unity-1.18.X-Base-2.4.1.zip"
+filename = "Unity-1.19.X-Base-2.4.1.zip"
 side = "client"
-
-[option]
-optional = "true"
-default = "false"
-description = "Unity is a resource pack that  follows the traditional Minecraft aesthetics but adds subtle depth and more natural colors."
 
 [download]
 hash-format = "sha1"
-hash = "574987d09736bd69d6b23751e83158e8db427a12"
+hash = "f75bb9ea47240af28c0e3c7d108730f7eb70e990"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3667685
+file-id = 3822245
 project-id = 222097
+
+[option]
+optional = true
+description = "Unity is a resource pack that follows the traditional Minecraft aesthetics but adds subtle depth and more natural colors."

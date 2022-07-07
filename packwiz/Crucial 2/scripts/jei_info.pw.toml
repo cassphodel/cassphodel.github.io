@@ -1,0 +1,8 @@
+name = "JEI Info Script"
+filename = "jei_info.zs"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/scripts/jei_info.zs"
+hash-format = "sha1"
+hash = "09a152da3095e402731ff6db8d3caddcc13c2420"
