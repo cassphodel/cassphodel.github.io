@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "cb453e4d6ffe07218504fd11dc5bf48a2827e2ab2ef50c7a278a5a5d7b48b7eb"
+hash = "1253df48eadc787b434e96648435ef4ef695ac8bfac1e407cd7910bea7e7169f"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9e86cd8a71dc12d22cba68b398d64c8f864d4dc8fd8047a6f0afe5a1c6be0207"
+hash = "81df64098f64ea8a708a9519b8538096c3dfe75706ac6e72d099ad32aa9b7879"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "ed116b2217854ef5e30551d1c2798398ce2e2636b5bcd7a05733cb7d6429147c"
+hash = "c5b09a74fce0103b1f6e1233ead527184716f1b90694a6329330b03b413e0fb1"
 metafile = true
 
 [[files]]
