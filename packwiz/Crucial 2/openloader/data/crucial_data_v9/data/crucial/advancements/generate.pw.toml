@@ -1,0 +1,8 @@
+name = "Generate Advancement"
+filename = "generate.py"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/openloader/data/crucial_data_v9/data/crucial/advancements/generate.py"
+hash-format = "sha1"
+hash = "8c45a4d8f7f6c8b1817546fdc377e9fc2d31760a"

@@ -1,0 +1,8 @@
+name = "Mirabilis"
+filename = "Mirabilis 1.0.5 1.16.5"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/mods/Mirabilis%201.0.5%201.16.5.jar"
+hash-format = "sha1"
+hash = "433cab9887e1f41c1243acb36d74b3ad2b3470b8"

@@ -1,0 +1,8 @@
+name = "Advancement Base"
+filename = "advancement_base.py"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/openloader/data/crucial_data_v9/data/crucial/advancements/advancement_base.py"
+hash-format = "sha1"
+hash = "f35cecdbb3176a2c49d1b238b0ea001261f2fa05"

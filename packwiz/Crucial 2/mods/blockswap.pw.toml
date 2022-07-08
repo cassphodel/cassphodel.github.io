@@ -1,0 +1,8 @@
+name = "Block Swap"
+filename = "blockswap-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/mods/blockswap-1.1.1.jar"
+hash-format = "sha1"
+hash = "006defc5dd493a0eddc6aada31d34fa4a238cb59"

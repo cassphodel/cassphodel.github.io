@@ -1,0 +1,8 @@
+name = "Shut Up Experimental Settings"
+filename = "shutupexperimentalsettings-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/mods/shutupexperimentalsettings-1.0.3.jar"
+hash-format = "sha1"
+hash = "0db5333ee87e5672026912fb0c7b77d34e27d13c"

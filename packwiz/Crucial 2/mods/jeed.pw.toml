@@ -1,0 +1,8 @@
+name = "JEED"
+filename = "jeed-1.16.5-1.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/VazkiiMods/crucial2/raw/master/mods/jeed-1.16.5-1.6.jar"
+hash-format = "sha1"
+hash = "44bf04ea988d682d706a3a05bc0875ba41c5d28d"

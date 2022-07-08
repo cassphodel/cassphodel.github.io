@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/VazkiiMods/crucial2/master/scripts/caverns_n_chasms_compat.zs"
 hash-format = "sha1"
-hash = "019db3ac0b5cc7d3db983671460c5c7d12a86e3e"
+hash = "d2447e2432091feb18a16daf964b8c595ed96846"

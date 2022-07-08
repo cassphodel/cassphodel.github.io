@@ -977,10 +977,6 @@ file = "defaultconfigs/skinnedlanterns-server.toml"
 hash = "b34904a394ae191031a8ca4c8130c3b30b71f51db281f11f4aa22eca10de5479"
 
 [[files]]
-file = "mods/Mirabilis 1.0.5 1.16.5.jar"
-hash = "4e3f2840f308ef183008a5c53b76796cf14e6d7a8db8dda3841588e8de7d4ee6"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "d73ee6525182c02b51264aec90da4d204cdca56a3dde37d4b8d67962266513cc"
 metafile = true
@@ -1081,8 +1077,9 @@ hash = "adc72063553d58a4771e59b4e1d015eae2b9c8db5f164f659eb7c9ca2c1389a6"
 metafile = true
 
 [[files]]
-file = "mods/blockswap-1.1.1.jar"
-hash = "3de025acb17d60dccfeeaffcaf494cee3c9c0d60213542a901e33c11398cfc34"
+file = "mods/blockswap.pw.toml"
+hash = "f576104020d20deaf38d233754d224c94ff862e8ce5b6b16f5c1af214bd0369e"
+metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -1172,6 +1169,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
+metafile = true
+
+[[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "06fc67076abd3e3f9f7fe70b0a9718da78833f504de47065c61608637762e817"
 metafile = true
 
 [[files]]
@@ -1360,8 +1362,9 @@ hash = "0a011ccb3eb6cb918d81a34e2efa06f9f158764d125dcde867a53b67fa74bd25"
 metafile = true
 
 [[files]]
-file = "mods/jeed-1.16.5-1.6.jar"
-hash = "4ba503dd4b95bba9ea02ab28680754fc1b186147590163d40846b636c38dd299"
+file = "mods/jeed.pw.toml"
+hash = "73fbef449ae2d87e57d343948d41a95985eb2a75aa46219c97846eda97ceb859"
+metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -1406,6 +1409,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
+metafile = true
+
+[[files]]
+file = "mods/mirabilis.pw.toml"
+hash = "af2403e0a71f6abe457374d11352034ea61a158b59430c42c56f4f5d12183a04"
 metafile = true
 
 [[files]]
@@ -1549,8 +1557,9 @@ hash = "6fb7599d2ee267a19b91ebb12f9b304da9971505da11d271b21745c212c37181"
 metafile = true
 
 [[files]]
-file = "mods/shutupexperimentalsettings-1.0.3.jar"
-hash = "22ce84a0d424c2d48e483cb873909ac5c8c322bc793d09365ad44b901f43de62"
+file = "mods/shutupexperimentalsettings.pw.toml"
+hash = "b2f4cbdc424c0f2c20fa0f06d14e4e5cdc9baaaa787aa8084ab604a336c352b9"
+metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
@@ -1958,8 +1967,9 @@ file = "openloader/data/crucial_data_v9/data/crucial/advancements/__pycache__/ad
 hash = "1c854a902ba8fb52f66d4928305e3c8eb79862d91d4b8ee8c32d72e7c5abcc53"
 
 [[files]]
-file = "openloader/data/crucial_data_v9/data/crucial/advancements/advancement_base.py"
-hash = "6be4b5687d1a5f3728d2d8c939b2d0529d1e89b6bb6bbfc140144fe65b6fe9a1"
+file = "openloader/data/crucial_data_v9/data/crucial/advancements/advancement_base.pw.toml"
+hash = "2c9c8289fdf3892ff5897bab86322d35b94cdd9730881cc54f223eae6e55f70c"
+metafile = true
 
 [[files]]
 file = "openloader/data/crucial_data_v9/data/crucial/advancements/cakes.txt"
@@ -2042,8 +2052,9 @@ file = "openloader/data/crucial_data_v9/data/crucial/advancements/crystals.txt"
 hash = "d3d2d0da4c61c88237536901e0db9620195fac1bfce5d3c3ca959a2c46b16427"
 
 [[files]]
-file = "openloader/data/crucial_data_v9/data/crucial/advancements/generate.py"
-hash = "aa779aa119d2a9fdd54460f3901514258fa55d649503819678bfbf816d08c789"
+file = "openloader/data/crucial_data_v9/data/crucial/advancements/generate.pw.toml"
+hash = "e0aa9bd7ccd17311173e87f98873f07233b2ff1337369a6ddd66addca37f7da6"
+metafile = true
 
 [[files]]
 file = "openloader/data/crucial_data_v9/data/crucial/advancements/music_discs.txt"
@@ -8255,12 +8266,12 @@ hash = "fd35e912b04868cd0bc1e139393ca39011ca8399851a58ce7500f211d951e12c"
 
 [[files]]
 file = "scripts/caverns_n_chasms_compat.pw.toml"
-hash = "c8228f0c32e0ae8b0521725f347c5be71d96bda967af19b0b2c61c8e9bdcc93e"
+hash = "3ea7a8d05d854b7e9a44528efcdd5937939b4e42e5486502b48fdbf334bc0f77"
 metafile = true
 
 [[files]]
 file = "scripts/caverns_n_chasms_compat_content.pw.toml"
-hash = "af397e3f040decc1636be578bb62e7b4236eaf98c6f8d19af63992cc937a7208"
+hash = "501a45a0329fd50966a690b61890a592304935b604dc9ecbbc679873d33e1c2a"
 metafile = true
 
 [[files]]
