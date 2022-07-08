@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+default = false
 description = "Unity is a resource pack that follows the traditional Minecraft aesthetics but adds subtle depth and more natural colors. This addon allows for dark mode."
 
 [download]

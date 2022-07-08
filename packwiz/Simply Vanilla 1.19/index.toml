@@ -62,7 +62,7 @@ hash = "d903ffa69693e158bf5c2d65b5fcc7cae9ca834e3bbf806c9206fcb6b0b23aa1"
 
 [[files]]
 file = "mods/advancements-enlarger.pw.toml"
-hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
+hash = "d8540cec059a44ed4bde6463e43f08dbaaabb306f7790c5fde0a5c62517ae09a"
 metafile = true
 
 [[files]]
@@ -176,6 +176,11 @@ hash = "814e2eb9d1e0b00bafda3034c5b25c48d9a6b997a562e475f15f3dd84cd050dc"
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "0850a39b11db4a0d5063c2b00430e0d17d6ec4534b5e267a9508b119fe4ce58f"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "87d2e412a043f39b4f4e860b4efeadb1465662a3020a59c8de4df007cc16b856"
 metafile = true
 
 [[files]]
@@ -410,7 +415,7 @@ hash = "3a52ce9b4bef6f536253085c4a53a369239060deb7b5fce392da766e443af5e0"
 
 [[files]]
 file = "resourcepacks/unity-dark-edition.pw.toml"
-hash = "43fe47b30a4d97ff116788b34880d6fcf3d07fc9bafb0878512cc2e006d81037"
+hash = "982802eaaafaaa57418a8a0aed925edffc25bbd595ad1758c72b1448d6186c91"
 metafile = true
 
 [[files]]
