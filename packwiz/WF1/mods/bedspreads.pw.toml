@@ -1,0 +1,13 @@
+name = "Bedspreads (Forge)"
+filename = "cosmeticbeds-1.12.2-1.0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad7a483466e5d3935bf0f27afc27e49e5ae204fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2667875
+project-id = 308653

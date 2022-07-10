@@ -1,0 +1,13 @@
+name = "RandomPatches (Forge)"
+filename = "randompatches-1.12.2-1.17.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1f19de3bc5a7894154d931824bd3cc018e3d9a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2742950
+project-id = 285612

@@ -1,0 +1,13 @@
+name = "Clay Bucket"
+filename = "ClayBucket-1.12-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78df6ee723970b54505d218a87efc927912884ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2463480
+project-id = 242568

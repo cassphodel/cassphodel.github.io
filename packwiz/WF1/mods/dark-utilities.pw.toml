@@ -1,13 +1,13 @@
 name = "Dark Utilities"
-filename = "DarkUtils-1.12.2-1.8.230.jar"
+filename = "DarkUtils-1.12.2-1.8.226.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3f34c35903ca09e637dc3426eb81ca64ced0429a"
+hash = "72120979b0707ba292a31e4c6dea8058ca356c6f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2813586
+file-id = 2694889
 project-id = 242195

@@ -1,0 +1,13 @@
+name = "Improved Mount HUD [Forge]"
+filename = "SimplifiedHorses-v1.2.1-1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6fab74a3ec6f8eba761c86e083542bfefb16e2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2699128
+project-id = 281715

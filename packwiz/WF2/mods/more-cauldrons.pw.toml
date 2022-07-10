@@ -1,0 +1,13 @@
+name = "More Cauldrons"
+filename = "More-Cauldrons-1.16.5-1.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "863c86875a952c58aa81daccc800bfe59af3d3c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3434757
+project-id = 290545

@@ -1,0 +1,121 @@
+
+#Settings for the mod's added generation
+[WorldGen]
+
+	[WorldGen.Cadmium]
+		#Density of Cadmium Ore
+		#Range: 1 ~ 40
+		cadmium_density = 5
+		#Minimum Y Level to Cadmium Aluminum
+		#Range: 1 ~ 128
+		cadmium_min_y = 30
+		#Maximum Y Level to Cadmium Aluminum
+		#Range: 1 ~ 128
+		cadmium_max_y = 50
+		#Generate Cadmium Ore
+		generate_cadmium = true
+
+	[WorldGen.Silver]
+		#Generate Silver Ore
+		generate_silver = true
+		#Maximum Y Level to Generate Silver
+		#Range: 1 ~ 128
+		silver_max_y = 46
+		#Minimum Y Level to Generate Silver
+		#Range: 1 ~ 128
+		silver_min_y = 16
+		#Density of Silver Ore
+		#Range: 1 ~ 40
+		silver_density = 11
+
+	[WorldGen.Aluminum]
+		#Density of Aluminum Ore
+		#Range: 1 ~ 40
+		aluminum_density = 15
+		#Generate Aluminum Ore
+		generate_aluminum = true
+		#Minimum Y Level to Generate Aluminum
+		#Range: 1 ~ 128
+		aluminum_min_y = 25
+		#Maximum Y Level to Generate Aluminum
+		#Range: 1 ~ 128
+		aluminum_max_y = 55
+
+	[WorldGen."Loot Injection"]
+		#Add Unbreakable Obsidian Daggers to end city and other loot tables
+		generate_unbreakable_daggers = false
+		#Add Lerasium to dungeon and other loot tables
+		generate_lerasium = true
+
+	[WorldGen.Chromium]
+		#Maximum Y Level to Generate Chromium
+		#Range: 1 ~ 128
+		chromium_max_y = 45
+		#Generate Chromium Ore
+		generate_chromium = true
+		#Minimum Y Level to Generate Chromium
+		#Range: 1 ~ 128
+		chromium_min_y = 20
+		#Density of Chromium Ore
+		#Range: 1 ~ 40
+		chromium_density = 1
+
+	[WorldGen.Lead]
+		#Density of Lead Ore
+		#Range: 1 ~ 40
+		lead_density = 15
+		#Minimum Y Level to Generate Lead
+		#Range: 1 ~ 128
+		lead_min_y = 20
+		#Generate Lead Ore
+		generate_lead = true
+		#Maximum Y Level to Generate Lead
+		#Range: 1 ~ 128
+		lead_max_y = 40
+
+	[WorldGen.Tin]
+		#Density of Tin Ore
+		#Range: 1 ~ 40
+		tin_density = 15
+		#Generate Tin Ore
+		generate_tin = true
+		#Maximum Y Level to Generate Tin
+		#Range: 1 ~ 128
+		tin_max_y = 80
+		#Minimum Y Level to Generate Tin
+		#Range: 1 ~ 128
+		tin_min_y = 40
+
+	[WorldGen.Copper]
+		#Generate Copper Ore
+		generate_copper = false
+		#Density of Copper Ore
+		#Range: 1 ~ 40
+		copper_density = 15
+		#Maximum Y Level to Generate Copper
+		#Range: 1 ~ 128
+		copper_max_y = 70
+		#Minimum Y Level to Generate Copper
+		#Range: 1 ~ 128
+		copper_min_y = 30
+
+	[WorldGen.Zinc]
+		#Maximum Y Level to Generate Zinc
+		#Range: 1 ~ 128
+		zinc_max_y = 40
+		#Minimum Y Level to Generate Zinc
+		#Range: 1 ~ 128
+		zinc_min_y = 20
+		#Generate Zinc Ore
+		generate_zinc = true
+		#Density of Zinc Ore
+		#Range: 1 ~ 40
+		zinc_density = 12
+
+#Settings for the gameplay elements of the mod
+[Gameplay]
+	#Spawn players as a random Misting
+	random_mistings = true
+	#List of registry names of items and blocks that are counted as 'metal
+	whitelist = ["allomancy:allomantic_grinder", "allomancy:bendalloy_flakes", "allomancy:brass_flakes", "allomancy:brass_ingot", "allomancy:bronze_flakes", "allomancy:bronze_ingot", "allomancy:cadmium_flakes", "allomancy:cadmium_ingot", "allomancy:cadmium_ore", "allomancy:chromium_flakes", "allomancy:chromium_ingot", "allomancy:chromium_ore", "allomancy:coin_bag", "allomancy:copper_flakes", "allomancy:copper_ingot", "allomancy:copper_ore", "allomancy:duralumin_flakes", "allomancy:electrum_flakes", "allomancy:gold_flakes", "allomancy:iron_button", "allomancy:iron_flakes", "allomancy:iron_lever", "allomancy:lead_flakes", "allomancy:lead_ingot", "allomancy:lead_ore", "allomancy:lerasium_nugget", "allomancy:nicrosil_flakes", "allomancy:pewter_flakes", "allomancy:silver_flakes", "allomancy:silver_ingot", "allomancy:silver_ore", "allomancy:steel_flakes", "allomancy:tin_flakes", "allomancy:tin_ingot", "allomancy:tin_ore", "allomancy:vial", "allomancy:zinc_flakes", "allomancy:zinc_ingot", "allomancy:zinc_ore", "minecraft:activator_rail", "minecraft:ancient_debris", "minecraft:anvil", "minecraft:bell", "minecraft:bucket", "minecraft:cauldron", "minecraft:cauldron", "minecraft:chainmail_boots", "minecraft:chainmail_chestplate", "minecraft:chainmail_helmet", "minecraft:chainmail_leggings", "minecraft:chest_minecart", "minecraft:clock", "minecraft:compass", "minecraft:detector_rail", "minecraft:enchanted_golden_apple", "minecraft:flint_and_steel", "minecraft:furnace_minecart", "minecraft:gilded_blackstone", "minecraft:gold_block", "minecraft:gold_ingot", "minecraft:gold_nugget", "minecraft:gold_ore", "minecraft:golden_apple", "minecraft:golden_axe", "minecraft:golden_boots", "minecraft:golden_carrot", "minecraft:golden_chestplate", "minecraft:golden_helmet", "minecraft:golden_hoe", "minecraft:golden_horse_armor", "minecraft:golden_leggings", "minecraft:golden_pickaxe", "minecraft:golden_shovel", "minecraft:heavy_weighted_pressure_plate", "minecraft:hopper", "minecraft:hopper_minecart", "minecraft:iron_axe", "minecraft:iron_bars", "minecraft:iron_block", "minecraft:iron_boots", "minecraft:iron_chestplate", "minecraft:iron_door", "minecraft:iron_helmet", "minecraft:iron_hoe", "minecraft:iron_horse_armor", "minecraft:iron_ingot", "minecraft:iron_leggings", "minecraft:iron_nugget", "minecraft:iron_ore", "minecraft:iron_pickaxe", "minecraft:iron_shovel", "minecraft:iron_sword", "minecraft:iron_trapdoor", "minecraft:lantern", "minecraft:lava_bucket", "minecraft:light_weighted_pressure_plate", "minecraft:lodestone", "minecraft:milk_bucket", "minecraft:minecart", "minecraft:moving_piston", "minecraft:nether_gold_ore", "minecraft:netherite_axe", "minecraft:netherite_block", "minecraft:netherite_boots", "minecraft:netherite_chestplate", "minecraft:netherite_helmet", "minecraft:netherite_hoe", "minecraft:netherite_ingot", "minecraft:netherite_leggings", "minecraft:netherite_pickaxe", "minecraft:netherite_scrap", "minecraft:netherite_shovel", "minecraft:netherite_sword", "minecraft:piston", "minecraft:piston_head", "minecraft:powered_rail", "minecraft:rail", "minecraft:shears", "minecraft:soul_lantern", "minecraft:sticky_piston", "minecraft:tnt_minecart", "minecraft:trapped_chest", "minecraft:tripwire", "minecraft:water_bucket", "curios:crown", "supplementaries:copper_lantern", "iceandfire:silver_ore", "thermal:tin_ore", "compactores:compactore__minecraft__nether_gold_ore", "thermal:silver_ore", "iceandfire:copper_ore", "thermal:lead_ore", "create:zinc_ore", "thermal:copper_ore", "create:copper_ore", "mekanism:copper_ore", "compactores:compactore__minecraft__iron_ore", "mekanism:tin_ore", "mekanism:osmium_ore", "compactores:compactore__minecraft__gold_ore", "mekanism:lead_ore", "mekanism:uranium_ore", "thermal:nickel_ore", "iceandfire:copper_pile", "iceandfire:silver_pile", "iceandfire:gold_pile", "minecraft:crossbow", "minecraft:shield", "minecraft:tripwire_hook", "minecraft:chain", "minecraft:blast_furnace", "minecraft:stonecutter", "minecraft:smithing_table", "quark:mushroom_trapped_chest", "quark:jungle_trapped_chest", "quark:acacia_trapped_chest", "quark:birch_trapped_chest", "quark:spruce_trapped_chest", "quark:oak_trapped_chest", "thermal:wrench", "quark:gold_button", "quark:iron_button", "quark:dark_oak_trapped_chest", "quark:prismarine_trapped_chest", "quark:purpur_trapped_chest", "quark:nether_brick_trapped_chest", "quark:warped_trapped_chest", "quark:crimson_trapped_chest", "iceandfire:armor_copper_metal_boots", "iceandfire:armor_copper_metal_leggings", "iceandfire:armor_copper_metal_chestplate", "iceandfire:armor_copper_metal_helmet", "iceandfire:armor_silver_metal_boots", "iceandfire:armor_silver_metal_leggings", "iceandfire:armor_silver_metal_chestplate", "iceandfire:armor_silver_metal_helmet", "minecraft:damaged_anvil", "minecraft:chipped_anvil", "supplementaries:sconce_soul", "supplementaries:sconce", "supplementaries:sconce_lever", "quark:gold_bars", "supplementaries:gold_trapdoor", "supplementaries:gold_door", "quark:grate"]
+

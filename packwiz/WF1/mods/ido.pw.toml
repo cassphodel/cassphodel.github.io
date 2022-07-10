@@ -1,13 +1,13 @@
 name = "Idō (Deprecated)"
-filename = "ido-1.12.2-2.0.0-B.jar"
+filename = "ido-1.12.2-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01b9ef1d2d35260f152f55329495dd9edcc21e38"
+hash = "89003a158de4195672c5fae80e858698fb017e89"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3096693
+file-id = 2751053
 project-id = 322131

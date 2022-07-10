@@ -1,0 +1,13 @@
+name = "Ring of Repair [FORGE]"
+filename = "RingOfRepair-Forge-1.16.5-1.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a946548ec48d38fdc70ddbde7dd3883d07fa2ab9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3382039
+project-id = 332518

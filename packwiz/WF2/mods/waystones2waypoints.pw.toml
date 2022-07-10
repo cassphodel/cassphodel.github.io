@@ -1,0 +1,13 @@
+name = "Waystones2Waypoints"
+filename = "w2w-1.16.1-0.0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14194324fda0f1aadf5c2b91c776cb0c5e10633c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3172192
+project-id = 316632

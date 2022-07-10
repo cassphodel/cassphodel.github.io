@@ -1,0 +1,13 @@
+name = "SmoothFocus"
+filename = "smoothfocus-1.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92099aab8f51e34301cb7cda2043701a6d533521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3339325
+project-id = 470499

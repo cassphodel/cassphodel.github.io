@@ -1,0 +1,19 @@
+type = hud
+
+customization-meta {
+  backgroundimage = menu/wf2bg.png
+  renderorder = foreground
+  backgroundcolor = 
+}
+
+customization {
+  textcolor = ffffff
+  action = editforgestatustext
+  y = -1
+}
+
+customization {
+  textcolor = ffffff
+  action = editforgememoryinfo
+}
+

@@ -1,0 +1,13 @@
+name = "Davincis Vessels"
+filename = "davincisvessels-1.12-6.340-full.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffa4373915f4f8a2d0d87eafbb9e3292023e6441"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2499846
+project-id = 228029

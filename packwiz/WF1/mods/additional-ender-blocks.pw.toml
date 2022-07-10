@@ -1,0 +1,13 @@
+name = "Additional Ender Blocks"
+filename = "AdditionalEnderBlocks-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e1208b7c55b9e409f06c660a4daa51b6bec0982"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2726042
+project-id = 254848

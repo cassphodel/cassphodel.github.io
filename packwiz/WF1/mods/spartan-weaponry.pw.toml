@@ -1,0 +1,13 @@
+name = "Spartan Weaponry"
+filename = "SpartanWeaponry-1.12.2-beta-1.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "254775e457573926179bfef60b4e09de52e11951"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2830166
+project-id = 278141

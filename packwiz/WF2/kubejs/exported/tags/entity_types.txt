@@ -1,0 +1,91 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 26, 2021 4:40:28 PM
+
+#alchemist:thieving_piglins
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:zombified_piglin
+
+#forge:slimes
+- minecraft:slime
+- tconstruct:earth_slime
+- tconstruct:sky_slime
+- tconstruct:ender_slime
+
+#tconstruct:bouncy
+- tconstruct:sky_slime
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- supplementaries:rope_arrow
+- supplementaries:brick_projectile
+- mekanism:flame
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#extraboats:sitting_mobs
+- minecraft:zombie
+- minecraft:husk
+- minecraft:drowned
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- minecraft:vindicator
+- minecraft:pillager
+- minecraft:evoker
+- minecraft:illusioner
+- minecraft:piglin
+- minecraft:zombified_piglin
+- minecraft:enderman
+
+#tconstruct:melting/show_in_default
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:villager
+- minecraft:player
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- supplementaries:rope_arrow
+
+#tconstruct:bacon_producer
+- minecraft:pig
+- minecraft:piglin
+- minecraft:hoglin
+
+#alchemist:thieving_illagers
+- minecraft:pillager
+- minecraft:evoker
+- minecraft:vindicator
+- minecraft:ravager
+- minecraft:witch
+- minecraft:zombie_villager
+
+#tconstruct:piggybackpack_blacklist
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+- artifacts:mimic
+
+#tconstruct:melting/hide_in_default
+- minecraft:giant

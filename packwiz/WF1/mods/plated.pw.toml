@@ -1,0 +1,13 @@
+name = "Plated"
+filename = "Plated-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b61c98f688c919efeec239f819cc94a00c18942"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2602081
+project-id = 300647

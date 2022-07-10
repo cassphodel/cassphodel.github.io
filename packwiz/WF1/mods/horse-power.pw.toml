@@ -1,0 +1,13 @@
+name = "Horse Power"
+filename = "HorsePower-1.12.2-2.6.4.74.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b2f622eef1f47d01aa6237f9e7050347dee28b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2705433
+project-id = 270466

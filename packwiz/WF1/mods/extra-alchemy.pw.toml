@@ -1,0 +1,13 @@
+name = "Extra Alchemy"
+filename = "extraalchemy-0.3.8.6.1-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93b356197d733b1b5bc565aa7e2bc1adcbe5c4df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2623984
+project-id = 247357

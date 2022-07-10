@@ -1,0 +1,13 @@
+name = "[Backport] 1.13 Bubble Columns for 1.12"
+filename = "BubbleColumnElevator-1.0-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62ae2cf710f2ca8b059e371caa02380c4e3bf7cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2740208
+project-id = 327277

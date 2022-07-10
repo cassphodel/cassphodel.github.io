@@ -1,13 +1,13 @@
 name = "Chargers"
-filename = "Chargers-1.12.2-1.2.0.5.jar"
+filename = "Chargers-1.12.2-1.2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e69d3a55b4d5bbf7d8b6a0e395bf863aeae00fc4"
+hash = "b3f5eaba4259ebdfab3cb3b185d16bb2f9a631c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2989950
+file-id = 2676791
 project-id = 290433

@@ -1,0 +1,17 @@
+
+[client]
+	#Disable the keybind and activate excavation by crouching.
+	crouch = false
+
+[server]
+	#Maximum blocks to break with one excavation (Integer)
+	#Range: > 1
+	max = 64
+	#All blocks are placed in the player's inventory unless it is full (False [Will cause extra lag])
+	vacuum = true
+	#Does the player need to mine with a valid tool?
+	tool = false
+	#Multiply the default Minecraft block exhaustion by this much (Double)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	exhaustion = 1.0
+

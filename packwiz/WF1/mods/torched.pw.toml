@@ -1,0 +1,13 @@
+name = "Torched"
+filename = "Torched-1.12.2-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c51bbfec5594b89da8b4923fe839debb50158a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2487841
+project-id = 229093

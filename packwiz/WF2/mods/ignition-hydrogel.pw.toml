@@ -1,0 +1,13 @@
+name = "Ignition: HydroGel"
+filename = "HydroGel-1.16.4-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e73f5775166cc186fd11910ccc1ddc2f2d2c9208"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3172859
+project-id = 283859

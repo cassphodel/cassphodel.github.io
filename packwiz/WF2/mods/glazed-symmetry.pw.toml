@@ -1,0 +1,13 @@
+name = "Glazed Symmetry"
+filename = "glazedsymmetry-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d512a2a1027666203f74b09e432214b5778e765e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3112074
+project-id = 420093

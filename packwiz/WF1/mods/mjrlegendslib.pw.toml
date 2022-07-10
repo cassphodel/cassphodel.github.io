@@ -1,0 +1,13 @@
+name = "MJRLegends Lib"
+filename = "MJRLegendsLib-1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e37ff95a23009a41862815277daca7385eb18fe1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3029768
+project-id = 284331
