@@ -1,13 +1,14 @@
 name = "Hookshot"
-filename = "hookshot-r25.jar"
+filename = "hookshot-r24.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Llu0xJGi/versions/r24/hookshot-r24.jar"
 hash-format = "sha1"
-hash = "5b124e41fc761a21ac49fc663f9ad8d500320754"
-mode = "metadata:curseforge"
+hash = "c9c4a60dcfc5182834811c298763a2caac0a5158"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3668184
-project-id = 396512
+[update.modrinth]
+mod-id = "Llu0xJGi"
+version = "W8Ued0OO"

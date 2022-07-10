@@ -3,8 +3,8 @@ filename = "clickthrough-1.18.2-fabric0.47.10-0.4.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 description = "ClickThrough allows you to click through signs into chest. Disable if you find that annoying."
 
 [download]

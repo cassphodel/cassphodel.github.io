@@ -3,8 +3,8 @@ filename = "BetterControls-Fabric-1.18+v1.2.3.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 description = "Better Controls is a reimagining of Better Sprinting with even more customizability. It features several new keybindings and many configurable options for how sprinting, sneaking, and flying should behave."
 
 [download]

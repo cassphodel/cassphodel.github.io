@@ -3,8 +3,8 @@ filename = "journeymap-1.18.2-5.8.4-fabric.jar"
 side = "both"
 
 [option]
-optional = "true"
-default = "false"
+optional = true
+default = false
 description = "JourneyMap is a client+server mod for Forge, Fabric, and Quilt which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen. "
 
 [download]

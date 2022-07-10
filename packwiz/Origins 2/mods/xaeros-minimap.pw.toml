@@ -1,18 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_22.9.3_Fabric_1.18.2.jar"
+filename = "Xaeros_Minimap_22.11.1_Fabric_1.18.2.jar"
 side = "both"
-
-[option]
-optional = "true"
-default = "true"
-description = "Xaero's Minimap is a minimap that keeps to the aesthetic of vanilla Minecraft."
 
 [download]
 hash-format = "sha1"
-hash = "d69803acd7ac4c4e89a8565b1f155cf2729389b8"
+hash = "8d34ad434952efa9a500af68a2f55768adf1c07d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3835772
+file-id = 3861254
 project-id = 263420
+
+[option]
+optional = true
+description = "Xaero's Minimap is a minimap that keeps to the aesthetic of vanilla Minecraft."
+default = true

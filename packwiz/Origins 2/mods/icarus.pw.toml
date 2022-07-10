@@ -1,13 +1,14 @@
 name = "Icarus"
-filename = "icarus-1.11.jar"
+filename = "icarus-1.9.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/1.9/icarus-1.9.jar"
 hash-format = "sha1"
-hash = "8d545b1998398230d4f62f18ce4d4b0714289a96"
-mode = "metadata:curseforge"
+hash = "89c93767bdd9d480282cfb0ce4f636b5a2b9415f"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3748670
-project-id = 428151
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "xer5tIjB"

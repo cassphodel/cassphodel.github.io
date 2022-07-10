@@ -3,8 +3,8 @@ filename = "advancements-enlarger-0.2.4.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 description = "This mod makes the Advancement window larger and easier to scroll through. Disable to restore it to its original appearence."
 
 [download]

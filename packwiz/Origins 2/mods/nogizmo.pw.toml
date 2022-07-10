@@ -3,8 +3,8 @@ filename = "nogizmo-mc1.18-1.5.jar"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 description = "nogizmo disables the 3D crosshair present in F3. Disable if you like having it."
 
 [download]

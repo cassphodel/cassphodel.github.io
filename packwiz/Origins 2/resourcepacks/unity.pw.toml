@@ -3,8 +3,8 @@ filename = "Unity-1.18.X-Base-2.4.1.zip"
 side = "client"
 
 [option]
-optional = "true"
-default = "false"
+optional = true
+default = false
 description = "Unity is a resource pack that  follows the traditional Minecraft aesthetics but adds subtle depth and more natural colors."
 
 [download]

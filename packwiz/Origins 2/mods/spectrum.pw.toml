@@ -1,13 +1,14 @@
 name = "Spectrum"
-filename = "spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
+filename = "spectrum-1.4.2-1.18.2-chaos_and_exploration.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.2/spectrum-1.4.2-1.18.2-chaos_and_exploration.jar"
 hash-format = "sha1"
-hash = "0da4414b382aec36fb6f93f351c35d1f32ede745"
-mode = "metadata:curseforge"
+hash = "8bdf5bc7945eed55aab894fdb529ec2bd753b4a2"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3820749
-project-id = 556967
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "vyHMKxIV"

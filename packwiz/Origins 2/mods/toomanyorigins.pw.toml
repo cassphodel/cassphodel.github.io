@@ -3,11 +3,12 @@ filename = "TooManyOrigins-1.18.2-0.5.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/v0.5.1/TooManyOrigins-1.18.2-0.5.1.jar"
 hash-format = "sha1"
 hash = "b19b74111690f1e21c1e752c291fb3b733bc6bb8"
-mode = "metadata:curseforge"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3760937
-project-id = 469658
+[update.modrinth]
+mod-id = "xDjN28OB"
+version = "eyQEp7Bd"

@@ -3,8 +3,8 @@ filename = "Vanilla Tweaks_Origins 2.zip"
 side = "client"
 
 [option]
-optional = "true"
-default = "true"
+optional = true
+default = true
 description = "Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. The website includes a picker with which you can create your very own collection of tweaks to be included in your game. You pick and choose, we do the rest!"
 
 [download]

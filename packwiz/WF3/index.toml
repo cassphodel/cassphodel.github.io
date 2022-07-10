@@ -76,6 +76,11 @@ hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "e4cec470bddf5686f417a70d55ca82b6c1acfd377d88625e16809e6037fe0d64"
+metafile = true
+
+[[files]]
 file = "mods/build-guide.pw.toml"
 hash = "fe4f6b72493d373bbc191358292343447bdb12673b99c8b366ab41c4a1964289"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "c82024b3e8bdf4da9bda4df8e633bb456b795029a76723305e8527a84eafb1b8"
+hash = "043c6d94ff1e794d4774b53515d504e745e8e8d790966ff648d000c19c31b394"
 metafile = true
 
 [[files]]
@@ -236,14 +241,8 @@ hash = "91ba771c9abda115d6ea9d149d108320e334254343d2101679b689d3c473d7f7"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "30df80062e88163a7521407b764c89eaa4d5cef1318ed77e9357c13ac1544ba5"
-metafile = true
-
-[[files]]
-file = "mods/hourglass.pw.toml"
-hash = "276fb77b093f87f45c5dcee251b3bee680f7a386692c7a3afea7547d2cce66a3"
-metafile = true
+file = "mods/hexerei-0.1.19.jar"
+hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 
 [[files]]
 file = "mods/i-like-wood.pw.toml"
@@ -263,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "a40004e8a3a703d72e2fd185dca86802d41a4544341011d9dc6ffa520626560e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
 metafile = true
 
 [[files]]
@@ -352,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
+hash = "4f574850ac1c2c0c4285328c3c6d683633e171c2c702f5964b617d1f434f932d"
 metafile = true
 
 [[files]]
@@ -393,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
-metafile = true
-
-[[files]]
-file = "mods/player-tabs.pw.toml"
-hash = "3cd829cb08af20c1bb1564e0c7b0552702dbcff3bb7d0aeb0126205d4facbc55"
 metafile = true
 
 [[files]]
@@ -447,7 +446,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3a9ded6b5eda0e2c88fb2966f3f5f3e3671ff6bfd4c0df2254f0dc5a450ef185"
+hash = "877b00cd8019df4ed2e5a49a4f9402e95d7f940f05b9d46c5b3d8d464705ba1c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "08e834ca25af8ff3bed6babe64fde6309c53032ed1c50fe302a4270372b90786"
 metafile = true
 
 [[files]]
