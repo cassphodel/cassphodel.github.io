@@ -50,7 +50,7 @@ hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "1f035703608156ac1832086df81cc8577d574925b0ccd122a31533ace71095ec"
+hash = "e3f5447c955e63d5b123ab51b265fbe43b857c578e597c7d0198b28a65acc8ef"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -59,15 +59,6 @@ hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "d903ffa69693e158bf5c2d65b5fcc7cae9ca834e3bbf806c9206fcb6b0b23aa1"
-
-[[files]]
-file = "mods/advancements-enlarger.pw.toml"
-hash = "d8540cec059a44ed4bde6463e43f08dbaaabb306f7790c5fde0a5c62517ae09a"
-metafile = true
-
-[[files]]
-file = "mods/afk-attack.jar"
-hash = "f382131ca5d472b3c692fe2d68cd311f0ecd16c6e4613f244a2d691d0a3b4623"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
