@@ -1,19 +1,18 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-1.6.5a-1.19.jar"
+filename = "DistantHorizons-1.6.7a-1.19.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Distant Horizons adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances. "
-
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.19/DistantHorizons-1.6.5a-1.19.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar"
 hash-format = "sha1"
-hash = "40b3538f6aa8fd94aa01738c273f7741083627c5"
+hash = "f8dfdca39c400c1660526b5311ea59339b0a014e"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "QdxhQapq"
+version = "ArHY9dmV"
+
+[option]
+optional = true
+description = "Distant Horizons adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances. "

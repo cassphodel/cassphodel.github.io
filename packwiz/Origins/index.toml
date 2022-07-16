@@ -949,6 +949,11 @@ hash = "5373a0312985010b785712907115ecafda64b2172bddb018717b87981ccdc9c6"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric.pw.toml"
+hash = "3eec176f7eeb1ef827c9c0b9f1d59cb3ff3bc992c06923845e1c3f2ac8523896"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu_fabric_1.7.1-1_MC_1.16.3-1.16.5.jar"
 hash = "f74f3b3ed56200591206431bcd58176e3d12348dd6b91c8b34a139cc6986035a"
 
@@ -988,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5ad3b8f83668ed98de4e73c33120ea1ca60bc818c6b08427ca5999d4961fdd73"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "7ef7633cce96f72d3ee7ed26a4b3737b978d47b14ba7158ef047e30365f5d796"
 metafile = true
 
 [[files]]

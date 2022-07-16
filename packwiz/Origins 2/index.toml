@@ -5285,6 +5285,11 @@ file = "mods/charm-fabric-cassflux-1.18-4.1.0.jar"
 hash = "151f60239e0aa64ea89dfa105ff606f4f244cbc489ac505c465b5e624d7d1d4f"
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "865086a8214362cee9671154ed0cdc7eb22cc06d1a95b848bf991007d09ba0e1"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "8a6a2f09446e99d1688d3a871ad9deff140f20bfc13e5bb90a2a595a75a54db5"
 metafile = true

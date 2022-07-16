@@ -1,0 +1,8 @@
+name = "Starlight"
+filename = "starlight-fabric-1.0.0-RC2-1.16.x.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar"
+hash-format = "sha1"
+hash = "271140e9218a5b5b12bc05953a5860b47420da16"
